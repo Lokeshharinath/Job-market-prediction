@@ -91,6 +91,6 @@ python scrapejobs.py
 **Lokesh Harinath**  
 Master's Student  
 📧 glharinath1998@gmail.com  
-🔗 [GitHub](https://github.com/Lokeshharinath) • [LinkedIn](https://linkedin.com/in/lokesh-harinath-a8b21b195)
+🔗 [GitHub](https://github.com/Lokeshharinath) • [LinkedIn]([https://linkedin.com/in/lokesh-harinath-a8b21b195](https://www.linkedin.com/in/lokesh-harinath-gonthina-a8b21b195/))
 
 ---
