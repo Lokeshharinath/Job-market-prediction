@@ -1,0 +1,5446 @@
+location,salary_bin,job_count
+"93043, CA, USA",Low,0
+"93043, CA, USA",Medium,1
+"93043, CA, USA",High,0
+"93043, CA, USA",Very High,0
+"93043, CA, USA",Ultra High,0
+"AK, US",Low,0
+"AK, US",Medium,0
+"AK, US",High,0
+"AK, US",Very High,0
+"AK, US",Ultra High,1
+"AZ, US",Low,0
+"AZ, US",Medium,0
+"AZ, US",High,1
+"AZ, US",Very High,0
+"AZ, US",Ultra High,0
+"Abbott Park, IL",Low,1
+"Abbott Park, IL",Medium,0
+"Abbott Park, IL",High,0
+"Abbott Park, IL",Very High,0
+"Abbott Park, IL",Ultra High,0
+"Aberdeen, WA, USA",Low,0
+"Aberdeen, WA, USA",Medium,1
+"Aberdeen, WA, USA",High,0
+"Aberdeen, WA, USA",Very High,0
+"Aberdeen, WA, USA",Ultra High,0
+"Addison, TX, US",Low,0
+"Addison, TX, US",Medium,0
+"Addison, TX, US",High,0
+"Addison, TX, US",Very High,1
+"Addison, TX, US",Ultra High,0
+"Aiken, SC, US",Low,0
+"Aiken, SC, US",Medium,0
+"Aiken, SC, US",High,1
+"Aiken, SC, US",Very High,0
+"Aiken, SC, US",Ultra High,0
+"Alabama, AL, USA",Low,0
+"Alabama, AL, USA",Medium,1
+"Alabama, AL, USA",High,0
+"Alabama, AL, USA",Very High,0
+"Alabama, AL, USA",Ultra High,0
+"Alameda, CA",Low,0
+"Alameda, CA",Medium,0
+"Alameda, CA",High,1
+"Alameda, CA",Very High,0
+"Alameda, CA",Ultra High,0
+"Alameda, CA, US",Low,0
+"Alameda, CA, US",Medium,0
+"Alameda, CA, US",High,1
+"Alameda, CA, US",Very High,0
+"Alameda, CA, US",Ultra High,0
+"Alameda, CA, USA",Low,0
+"Alameda, CA, USA",Medium,2
+"Alameda, CA, USA",High,0
+"Alameda, CA, USA",Very High,0
+"Alameda, CA, USA",Ultra High,0
+"Albany, NY",Low,1
+"Albany, NY",Medium,2
+"Albany, NY",High,1
+"Albany, NY",Very High,0
+"Albany, NY",Ultra High,0
+"Albany, NY, US",Low,1
+"Albany, NY, US",Medium,1
+"Albany, NY, US",High,1
+"Albany, NY, US",Very High,0
+"Albany, NY, US",Ultra High,0
+"Albany, NY, USA",Low,0
+"Albany, NY, USA",Medium,1
+"Albany, NY, USA",High,0
+"Albany, NY, USA",Very High,0
+"Albany, NY, USA",Ultra High,0
+"Albany, OR, USA",Low,0
+"Albany, OR, USA",Medium,1
+"Albany, OR, USA",High,0
+"Albany, OR, USA",Very High,0
+"Albany, OR, USA",Ultra High,0
+"Albuquerque, NM",Low,0
+"Albuquerque, NM",Medium,4
+"Albuquerque, NM",High,1
+"Albuquerque, NM",Very High,0
+"Albuquerque, NM",Ultra High,0
+"Albuquerque, NM, US",Low,0
+"Albuquerque, NM, US",Medium,3
+"Albuquerque, NM, US",High,3
+"Albuquerque, NM, US",Very High,0
+"Albuquerque, NM, US",Ultra High,0
+"Albuquerque, NM, USA",Low,1
+"Albuquerque, NM, USA",Medium,3
+"Albuquerque, NM, USA",High,0
+"Albuquerque, NM, USA",Very High,0
+"Albuquerque, NM, USA",Ultra High,0
+"Alexandria, VA",Low,0
+"Alexandria, VA",Medium,2
+"Alexandria, VA",High,0
+"Alexandria, VA",Very High,0
+"Alexandria, VA",Ultra High,0
+"Alhambra, CA, USA",Low,1
+"Alhambra, CA, USA",Medium,3
+"Alhambra, CA, USA",High,0
+"Alhambra, CA, USA",Very High,0
+"Alhambra, CA, USA",Ultra High,0
+"Aliso Viejo, CA, USA",Low,0
+"Aliso Viejo, CA, USA",Medium,1
+"Aliso Viejo, CA, USA",High,0
+"Aliso Viejo, CA, USA",Very High,0
+"Aliso Viejo, CA, USA",Ultra High,0
+"Allegan, MI, USA",Low,0
+"Allegan, MI, USA",Medium,1
+"Allegan, MI, USA",High,0
+"Allegan, MI, USA",Very High,0
+"Allegan, MI, USA",Ultra High,0
+"Allentown, PA",Low,0
+"Allentown, PA",Medium,1
+"Allentown, PA",High,0
+"Allentown, PA",Very High,0
+"Allentown, PA",Ultra High,0
+"Allentown, PA, US",Low,0
+"Allentown, PA, US",Medium,1
+"Allentown, PA, US",High,0
+"Allentown, PA, US",Very High,0
+"Allentown, PA, US",Ultra High,0
+"Alpharetta, GA",Low,0
+"Alpharetta, GA",Medium,1
+"Alpharetta, GA",High,0
+"Alpharetta, GA",Very High,0
+"Alpharetta, GA",Ultra High,0
+"Alpharetta, GA, US",Low,0
+"Alpharetta, GA, US",Medium,2
+"Alpharetta, GA, US",High,0
+"Alpharetta, GA, US",Very High,0
+"Alpharetta, GA, US",Ultra High,0
+"Ames, IA, USA",Low,0
+"Ames, IA, USA",Medium,1
+"Ames, IA, USA",High,0
+"Ames, IA, USA",Very High,0
+"Ames, IA, USA",Ultra High,0
+"Amherst, NY",Low,0
+"Amherst, NY",Medium,0
+"Amherst, NY",High,1
+"Amherst, NY",Very High,0
+"Amherst, NY",Ultra High,0
+"Anaheim, CA, USA",Low,0
+"Anaheim, CA, USA",Medium,4
+"Anaheim, CA, USA",High,1
+"Anaheim, CA, USA",Very High,0
+"Anaheim, CA, USA",Ultra High,0
+"Anchorage, AK",Low,0
+"Anchorage, AK",Medium,1
+"Anchorage, AK",High,0
+"Anchorage, AK",Very High,0
+"Anchorage, AK",Ultra High,0
+"Anchorage, AK, USA",Low,0
+"Anchorage, AK, USA",Medium,4
+"Anchorage, AK, USA",High,0
+"Anchorage, AK, USA",Very High,0
+"Anchorage, AK, USA",Ultra High,0
+"Andalusia, AL",Low,0
+"Andalusia, AL",Medium,1
+"Andalusia, AL",High,0
+"Andalusia, AL",Very High,0
+"Andalusia, AL",Ultra High,0
+"Andalusia, AL, US",Low,0
+"Andalusia, AL, US",Medium,1
+"Andalusia, AL, US",High,0
+"Andalusia, AL, US",Very High,0
+"Andalusia, AL, US",Ultra High,0
+"Andover, MA",Low,0
+"Andover, MA",Medium,1
+"Andover, MA",High,0
+"Andover, MA",Very High,0
+"Andover, MA",Ultra High,0
+"Andrews AFB, MD",Low,0
+"Andrews AFB, MD",Medium,0
+"Andrews AFB, MD",High,1
+"Andrews AFB, MD",Very High,0
+"Andrews AFB, MD",Ultra High,0
+"Andrews AFB, MD, US",Low,0
+"Andrews AFB, MD, US",Medium,1
+"Andrews AFB, MD, US",High,0
+"Andrews AFB, MD, US",Very High,0
+"Andrews AFB, MD, US",Ultra High,0
+"Ankeny, IA, USA",Low,0
+"Ankeny, IA, USA",Medium,1
+"Ankeny, IA, USA",High,0
+"Ankeny, IA, USA",Very High,0
+"Ankeny, IA, USA",Ultra High,0
+"Ann Arbor, MI",Low,0
+"Ann Arbor, MI",Medium,3
+"Ann Arbor, MI",High,0
+"Ann Arbor, MI",Very High,0
+"Ann Arbor, MI",Ultra High,0
+"Ann Arbor, MI, US",Low,0
+"Ann Arbor, MI, US",Medium,3
+"Ann Arbor, MI, US",High,1
+"Ann Arbor, MI, US",Very High,0
+"Ann Arbor, MI, US",Ultra High,0
+"Antioch, CA, USA",Low,0
+"Antioch, CA, USA",Medium,1
+"Antioch, CA, USA",High,0
+"Antioch, CA, USA",Very High,0
+"Antioch, CA, USA",Ultra High,0
+"Appleton, WI, USA",Low,0
+"Appleton, WI, USA",Medium,1
+"Appleton, WI, USA",High,0
+"Appleton, WI, USA",Very High,0
+"Appleton, WI, USA",Ultra High,0
+"Arden Hills, MN",Low,0
+"Arden Hills, MN",Medium,1
+"Arden Hills, MN",High,0
+"Arden Hills, MN",Very High,0
+"Arden Hills, MN",Ultra High,0
+"Arizona, TX",Low,0
+"Arizona, TX",Medium,0
+"Arizona, TX",High,1
+"Arizona, TX",Very High,0
+"Arizona, TX",Ultra High,0
+"Arlington, TX, US",Low,0
+"Arlington, TX, US",Medium,1
+"Arlington, TX, US",High,0
+"Arlington, TX, US",Very High,0
+"Arlington, TX, US",Ultra High,0
+"Arlington, VA",Low,0
+"Arlington, VA",Medium,6
+"Arlington, VA",High,2
+"Arlington, VA",Very High,0
+"Arlington, VA",Ultra High,0
+"Arlington, VA, US",Low,0
+"Arlington, VA, US",Medium,6
+"Arlington, VA, US",High,4
+"Arlington, VA, US",Very High,0
+"Arlington, VA, US",Ultra High,1
+"Arlington, VA, USA",Low,0
+"Arlington, VA, USA",Medium,3
+"Arlington, VA, USA",High,1
+"Arlington, VA, USA",Very High,0
+"Arlington, VA, USA",Ultra High,0
+"Arroyo Grande, CA",Low,0
+"Arroyo Grande, CA",Medium,1
+"Arroyo Grande, CA",High,0
+"Arroyo Grande, CA",Very High,0
+"Arroyo Grande, CA",Ultra High,0
+"Ashburn, VA",Low,0
+"Ashburn, VA",Medium,1
+"Ashburn, VA",High,0
+"Ashburn, VA",Very High,0
+"Ashburn, VA",Ultra High,0
+"Ashburn, VA, US",Low,0
+"Ashburn, VA, US",Medium,1
+"Ashburn, VA, US",High,0
+"Ashburn, VA, US",Very High,0
+"Ashburn, VA, US",Ultra High,0
+"Asheville, NC, US",Low,0
+"Asheville, NC, US",Medium,1
+"Asheville, NC, US",High,0
+"Asheville, NC, US",Very High,0
+"Asheville, NC, US",Ultra High,0
+"Atlanta, GA",Low,0
+"Atlanta, GA",Medium,6
+"Atlanta, GA",High,3
+"Atlanta, GA",Very High,0
+"Atlanta, GA",Ultra High,0
+"Atlanta, GA, US",Low,1
+"Atlanta, GA, US",Medium,9
+"Atlanta, GA, US",High,3
+"Atlanta, GA, US",Very High,1
+"Atlanta, GA, US",Ultra High,1
+"Atlanta, GA, USA",Low,3
+"Atlanta, GA, USA",Medium,6
+"Atlanta, GA, USA",High,1
+"Atlanta, GA, USA",Very High,0
+"Atlanta, GA, USA",Ultra High,0
+"Auburn Hills, MI",Low,1
+"Auburn Hills, MI",Medium,0
+"Auburn Hills, MI",High,0
+"Auburn Hills, MI",Very High,0
+"Auburn Hills, MI",Ultra High,0
+"Auburn, WA, USA",Low,0
+"Auburn, WA, USA",Medium,1
+"Auburn, WA, USA",High,0
+"Auburn, WA, USA",Very High,0
+"Auburn, WA, USA",Ultra High,0
+"Augusta, ME, US",Low,0
+"Augusta, ME, US",Medium,1
+"Augusta, ME, US",High,0
+"Augusta, ME, US",Very High,0
+"Augusta, ME, US",Ultra High,0
+"Aurora, NE, US",Low,0
+"Aurora, NE, US",Medium,1
+"Aurora, NE, US",High,0
+"Aurora, NE, US",Very High,0
+"Aurora, NE, US",Ultra High,0
+"Austin, TX",Low,5
+"Austin, TX",Medium,12
+"Austin, TX",High,3
+"Austin, TX",Very High,0
+"Austin, TX",Ultra High,0
+"Austin, TX, US",Low,9
+"Austin, TX, US",Medium,10
+"Austin, TX, US",High,4
+"Austin, TX, US",Very High,0
+"Austin, TX, US",Ultra High,0
+"Austin, TX, USA",Low,4
+"Austin, TX, USA",Medium,9
+"Austin, TX, USA",High,1
+"Austin, TX, USA",Very High,0
+"Austin, TX, USA",Ultra High,0
+"Aventura, FL, US",Low,0
+"Aventura, FL, US",Medium,2
+"Aventura, FL, US",High,0
+"Aventura, FL, US",Very High,0
+"Aventura, FL, US",Ultra High,0
+"Bakersfield, CA, USA",Low,0
+"Bakersfield, CA, USA",Medium,1
+"Bakersfield, CA, USA",High,0
+"Bakersfield, CA, USA",Very High,0
+"Bakersfield, CA, USA",Ultra High,0
+"Ballwin, MO, USA",Low,0
+"Ballwin, MO, USA",Medium,1
+"Ballwin, MO, USA",High,0
+"Ballwin, MO, USA",Very High,0
+"Ballwin, MO, USA",Ultra High,0
+"Baltimore, MD",Low,1
+"Baltimore, MD",Medium,0
+"Baltimore, MD",High,0
+"Baltimore, MD",Very High,0
+"Baltimore, MD",Ultra High,0
+"Baltimore, MD, US",Low,1
+"Baltimore, MD, US",Medium,0
+"Baltimore, MD, US",High,0
+"Baltimore, MD, US",Very High,0
+"Baltimore, MD, US",Ultra High,0
+"Baltimore, MD, USA",Low,0
+"Baltimore, MD, USA",Medium,2
+"Baltimore, MD, USA",High,0
+"Baltimore, MD, USA",Very High,0
+"Baltimore, MD, USA",Ultra High,0
+"Bartow, FL, USA",Low,0
+"Bartow, FL, USA",Medium,1
+"Bartow, FL, USA",High,0
+"Bartow, FL, USA",Very High,0
+"Bartow, FL, USA",Ultra High,0
+"Baton Rouge, LA",Low,1
+"Baton Rouge, LA",Medium,0
+"Baton Rouge, LA",High,0
+"Baton Rouge, LA",Very High,0
+"Baton Rouge, LA",Ultra High,0
+"Baton Rouge, LA, US",Low,0
+"Baton Rouge, LA, US",Medium,2
+"Baton Rouge, LA, US",High,0
+"Baton Rouge, LA, US",Very High,0
+"Baton Rouge, LA, US",Ultra High,0
+"Baton Rouge, LA, USA",Low,1
+"Baton Rouge, LA, USA",Medium,0
+"Baton Rouge, LA, USA",High,0
+"Baton Rouge, LA, USA",Very High,0
+"Baton Rouge, LA, USA",Ultra High,0
+"Beaverton, OR",Low,1
+"Beaverton, OR",Medium,0
+"Beaverton, OR",High,0
+"Beaverton, OR",Very High,0
+"Beaverton, OR",Ultra High,0
+"Beaverton, OR, USA",Low,1
+"Beaverton, OR, USA",Medium,5
+"Beaverton, OR, USA",High,0
+"Beaverton, OR, USA",Very High,0
+"Beaverton, OR, USA",Ultra High,0
+"Bedford Park, IL, US",Low,0
+"Bedford Park, IL, US",Medium,1
+"Bedford Park, IL, US",High,0
+"Bedford Park, IL, US",Very High,0
+"Bedford Park, IL, US",Ultra High,0
+"Bedford, MA, USA",Low,0
+"Bedford, MA, USA",Medium,1
+"Bedford, MA, USA",High,0
+"Bedford, MA, USA",Very High,0
+"Bedford, MA, USA",Ultra High,0
+"Bee Cave, TX",Low,0
+"Bee Cave, TX",Medium,1
+"Bee Cave, TX",High,0
+"Bee Cave, TX",Very High,0
+"Bee Cave, TX",Ultra High,0
+"Bell Gardens, CA, USA",Low,1
+"Bell Gardens, CA, USA",Medium,0
+"Bell Gardens, CA, USA",High,0
+"Bell Gardens, CA, USA",Very High,0
+"Bell Gardens, CA, USA",Ultra High,0
+"Bellaire, TX, US",Low,0
+"Bellaire, TX, US",Medium,1
+"Bellaire, TX, US",High,0
+"Bellaire, TX, US",Very High,0
+"Bellaire, TX, US",Ultra High,0
+"Belle Mead, NJ, US",Low,0
+"Belle Mead, NJ, US",Medium,1
+"Belle Mead, NJ, US",High,0
+"Belle Mead, NJ, US",Very High,0
+"Belle Mead, NJ, US",Ultra High,0
+"Bellevue, WA",Low,0
+"Bellevue, WA",Medium,2
+"Bellevue, WA",High,1
+"Bellevue, WA",Very High,0
+"Bellevue, WA",Ultra High,0
+"Bellevue, WA, US",Low,0
+"Bellevue, WA, US",Medium,2
+"Bellevue, WA, US",High,0
+"Bellevue, WA, US",Very High,0
+"Bellevue, WA, US",Ultra High,0
+"Bellevue, WA, USA",Low,2
+"Bellevue, WA, USA",Medium,4
+"Bellevue, WA, USA",High,2
+"Bellevue, WA, USA",Very High,0
+"Bellevue, WA, USA",Ultra High,0
+"Bend, OR",Low,0
+"Bend, OR",Medium,2
+"Bend, OR",High,0
+"Bend, OR",Very High,0
+"Bend, OR",Ultra High,0
+"Bend, OR, USA",Low,0
+"Bend, OR, USA",Medium,1
+"Bend, OR, USA",High,0
+"Bend, OR, USA",Very High,0
+"Bend, OR, USA",Ultra High,0
+"Benton Harbor, MI",Low,0
+"Benton Harbor, MI",Medium,1
+"Benton Harbor, MI",High,0
+"Benton Harbor, MI",Very High,0
+"Benton Harbor, MI",Ultra High,0
+"Berkeley, CA, US",Low,0
+"Berkeley, CA, US",Medium,0
+"Berkeley, CA, US",High,1
+"Berkeley, CA, US",Very High,0
+"Berkeley, CA, US",Ultra High,0
+"Berkeley, CA, USA",Low,0
+"Berkeley, CA, USA",Medium,0
+"Berkeley, CA, USA",High,1
+"Berkeley, CA, USA",Very High,0
+"Berkeley, CA, USA",Ultra High,0
+"Bethesda, MD",Low,0
+"Bethesda, MD",Medium,1
+"Bethesda, MD",High,0
+"Bethesda, MD",Very High,0
+"Bethesda, MD",Ultra High,0
+"Bethlehem, GA",Low,0
+"Bethlehem, GA",Medium,1
+"Bethlehem, GA",High,0
+"Bethlehem, GA",Very High,0
+"Bethlehem, GA",Ultra High,0
+"Bethlehem, PA, US",Low,0
+"Bethlehem, PA, US",Medium,2
+"Bethlehem, PA, US",High,0
+"Bethlehem, PA, US",Very High,0
+"Bethlehem, PA, US",Ultra High,0
+"Bethpage, NY, US",Low,0
+"Bethpage, NY, US",Medium,1
+"Bethpage, NY, US",High,0
+"Bethpage, NY, US",Very High,0
+"Bethpage, NY, US",Ultra High,0
+"Beverly Hills, CA, USA",Low,0
+"Beverly Hills, CA, USA",Medium,1
+"Beverly Hills, CA, USA",High,0
+"Beverly Hills, CA, USA",Very High,0
+"Beverly Hills, CA, USA",Ultra High,0
+"Beverly Hills, FL",Low,1
+"Beverly Hills, FL",Medium,0
+"Beverly Hills, FL",High,0
+"Beverly Hills, FL",Very High,0
+"Beverly Hills, FL",Ultra High,0
+"Beverly Hills, FL, US",Low,0
+"Beverly Hills, FL, US",Medium,1
+"Beverly Hills, FL, US",High,0
+"Beverly Hills, FL, US",Very High,0
+"Beverly Hills, FL, US",Ultra High,0
+"Billings, MT, US",Low,2
+"Billings, MT, US",Medium,0
+"Billings, MT, US",High,0
+"Billings, MT, US",Very High,0
+"Billings, MT, US",Ultra High,0
+"Birmingham, AL",Low,0
+"Birmingham, AL",Medium,0
+"Birmingham, AL",High,0
+"Birmingham, AL",Very High,0
+"Birmingham, AL",Ultra High,1
+"Birmingham, AL, US",Low,0
+"Birmingham, AL, US",Medium,2
+"Birmingham, AL, US",High,0
+"Birmingham, AL, US",Very High,0
+"Birmingham, AL, US",Ultra High,0
+"Bismarck, ND, US",Low,1
+"Bismarck, ND, US",Medium,1
+"Bismarck, ND, US",High,0
+"Bismarck, ND, US",Very High,0
+"Bismarck, ND, US",Ultra High,0
+"Black River Falls, WI",Low,0
+"Black River Falls, WI",Medium,1
+"Black River Falls, WI",High,0
+"Black River Falls, WI",Very High,0
+"Black River Falls, WI",Ultra High,0
+"Black River Falls, WI, US",Low,1
+"Black River Falls, WI, US",Medium,0
+"Black River Falls, WI, US",High,0
+"Black River Falls, WI, US",Very High,0
+"Black River Falls, WI, US",Ultra High,0
+"Blacksburg, VA, US",Low,0
+"Blacksburg, VA, US",Medium,2
+"Blacksburg, VA, US",High,0
+"Blacksburg, VA, US",Very High,0
+"Blacksburg, VA, US",Ultra High,0
+"Bloomfield, CT, US",Low,0
+"Bloomfield, CT, US",Medium,0
+"Bloomfield, CT, US",High,1
+"Bloomfield, CT, US",Very High,0
+"Bloomfield, CT, US",Ultra High,0
+"Bloomington, MN, USA",Low,1
+"Bloomington, MN, USA",Medium,0
+"Bloomington, MN, USA",High,0
+"Bloomington, MN, USA",Very High,0
+"Bloomington, MN, USA",Ultra High,0
+"Boca Raton, FL",Low,0
+"Boca Raton, FL",Medium,1
+"Boca Raton, FL",High,1
+"Boca Raton, FL",Very High,0
+"Boca Raton, FL",Ultra High,0
+"Boca Raton, FL, US",Low,1
+"Boca Raton, FL, US",Medium,0
+"Boca Raton, FL, US",High,1
+"Boca Raton, FL, US",Very High,0
+"Boca Raton, FL, US",Ultra High,0
+"Boca Raton, FL, USA",Low,0
+"Boca Raton, FL, USA",Medium,1
+"Boca Raton, FL, USA",High,0
+"Boca Raton, FL, USA",Very High,0
+"Boca Raton, FL, USA",Ultra High,0
+"Bodega Bay, CA, USA",Low,0
+"Bodega Bay, CA, USA",Medium,1
+"Bodega Bay, CA, USA",High,0
+"Bodega Bay, CA, USA",Very High,0
+"Bodega Bay, CA, USA",Ultra High,0
+"Boiling Springs, Cleveland, NC",Low,0
+"Boiling Springs, Cleveland, NC",Medium,1
+"Boiling Springs, Cleveland, NC",High,0
+"Boiling Springs, Cleveland, NC",Very High,0
+"Boiling Springs, Cleveland, NC",Ultra High,0
+"Boiling Springs, NC, US",Low,0
+"Boiling Springs, NC, US",Medium,1
+"Boiling Springs, NC, US",High,0
+"Boiling Springs, NC, US",Very High,0
+"Boiling Springs, NC, US",Ultra High,0
+"Boise, ID, US",Low,0
+"Boise, ID, US",Medium,1
+"Boise, ID, US",High,0
+"Boise, ID, US",Very High,0
+"Boise, ID, US",Ultra High,0
+"Boise, ID, USA",Low,2
+"Boise, ID, USA",Medium,8
+"Boise, ID, USA",High,0
+"Boise, ID, USA",Very High,0
+"Boise, ID, USA",Ultra High,0
+"Bolingbrook, IL",Low,0
+"Bolingbrook, IL",Medium,1
+"Bolingbrook, IL",High,0
+"Bolingbrook, IL",Very High,0
+"Bolingbrook, IL",Ultra High,0
+"Boston Heights, OH, US",Low,0
+"Boston Heights, OH, US",Medium,1
+"Boston Heights, OH, US",High,0
+"Boston Heights, OH, US",Very High,0
+"Boston Heights, OH, US",Ultra High,0
+"Boston, MA",Low,0
+"Boston, MA",Medium,7
+"Boston, MA",High,6
+"Boston, MA",Very High,1
+"Boston, MA",Ultra High,0
+"Boston, MA, US",Low,0
+"Boston, MA, US",Medium,4
+"Boston, MA, US",High,7
+"Boston, MA, US",Very High,0
+"Boston, MA, US",Ultra High,0
+"Boston, MA, USA",Low,0
+"Boston, MA, USA",Medium,3
+"Boston, MA, USA",High,0
+"Boston, MA, USA",Very High,0
+"Boston, MA, USA",Ultra High,0
+"Boulder, CO",Low,0
+"Boulder, CO",Medium,1
+"Boulder, CO",High,0
+"Boulder, CO",Very High,0
+"Boulder, CO",Ultra High,0
+"Boulder, CO, US",Low,0
+"Boulder, CO, US",Medium,1
+"Boulder, CO, US",High,0
+"Boulder, CO, US",Very High,0
+"Boulder, CO, US",Ultra High,0
+"Bourbonnais, IL",Low,0
+"Bourbonnais, IL",Medium,1
+"Bourbonnais, IL",High,0
+"Bourbonnais, IL",Very High,0
+"Bourbonnais, IL",Ultra High,0
+"Bowie, MD, US",Low,0
+"Bowie, MD, US",Medium,0
+"Bowie, MD, US",High,1
+"Bowie, MD, US",Very High,0
+"Bowie, MD, US",Ultra High,0
+"Brea, CA",Low,0
+"Brea, CA",Medium,0
+"Brea, CA",High,1
+"Brea, CA",Very High,0
+"Brea, CA",Ultra High,0
+"Brea, CA, US",Low,1
+"Brea, CA, US",Medium,1
+"Brea, CA, US",High,0
+"Brea, CA, US",Very High,0
+"Brea, CA, US",Ultra High,0
+"Brea, CA, USA",Low,1
+"Brea, CA, USA",Medium,1
+"Brea, CA, USA",High,0
+"Brea, CA, USA",Very High,0
+"Brea, CA, USA",Ultra High,0
+"Bremerton, WA, USA",Low,0
+"Bremerton, WA, USA",Medium,1
+"Bremerton, WA, USA",High,1
+"Bremerton, WA, USA",Very High,0
+"Bremerton, WA, USA",Ultra High,0
+"Bridgewater, NJ, US",Low,0
+"Bridgewater, NJ, US",Medium,2
+"Bridgewater, NJ, US",High,0
+"Bridgewater, NJ, US",Very High,0
+"Bridgewater, NJ, US",Ultra High,0
+"Brisbane, CA, USA",Low,0
+"Brisbane, CA, USA",Medium,1
+"Brisbane, CA, USA",High,0
+"Brisbane, CA, USA",Very High,0
+"Brisbane, CA, USA",Ultra High,0
+"Bronx, NY, US",Low,1
+"Bronx, NY, US",Medium,0
+"Bronx, NY, US",High,0
+"Bronx, NY, US",Very High,0
+"Bronx, NY, US",Ultra High,0
+"Brooklyn, NY",Low,0
+"Brooklyn, NY",Medium,0
+"Brooklyn, NY",High,0
+"Brooklyn, NY",Very High,1
+"Brooklyn, NY",Ultra High,0
+"Brooklyn, OH",Low,0
+"Brooklyn, OH",Medium,2
+"Brooklyn, OH",High,0
+"Brooklyn, OH",Very High,0
+"Brooklyn, OH",Ultra High,0
+"Brooklyn, OH, US",Low,0
+"Brooklyn, OH, US",Medium,1
+"Brooklyn, OH, US",High,0
+"Brooklyn, OH, US",Very High,0
+"Brooklyn, OH, US",Ultra High,0
+"Brown Deer, WI, US",Low,0
+"Brown Deer, WI, US",Medium,1
+"Brown Deer, WI, US",High,0
+"Brown Deer, WI, US",Very High,0
+"Brown Deer, WI, US",Ultra High,0
+"Buena Park, CA, USA",Low,0
+"Buena Park, CA, USA",Medium,1
+"Buena Park, CA, USA",High,0
+"Buena Park, CA, USA",Very High,0
+"Buena Park, CA, USA",Ultra High,0
+"Buffalo, NY",Low,0
+"Buffalo, NY",Medium,1
+"Buffalo, NY",High,1
+"Buffalo, NY",Very High,0
+"Buffalo, NY",Ultra High,0
+"Buffalo, NY, US",Low,0
+"Buffalo, NY, US",Medium,1
+"Buffalo, NY, US",High,1
+"Buffalo, NY, US",Very High,0
+"Buffalo, NY, US",Ultra High,0
+"Buhler, KS, USA",Low,0
+"Buhler, KS, USA",Medium,1
+"Buhler, KS, USA",High,0
+"Buhler, KS, USA",Very High,0
+"Buhler, KS, USA",Ultra High,0
+"Burbank, CA",Low,0
+"Burbank, CA",Medium,1
+"Burbank, CA",High,0
+"Burbank, CA",Very High,0
+"Burbank, CA",Ultra High,0
+"Burbank, CA, US",Low,0
+"Burbank, CA, US",Medium,1
+"Burbank, CA, US",High,0
+"Burbank, CA, US",Very High,0
+"Burbank, CA, US",Ultra High,0
+"Burbank, CA, USA",Low,1
+"Burbank, CA, USA",Medium,2
+"Burbank, CA, USA",High,1
+"Burbank, CA, USA",Very High,0
+"Burbank, CA, USA",Ultra High,0
+"Burley, ID, USA",Low,0
+"Burley, ID, USA",Medium,1
+"Burley, ID, USA",High,0
+"Burley, ID, USA",Very High,0
+"Burley, ID, USA",Ultra High,0
+"Burlington, MA",Low,0
+"Burlington, MA",Medium,0
+"Burlington, MA",High,1
+"Burlington, MA",Very High,0
+"Burlington, MA",Ultra High,0
+"Burlington, NJ, USA",Low,0
+"Burlington, NJ, USA",Medium,1
+"Burlington, NJ, USA",High,0
+"Burlington, NJ, USA",Very High,0
+"Burlington, NJ, USA",Ultra High,0
+"Burnsville, NC",Low,0
+"Burnsville, NC",Medium,1
+"Burnsville, NC",High,0
+"Burnsville, NC",Very High,0
+"Burnsville, NC",Ultra High,0
+"Butler, PA",Low,0
+"Butler, PA",Medium,1
+"Butler, PA",High,0
+"Butler, PA",Very High,0
+"Butler, PA",Ultra High,0
+"Butte, MT",Low,0
+"Butte, MT",Medium,0
+"Butte, MT",High,1
+"Butte, MT",Very High,0
+"Butte, MT",Ultra High,0
+"Butte, MT, US",Low,0
+"Butte, MT, US",Medium,0
+"Butte, MT, US",High,1
+"Butte, MT, US",Very High,0
+"Butte, MT, US",Ultra High,0
+"Butte, MT, USA",Low,0
+"Butte, MT, USA",Medium,0
+"Butte, MT, USA",High,1
+"Butte, MT, USA",Very High,0
+"Butte, MT, USA",Ultra High,0
+"CA, US",Low,1
+"CA, US",Medium,2
+"CA, US",High,2
+"CA, US",Very High,0
+"CA, US",Ultra High,0
+"Calhoun, GA",Low,0
+"Calhoun, GA",Medium,1
+"Calhoun, GA",High,0
+"Calhoun, GA",Very High,0
+"Calhoun, GA",Ultra High,0
+"Calhoun, GA, US",Low,0
+"Calhoun, GA, US",Medium,1
+"Calhoun, GA, US",High,0
+"Calhoun, GA, US",Very High,0
+"Calhoun, GA, US",Ultra High,0
+"Camarillo, CA, USA",Low,0
+"Camarillo, CA, USA",Medium,1
+"Camarillo, CA, USA",High,0
+"Camarillo, CA, USA",Very High,0
+"Camarillo, CA, USA",Ultra High,0
+"Camas, WA, USA",Low,0
+"Camas, WA, USA",Medium,0
+"Camas, WA, USA",High,1
+"Camas, WA, USA",Very High,0
+"Camas, WA, USA",Ultra High,0
+"Cambridge, MA",Low,1
+"Cambridge, MA",Medium,0
+"Cambridge, MA",High,0
+"Cambridge, MA",Very High,0
+"Cambridge, MA",Ultra High,0
+"Cambridge, MA, US",Low,1
+"Cambridge, MA, US",Medium,0
+"Cambridge, MA, US",High,0
+"Cambridge, MA, US",Very High,0
+"Cambridge, MA, US",Ultra High,0
+"Cambridge, MA, USA",Low,0
+"Cambridge, MA, USA",Medium,1
+"Cambridge, MA, USA",High,0
+"Cambridge, MA, USA",Very High,0
+"Cambridge, MA, USA",Ultra High,0
+"Camden, NJ",Low,0
+"Camden, NJ",Medium,0
+"Camden, NJ",High,1
+"Camden, NJ",Very High,0
+"Camden, NJ",Ultra High,0
+"Canonsburg, PA",Low,0
+"Canonsburg, PA",Medium,1
+"Canonsburg, PA",High,0
+"Canonsburg, PA",Very High,0
+"Canonsburg, PA",Ultra High,0
+"Canonsburg, PA, US",Low,0
+"Canonsburg, PA, US",Medium,0
+"Canonsburg, PA, US",High,1
+"Canonsburg, PA, US",Very High,0
+"Canonsburg, PA, US",Ultra High,0
+"Canton, MA, US",Low,0
+"Canton, MA, US",Medium,1
+"Canton, MA, US",High,0
+"Canton, MA, US",Very High,0
+"Canton, MA, US",Ultra High,0
+"Canton, OH, US",Low,0
+"Canton, OH, US",Medium,2
+"Canton, OH, US",High,0
+"Canton, OH, US",Very High,0
+"Canton, OH, US",Ultra High,0
+"Canton, OH, USA",Low,0
+"Canton, OH, USA",Medium,1
+"Canton, OH, USA",High,0
+"Canton, OH, USA",Very High,0
+"Canton, OH, USA",Ultra High,0
+"Cape Canaveral, FL",Low,0
+"Cape Canaveral, FL",Medium,1
+"Cape Canaveral, FL",High,0
+"Cape Canaveral, FL",Very High,0
+"Cape Canaveral, FL",Ultra High,0
+"Cape Canaveral, FL, US",Low,0
+"Cape Canaveral, FL, US",Medium,1
+"Cape Canaveral, FL, US",High,0
+"Cape Canaveral, FL, US",Very High,0
+"Cape Canaveral, FL, US",Ultra High,0
+"Carlsbad, CA",Low,0
+"Carlsbad, CA",Medium,0
+"Carlsbad, CA",High,1
+"Carlsbad, CA",Very High,0
+"Carlsbad, CA",Ultra High,0
+"Carmel, IN, US",Low,0
+"Carmel, IN, US",Medium,2
+"Carmel, IN, US",High,0
+"Carmel, IN, US",Very High,0
+"Carmel, IN, US",Ultra High,0
+"Carson City, NV, US",Low,0
+"Carson City, NV, US",Medium,1
+"Carson City, NV, US",High,0
+"Carson City, NV, US",Very High,0
+"Carson City, NV, US",Ultra High,0
+"Cary, NC, US",Low,0
+"Cary, NC, US",Medium,1
+"Cary, NC, US",High,0
+"Cary, NC, US",Very High,0
+"Cary, NC, US",Ultra High,0
+"Casselberry, FL, US",Low,1
+"Casselberry, FL, US",Medium,0
+"Casselberry, FL, US",High,0
+"Casselberry, FL, US",Very High,0
+"Casselberry, FL, US",Ultra High,0
+"Casselberry, FL, USA",Low,1
+"Casselberry, FL, USA",Medium,0
+"Casselberry, FL, USA",High,0
+"Casselberry, FL, USA",Very High,0
+"Casselberry, FL, USA",Ultra High,0
+"Centennial, CO",Low,0
+"Centennial, CO",Medium,0
+"Centennial, CO",High,1
+"Centennial, CO",Very High,0
+"Centennial, CO",Ultra High,0
+"Center, GA, USA",Low,0
+"Center, GA, USA",Medium,1
+"Center, GA, USA",High,0
+"Center, GA, USA",Very High,0
+"Center, GA, USA",Ultra High,0
+"Century City, CA, US",Low,1
+"Century City, CA, US",Medium,0
+"Century City, CA, US",High,0
+"Century City, CA, US",Very High,0
+"Century City, CA, US",Ultra High,0
+"Cerritos, CA, USA",Low,0
+"Cerritos, CA, USA",Medium,0
+"Cerritos, CA, USA",High,1
+"Cerritos, CA, USA",Very High,0
+"Cerritos, CA, USA",Ultra High,0
+"Chamblee, GA, US",Low,0
+"Chamblee, GA, US",Medium,1
+"Chamblee, GA, US",High,0
+"Chamblee, GA, US",Very High,0
+"Chamblee, GA, US",Ultra High,0
+"Chantilly, VA",Low,0
+"Chantilly, VA",Medium,1
+"Chantilly, VA",High,1
+"Chantilly, VA",Very High,0
+"Chantilly, VA",Ultra High,0
+"Chantilly, VA, US",Low,0
+"Chantilly, VA, US",Medium,1
+"Chantilly, VA, US",High,1
+"Chantilly, VA, US",Very High,0
+"Chantilly, VA, US",Ultra High,0
+"Chantilly, VA, USA",Low,0
+"Chantilly, VA, USA",Medium,1
+"Chantilly, VA, USA",High,0
+"Chantilly, VA, USA",Very High,0
+"Chantilly, VA, USA",Ultra High,0
+"Chapel Hill, NC",Low,1
+"Chapel Hill, NC",Medium,0
+"Chapel Hill, NC",High,0
+"Chapel Hill, NC",Very High,0
+"Chapel Hill, NC",Ultra High,0
+"Chapel Hill, NC, US",Low,1
+"Chapel Hill, NC, US",Medium,0
+"Chapel Hill, NC, US",High,0
+"Chapel Hill, NC, US",Very High,0
+"Chapel Hill, NC, US",Ultra High,0
+"Charleston, SC, US",Low,0
+"Charleston, SC, US",Medium,1
+"Charleston, SC, US",High,0
+"Charleston, SC, US",Very High,0
+"Charleston, SC, US",Ultra High,0
+"Charleston, SC, USA",Low,0
+"Charleston, SC, USA",Medium,1
+"Charleston, SC, USA",High,0
+"Charleston, SC, USA",Very High,0
+"Charleston, SC, USA",Ultra High,0
+"Charleston, WV, US",Low,0
+"Charleston, WV, US",Medium,1
+"Charleston, WV, US",High,0
+"Charleston, WV, US",Very High,0
+"Charleston, WV, US",Ultra High,0
+"Charlevoix, MI, USA",Low,0
+"Charlevoix, MI, USA",Medium,1
+"Charlevoix, MI, USA",High,0
+"Charlevoix, MI, USA",Very High,0
+"Charlevoix, MI, USA",Ultra High,0
+"Charlotte, NC",Low,4
+"Charlotte, NC",Medium,3
+"Charlotte, NC",High,0
+"Charlotte, NC",Very High,1
+"Charlotte, NC",Ultra High,0
+"Charlotte, NC, US",Low,0
+"Charlotte, NC, US",Medium,5
+"Charlotte, NC, US",High,3
+"Charlotte, NC, US",Very High,1
+"Charlotte, NC, US",Ultra High,0
+"Charlotte, NC, USA",Low,1
+"Charlotte, NC, USA",Medium,0
+"Charlotte, NC, USA",High,0
+"Charlotte, NC, USA",Very High,0
+"Charlotte, NC, USA",Ultra High,0
+"Charlottesville, VA, US",Low,0
+"Charlottesville, VA, US",Medium,1
+"Charlottesville, VA, US",High,0
+"Charlottesville, VA, US",Very High,0
+"Charlottesville, VA, US",Ultra High,0
+"Chattahoochee, FL, US",Low,0
+"Chattahoochee, FL, US",Medium,1
+"Chattahoochee, FL, US",High,0
+"Chattahoochee, FL, US",Very High,0
+"Chattahoochee, FL, US",Ultra High,0
+"Chattanooga, TN, US",Low,0
+"Chattanooga, TN, US",Medium,1
+"Chattanooga, TN, US",High,0
+"Chattanooga, TN, US",Very High,0
+"Chattanooga, TN, US",Ultra High,0
+"Cherry Hill, NJ",Low,0
+"Cherry Hill, NJ",Medium,1
+"Cherry Hill, NJ",High,0
+"Cherry Hill, NJ",Very High,0
+"Cherry Hill, NJ",Ultra High,0
+"Chesapeake, VA",Low,0
+"Chesapeake, VA",Medium,1
+"Chesapeake, VA",High,0
+"Chesapeake, VA",Very High,0
+"Chesapeake, VA",Ultra High,0
+"Chesapeake, VA, USA",Low,1
+"Chesapeake, VA, USA",Medium,0
+"Chesapeake, VA, USA",High,0
+"Chesapeake, VA, USA",Very High,0
+"Chesapeake, VA, USA",Ultra High,0
+"Chesterfield, MO, USA",Low,0
+"Chesterfield, MO, USA",Medium,1
+"Chesterfield, MO, USA",High,0
+"Chesterfield, MO, USA",Very High,0
+"Chesterfield, MO, USA",Ultra High,0
+"Chesterfield, VA, USA",Low,0
+"Chesterfield, VA, USA",Medium,1
+"Chesterfield, VA, USA",High,0
+"Chesterfield, VA, USA",Very High,0
+"Chesterfield, VA, USA",Ultra High,0
+"Chestnut Hill, MA",Low,0
+"Chestnut Hill, MA",Medium,2
+"Chestnut Hill, MA",High,0
+"Chestnut Hill, MA",Very High,0
+"Chestnut Hill, MA",Ultra High,0
+"Chestnut Hill, MA, US",Low,0
+"Chestnut Hill, MA, US",Medium,1
+"Chestnut Hill, MA, US",High,0
+"Chestnut Hill, MA, US",Very High,0
+"Chestnut Hill, MA, US",Ultra High,0
+"Cheyenne, WY, USA",Low,1
+"Cheyenne, WY, USA",Medium,0
+"Cheyenne, WY, USA",High,0
+"Cheyenne, WY, USA",Very High,0
+"Cheyenne, WY, USA",Ultra High,0
+"Chicago, IL",Low,2
+"Chicago, IL",Medium,7
+"Chicago, IL",High,1
+"Chicago, IL",Very High,0
+"Chicago, IL",Ultra High,0
+"Chicago, IL, US",Low,1
+"Chicago, IL, US",Medium,12
+"Chicago, IL, US",High,3
+"Chicago, IL, US",Very High,0
+"Chicago, IL, US",Ultra High,0
+"Chicago, IL, USA",Low,0
+"Chicago, IL, USA",Medium,7
+"Chicago, IL, USA",High,0
+"Chicago, IL, USA",Very High,0
+"Chicago, IL, USA",Ultra High,0
+"Chillicothe, IL",Low,0
+"Chillicothe, IL",Medium,1
+"Chillicothe, IL",High,0
+"Chillicothe, IL",Very High,0
+"Chillicothe, IL",Ultra High,0
+"Chino Hills, CA, USA",Low,0
+"Chino Hills, CA, USA",Medium,1
+"Chino Hills, CA, USA",High,0
+"Chino Hills, CA, USA",Very High,0
+"Chino Hills, CA, USA",Ultra High,0
+"Chino, CA, USA",Low,1
+"Chino, CA, USA",Medium,1
+"Chino, CA, USA",High,0
+"Chino, CA, USA",Very High,0
+"Chino, CA, USA",Ultra High,0
+"Chula Vista, CA, USA",Low,0
+"Chula Vista, CA, USA",Medium,1
+"Chula Vista, CA, USA",High,0
+"Chula Vista, CA, USA",Very High,0
+"Chula Vista, CA, USA",Ultra High,0
+"Cincinnati, OH, US",Low,1
+"Cincinnati, OH, US",Medium,1
+"Cincinnati, OH, US",High,1
+"Cincinnati, OH, US",Very High,0
+"Cincinnati, OH, US",Ultra High,0
+"Cincinnati, OH, USA",Low,1
+"Cincinnati, OH, USA",Medium,4
+"Cincinnati, OH, USA",High,0
+"Cincinnati, OH, USA",Very High,0
+"Cincinnati, OH, USA",Ultra High,0
+"Circleville, OH, US",Low,0
+"Circleville, OH, US",Medium,0
+"Circleville, OH, US",High,1
+"Circleville, OH, US",Very High,0
+"Circleville, OH, US",Ultra High,0
+"Clackamas, OR, USA",Low,0
+"Clackamas, OR, USA",Medium,1
+"Clackamas, OR, USA",High,0
+"Clackamas, OR, USA",Very High,0
+"Clackamas, OR, USA",Ultra High,0
+"Clearwater, FL",Low,0
+"Clearwater, FL",Medium,0
+"Clearwater, FL",High,1
+"Clearwater, FL",Very High,0
+"Clearwater, FL",Ultra High,0
+"Cleveland, OH",Low,0
+"Cleveland, OH",Medium,2
+"Cleveland, OH",High,1
+"Cleveland, OH",Very High,0
+"Cleveland, OH",Ultra High,0
+"Cleveland, OH, US",Low,0
+"Cleveland, OH, US",Medium,1
+"Cleveland, OH, US",High,0
+"Cleveland, OH, US",Very High,0
+"Cleveland, OH, US",Ultra High,0
+"Clifton, NJ",Low,0
+"Clifton, NJ",Medium,1
+"Clifton, NJ",High,0
+"Clifton, NJ",Very High,0
+"Clifton, NJ",Ultra High,0
+"Clifton, NJ, US",Low,0
+"Clifton, NJ, US",Medium,1
+"Clifton, NJ, US",High,0
+"Clifton, NJ, US",Very High,0
+"Clifton, NJ, US",Ultra High,0
+"Clifton, NJ, USA",Low,0
+"Clifton, NJ, USA",Medium,1
+"Clifton, NJ, USA",High,0
+"Clifton, NJ, USA",Very High,0
+"Clifton, NJ, USA",Ultra High,0
+"Coeur d'Alene, ID, US",Low,0
+"Coeur d'Alene, ID, US",Medium,0
+"Coeur d'Alene, ID, US",High,1
+"Coeur d'Alene, ID, US",Very High,0
+"Coeur d'Alene, ID, US",Ultra High,0
+"Cold Springs, NV",Low,0
+"Cold Springs, NV",Medium,1
+"Cold Springs, NV",High,0
+"Cold Springs, NV",Very High,0
+"Cold Springs, NV",Ultra High,0
+"Cold Springs, NV, US",Low,0
+"Cold Springs, NV, US",Medium,1
+"Cold Springs, NV, US",High,0
+"Cold Springs, NV, US",Very High,0
+"Cold Springs, NV, US",Ultra High,0
+"Colorado Springs, CO",Low,0
+"Colorado Springs, CO",Medium,1
+"Colorado Springs, CO",High,1
+"Colorado Springs, CO",Very High,0
+"Colorado Springs, CO",Ultra High,0
+"Colorado Springs, CO, US",Low,0
+"Colorado Springs, CO, US",Medium,1
+"Colorado Springs, CO, US",High,0
+"Colorado Springs, CO, US",Very High,0
+"Colorado Springs, CO, US",Ultra High,0
+"Colorado Springs, CO, USA",Low,0
+"Colorado Springs, CO, USA",Medium,2
+"Colorado Springs, CO, USA",High,2
+"Colorado Springs, CO, USA",Very High,1
+"Colorado Springs, CO, USA",Ultra High,0
+"Columbia, MO",Low,0
+"Columbia, MO",Medium,1
+"Columbia, MO",High,0
+"Columbia, MO",Very High,0
+"Columbia, MO",Ultra High,0
+"Columbia, SC",Low,1
+"Columbia, SC",Medium,2
+"Columbia, SC",High,0
+"Columbia, SC",Very High,0
+"Columbia, SC",Ultra High,0
+"Columbia, SC, US",Low,0
+"Columbia, SC, US",Medium,1
+"Columbia, SC, US",High,1
+"Columbia, SC, US",Very High,0
+"Columbia, SC, US",Ultra High,0
+"Columbia, SC, USA",Low,0
+"Columbia, SC, USA",Medium,1
+"Columbia, SC, USA",High,0
+"Columbia, SC, USA",Very High,0
+"Columbia, SC, USA",Ultra High,0
+"Columbus, GA",Low,0
+"Columbus, GA",Medium,2
+"Columbus, GA",High,0
+"Columbus, GA",Very High,0
+"Columbus, GA",Ultra High,0
+"Columbus, GA, US",Low,0
+"Columbus, GA, US",Medium,2
+"Columbus, GA, US",High,0
+"Columbus, GA, US",Very High,0
+"Columbus, GA, US",Ultra High,0
+"Columbus, OH",Low,3
+"Columbus, OH",Medium,7
+"Columbus, OH",High,0
+"Columbus, OH",Very High,0
+"Columbus, OH",Ultra High,0
+"Columbus, OH, US",Low,2
+"Columbus, OH, US",Medium,3
+"Columbus, OH, US",High,2
+"Columbus, OH, US",Very High,0
+"Columbus, OH, US",Ultra High,0
+"Columbus, OH, USA",Low,1
+"Columbus, OH, USA",Medium,2
+"Columbus, OH, USA",High,0
+"Columbus, OH, USA",Very High,0
+"Columbus, OH, USA",Ultra High,0
+Connecticut,Low,0
+Connecticut,Medium,2
+Connecticut,High,0
+Connecticut,Very High,0
+Connecticut,Ultra High,0
+"Conshohocken, PA",Low,0
+"Conshohocken, PA",Medium,1
+"Conshohocken, PA",High,0
+"Conshohocken, PA",Very High,0
+"Conshohocken, PA",Ultra High,0
+"Coppell, TX",Low,0
+"Coppell, TX",Medium,1
+"Coppell, TX",High,0
+"Coppell, TX",Very High,0
+"Coppell, TX",Ultra High,0
+"Coppell, TX, US",Low,0
+"Coppell, TX, US",Medium,1
+"Coppell, TX, US",High,1
+"Coppell, TX, US",Very High,0
+"Coppell, TX, US",Ultra High,0
+"Coppell, TX, USA",Low,0
+"Coppell, TX, USA",Medium,1
+"Coppell, TX, USA",High,0
+"Coppell, TX, USA",Very High,0
+"Coppell, TX, USA",Ultra High,0
+"Coral Gables, FL, US",Low,0
+"Coral Gables, FL, US",Medium,0
+"Coral Gables, FL, US",High,1
+"Coral Gables, FL, US",Very High,0
+"Coral Gables, FL, US",Ultra High,0
+"Coral Springs, FL, USA",Low,0
+"Coral Springs, FL, USA",Medium,1
+"Coral Springs, FL, USA",High,0
+"Coral Springs, FL, USA",Very High,0
+"Coral Springs, FL, USA",Ultra High,0
+"Corona, CA",Low,0
+"Corona, CA",Medium,1
+"Corona, CA",High,0
+"Corona, CA",Very High,0
+"Corona, CA",Ultra High,1
+"Corona, CA, US",Low,0
+"Corona, CA, US",Medium,1
+"Corona, CA, US",High,0
+"Corona, CA, US",Very High,0
+"Corona, CA, US",Ultra High,0
+"Corona, CA, USA",Low,2
+"Corona, CA, USA",Medium,1
+"Corona, CA, USA",High,0
+"Corona, CA, USA",Very High,0
+"Corona, CA, USA",Ultra High,0
+"Corvallis, OR, USA",Low,0
+"Corvallis, OR, USA",Medium,1
+"Corvallis, OR, USA",High,0
+"Corvallis, OR, USA",Very High,0
+"Corvallis, OR, USA",Ultra High,0
+"Costa Mesa, CA",Low,0
+"Costa Mesa, CA",Medium,0
+"Costa Mesa, CA",High,1
+"Costa Mesa, CA",Very High,0
+"Costa Mesa, CA",Ultra High,0
+"Costa Mesa, CA, US",Low,0
+"Costa Mesa, CA, US",Medium,0
+"Costa Mesa, CA, US",High,1
+"Costa Mesa, CA, US",Very High,0
+"Costa Mesa, CA, US",Ultra High,0
+"Costa Mesa, CA, USA",Low,0
+"Costa Mesa, CA, USA",Medium,4
+"Costa Mesa, CA, USA",High,0
+"Costa Mesa, CA, USA",Very High,0
+"Costa Mesa, CA, USA",Ultra High,0
+"Covington, KY, USA",Low,0
+"Covington, KY, USA",Medium,2
+"Covington, KY, USA",High,0
+"Covington, KY, USA",Very High,0
+"Covington, KY, USA",Ultra High,0
+"Cowpens, SC",Low,0
+"Cowpens, SC",Medium,0
+"Cowpens, SC",High,1
+"Cowpens, SC",Very High,0
+"Cowpens, SC",Ultra High,0
+"Crystal City, VA, US",Low,0
+"Crystal City, VA, US",Medium,0
+"Crystal City, VA, US",High,1
+"Crystal City, VA, US",Very High,1
+"Crystal City, VA, US",Ultra High,0
+"Culver City, CA",Low,1
+"Culver City, CA",Medium,0
+"Culver City, CA",High,0
+"Culver City, CA",Very High,0
+"Culver City, CA",Ultra High,0
+"Culver City, CA, USA",Low,0
+"Culver City, CA, USA",Medium,2
+"Culver City, CA, USA",High,0
+"Culver City, CA, USA",Very High,0
+"Culver City, CA, USA",Ultra High,0
+"Cupertino, CA",Low,0
+"Cupertino, CA",Medium,0
+"Cupertino, CA",High,0
+"Cupertino, CA",Very High,1
+"Cupertino, CA",Ultra High,0
+"Dallas, TX",Low,1
+"Dallas, TX",Medium,3
+"Dallas, TX",High,1
+"Dallas, TX",Very High,0
+"Dallas, TX",Ultra High,0
+"Dallas, TX, US",Low,0
+"Dallas, TX, US",Medium,2
+"Dallas, TX, US",High,3
+"Dallas, TX, US",Very High,0
+"Dallas, TX, US",Ultra High,0
+"Dallas, TX, USA",Low,0
+"Dallas, TX, USA",Medium,16
+"Dallas, TX, USA",High,1
+"Dallas, TX, USA",Very High,0
+"Dallas, TX, USA",Ultra High,0
+"Danbury, CT",Low,0
+"Danbury, CT",Medium,2
+"Danbury, CT",High,0
+"Danbury, CT",Very High,0
+"Danbury, CT",Ultra High,0
+"Danbury, CT, US",Low,0
+"Danbury, CT, US",Medium,2
+"Danbury, CT, US",High,0
+"Danbury, CT, US",Very High,0
+"Danbury, CT, US",Ultra High,0
+"Danville, IL, US",Low,0
+"Danville, IL, US",Medium,2
+"Danville, IL, US",High,0
+"Danville, IL, US",Very High,0
+"Danville, IL, US",Ultra High,0
+"Danville, PA",Low,0
+"Danville, PA",Medium,1
+"Danville, PA",High,0
+"Danville, PA",Very High,0
+"Danville, PA",Ultra High,0
+"Davenport, WA, USA",Low,0
+"Davenport, WA, USA",Medium,1
+"Davenport, WA, USA",High,0
+"Davenport, WA, USA",Very High,0
+"Davenport, WA, USA",Ultra High,0
+"Davis, CA",Low,0
+"Davis, CA",Medium,0
+"Davis, CA",High,0
+"Davis, CA",Very High,1
+"Davis, CA",Ultra High,0
+"Dayton, OH, US",Low,0
+"Dayton, OH, US",Medium,1
+"Dayton, OH, US",High,0
+"Dayton, OH, US",Very High,0
+"Dayton, OH, US",Ultra High,0
+"Dayton, OH, USA",Low,0
+"Dayton, OH, USA",Medium,1
+"Dayton, OH, USA",High,0
+"Dayton, OH, USA",Very High,0
+"Dayton, OH, USA",Ultra High,0
+"Daytona Beach, FL",Low,2
+"Daytona Beach, FL",Medium,1
+"Daytona Beach, FL",High,0
+"Daytona Beach, FL",Very High,0
+"Daytona Beach, FL",Ultra High,0
+"Daytona Beach, FL, US",Low,1
+"Daytona Beach, FL, US",Medium,1
+"Daytona Beach, FL, US",High,0
+"Daytona Beach, FL, US",Very High,0
+"Daytona Beach, FL, US",Ultra High,0
+"Dedham, MA, US",Low,0
+"Dedham, MA, US",Medium,1
+"Dedham, MA, US",High,0
+"Dedham, MA, US",Very High,0
+"Dedham, MA, US",Ultra High,0
+"Delta Junction, AK, USA",Low,1
+"Delta Junction, AK, USA",Medium,0
+"Delta Junction, AK, USA",High,0
+"Delta Junction, AK, USA",Very High,0
+"Delta Junction, AK, USA",Ultra High,0
+"Denton, TX, US",Low,0
+"Denton, TX, US",Medium,1
+"Denton, TX, US",High,0
+"Denton, TX, US",Very High,0
+"Denton, TX, US",Ultra High,0
+"Denton, TX, USA",Low,0
+"Denton, TX, USA",Medium,3
+"Denton, TX, USA",High,0
+"Denton, TX, USA",Very High,0
+"Denton, TX, USA",Ultra High,0
+"Denver, CO",Low,0
+"Denver, CO",Medium,3
+"Denver, CO",High,1
+"Denver, CO",Very High,0
+"Denver, CO",Ultra High,0
+"Denver, CO, US",Low,0
+"Denver, CO, US",Medium,1
+"Denver, CO, US",High,6
+"Denver, CO, US",Very High,0
+"Denver, CO, US",Ultra High,1
+"Denver, CO, USA",Low,0
+"Denver, CO, USA",Medium,3
+"Denver, CO, USA",High,0
+"Denver, CO, USA",Very High,0
+"Denver, CO, USA",Ultra High,0
+"Des Moines, IA",Low,1
+"Des Moines, IA",Medium,0
+"Des Moines, IA",High,0
+"Des Moines, IA",Very High,0
+"Des Moines, IA",Ultra High,0
+"Des Moines, IA, US",Low,1
+"Des Moines, IA, US",Medium,0
+"Des Moines, IA, US",High,1
+"Des Moines, IA, US",Very High,0
+"Des Moines, IA, US",Ultra High,0
+"Des Moines, IA, USA",Low,0
+"Des Moines, IA, USA",Medium,1
+"Des Moines, IA, USA",High,0
+"Des Moines, IA, USA",Very High,0
+"Des Moines, IA, USA",Ultra High,0
+"Detroit, MI",Low,0
+"Detroit, MI",Medium,0
+"Detroit, MI",High,1
+"Detroit, MI",Very High,0
+"Detroit, MI",Ultra High,0
+"Detroit, MI, US",Low,1
+"Detroit, MI, US",Medium,0
+"Detroit, MI, US",High,1
+"Detroit, MI, US",Very High,0
+"Detroit, MI, US",Ultra High,0
+"Doral, FL",Low,1
+"Doral, FL",Medium,0
+"Doral, FL",High,0
+"Doral, FL",Very High,0
+"Doral, FL",Ultra High,0
+"Dover, DE, US",Low,0
+"Dover, DE, US",Medium,1
+"Dover, DE, US",High,0
+"Dover, DE, US",Very High,0
+"Dover, DE, US",Ultra High,0
+"Downey, CA",Low,0
+"Downey, CA",Medium,1
+"Downey, CA",High,0
+"Downey, CA",Very High,0
+"Downey, CA",Ultra High,0
+"Downey, CA, US",Low,0
+"Downey, CA, US",Medium,1
+"Downey, CA, US",High,0
+"Downey, CA, US",Very High,0
+"Downey, CA, US",Ultra High,0
+"Downey, CA, USA",Low,0
+"Downey, CA, USA",Medium,1
+"Downey, CA, USA",High,0
+"Downey, CA, USA",Very High,0
+"Downey, CA, USA",Ultra High,0
+"Draper, UT, US",Low,0
+"Draper, UT, US",Medium,2
+"Draper, UT, US",High,2
+"Draper, UT, US",Very High,0
+"Draper, UT, US",Ultra High,0
+"Dublin, CA, USA",Low,1
+"Dublin, CA, USA",Medium,1
+"Dublin, CA, USA",High,0
+"Dublin, CA, USA",Very High,1
+"Dublin, CA, USA",Ultra High,0
+"Dubuque, IA, US",Low,0
+"Dubuque, IA, US",Medium,1
+"Dubuque, IA, US",High,0
+"Dubuque, IA, US",Very High,0
+"Dubuque, IA, US",Ultra High,0
+"Duluth, MN, US",Low,0
+"Duluth, MN, US",Medium,1
+"Duluth, MN, US",High,0
+"Duluth, MN, US",Very High,0
+"Duluth, MN, US",Ultra High,0
+"Durham, NC",Low,2
+"Durham, NC",Medium,1
+"Durham, NC",High,0
+"Durham, NC",Very High,0
+"Durham, NC",Ultra High,0
+"East Brunswick, NJ, US",Low,0
+"East Brunswick, NJ, US",Medium,0
+"East Brunswick, NJ, US",High,1
+"East Brunswick, NJ, US",Very High,0
+"East Brunswick, NJ, US",Ultra High,0
+"East Chicago, IN",Low,0
+"East Chicago, IN",Medium,1
+"East Chicago, IN",High,0
+"East Chicago, IN",Very High,0
+"East Chicago, IN",Ultra High,0
+"East Chicago, IN, US",Low,0
+"East Chicago, IN, US",Medium,2
+"East Chicago, IN, US",High,0
+"East Chicago, IN, US",Very High,0
+"East Chicago, IN, US",Ultra High,0
+"East Lansing, MI",Low,1
+"East Lansing, MI",Medium,0
+"East Lansing, MI",High,0
+"East Lansing, MI",Very High,0
+"East Lansing, MI",Ultra High,0
+"East Pittsburgh, PA, US",Low,0
+"East Pittsburgh, PA, US",Medium,0
+"East Pittsburgh, PA, US",High,1
+"East Pittsburgh, PA, US",Very High,0
+"East Pittsburgh, PA, US",Ultra High,0
+"Eden Prairie, MN",Low,0
+"Eden Prairie, MN",Medium,1
+"Eden Prairie, MN",High,2
+"Eden Prairie, MN",Very High,0
+"Eden Prairie, MN",Ultra High,0
+"Eden Prairie, MN, US",Low,0
+"Eden Prairie, MN, US",Medium,1
+"Eden Prairie, MN, US",High,0
+"Eden Prairie, MN, US",Very High,0
+"Eden Prairie, MN, US",Ultra High,0
+"Eden Prairie, MN, USA",Low,0
+"Eden Prairie, MN, USA",Medium,1
+"Eden Prairie, MN, USA",High,0
+"Eden Prairie, MN, USA",Very High,0
+"Eden Prairie, MN, USA",Ultra High,0
+"Edgewood, MD, US",Low,0
+"Edgewood, MD, US",Medium,1
+"Edgewood, MD, US",High,0
+"Edgewood, MD, US",Very High,0
+"Edgewood, MD, US",Ultra High,0
+"Edgewood, MD, USA",Low,0
+"Edgewood, MD, USA",Medium,1
+"Edgewood, MD, USA",High,0
+"Edgewood, MD, USA",Very High,0
+"Edgewood, MD, USA",Ultra High,0
+"Edison, NJ",Low,0
+"Edison, NJ",Medium,1
+"Edison, NJ",High,0
+"Edison, NJ",Very High,0
+"Edison, NJ",Ultra High,0
+"Edison, NJ, US",Low,0
+"Edison, NJ, US",Medium,1
+"Edison, NJ, US",High,0
+"Edison, NJ, US",Very High,0
+"Edison, NJ, US",Ultra High,0
+"Egg Harbor Township, NJ",Low,0
+"Egg Harbor Township, NJ",Medium,1
+"Egg Harbor Township, NJ",High,0
+"Egg Harbor Township, NJ",Very High,0
+"Egg Harbor Township, NJ",Ultra High,0
+"El Cajon, CA, USA",Low,0
+"El Cajon, CA, USA",Medium,1
+"El Cajon, CA, USA",High,0
+"El Cajon, CA, USA",Very High,0
+"El Cajon, CA, USA",Ultra High,0
+"El Centro, CA, US",Low,1
+"El Centro, CA, US",Medium,0
+"El Centro, CA, US",High,0
+"El Centro, CA, US",Very High,0
+"El Centro, CA, US",Ultra High,0
+"El Dorado Hills, CA, USA",Low,0
+"El Dorado Hills, CA, USA",Medium,1
+"El Dorado Hills, CA, USA",High,0
+"El Dorado Hills, CA, USA",Very High,0
+"El Dorado Hills, CA, USA",Ultra High,0
+"El Monte, CA, USA",Low,1
+"El Monte, CA, USA",Medium,0
+"El Monte, CA, USA",High,0
+"El Monte, CA, USA",Very High,0
+"El Monte, CA, USA",Ultra High,0
+"El Paso, TX, US",Low,0
+"El Paso, TX, US",Medium,1
+"El Paso, TX, US",High,0
+"El Paso, TX, US",Very High,0
+"El Paso, TX, US",Ultra High,0
+"El Segundo, CA, US",Low,0
+"El Segundo, CA, US",Medium,1
+"El Segundo, CA, US",High,0
+"El Segundo, CA, US",Very High,0
+"El Segundo, CA, US",Ultra High,0
+"El Segundo, CA, USA",Low,0
+"El Segundo, CA, USA",Medium,1
+"El Segundo, CA, USA",High,1
+"El Segundo, CA, USA",Very High,0
+"El Segundo, CA, USA",Ultra High,0
+"Elizabeth City, NC, US",Low,0
+"Elizabeth City, NC, US",Medium,1
+"Elizabeth City, NC, US",High,0
+"Elizabeth City, NC, US",Very High,0
+"Elizabeth City, NC, US",Ultra High,0
+"Elk Grove, CA, USA",Low,0
+"Elk Grove, CA, USA",Medium,1
+"Elk Grove, CA, USA",High,0
+"Elk Grove, CA, USA",Very High,0
+"Elk Grove, CA, USA",Ultra High,0
+"Elkhart, IN, US",Low,0
+"Elkhart, IN, US",Medium,1
+"Elkhart, IN, US",High,0
+"Elkhart, IN, US",Very High,0
+"Elkhart, IN, US",Ultra High,0
+"Elmsford, NY, US",Low,0
+"Elmsford, NY, US",Medium,0
+"Elmsford, NY, US",High,1
+"Elmsford, NY, US",Very High,0
+"Elmsford, NY, US",Ultra High,0
+"Elsmere, NY",Low,0
+"Elsmere, NY",Medium,1
+"Elsmere, NY",High,0
+"Elsmere, NY",Very High,0
+"Elsmere, NY",Ultra High,0
+"Emeryville, CA, USA",Low,1
+"Emeryville, CA, USA",Medium,1
+"Emeryville, CA, USA",High,0
+"Emeryville, CA, USA",Very High,0
+"Emeryville, CA, USA",Ultra High,0
+"Endicott, NY",Low,1
+"Endicott, NY",Medium,0
+"Endicott, NY",High,0
+"Endicott, NY",Very High,0
+"Endicott, NY",Ultra High,0
+"Englewood, CO, USA",Low,1
+"Englewood, CO, USA",Medium,0
+"Englewood, CO, USA",High,0
+"Englewood, CO, USA",Very High,0
+"Englewood, CO, USA",Ultra High,0
+"Erie, PA",Low,0
+"Erie, PA",Medium,0
+"Erie, PA",High,1
+"Erie, PA",Very High,0
+"Erie, PA",Ultra High,0
+"Erie, PA, US",Low,0
+"Erie, PA, US",Medium,0
+"Erie, PA, US",High,1
+"Erie, PA, US",Very High,0
+"Erie, PA, US",Ultra High,0
+"Erlanger, KY",Low,0
+"Erlanger, KY",Medium,1
+"Erlanger, KY",High,0
+"Erlanger, KY",Very High,0
+"Erlanger, KY",Ultra High,0
+"Eugene, OR, USA",Low,0
+"Eugene, OR, USA",Medium,2
+"Eugene, OR, USA",High,0
+"Eugene, OR, USA",Very High,0
+"Eugene, OR, USA",Ultra High,0
+"Evansville, IN",Low,0
+"Evansville, IN",Medium,1
+"Evansville, IN",High,0
+"Evansville, IN",Very High,0
+"Evansville, IN",Ultra High,0
+"Evansville, IN, US",Low,0
+"Evansville, IN, US",Medium,1
+"Evansville, IN, US",High,1
+"Evansville, IN, US",Very High,0
+"Evansville, IN, US",Ultra High,0
+"Everett, WA, USA",Low,0
+"Everett, WA, USA",Medium,2
+"Everett, WA, USA",High,0
+"Everett, WA, USA",Very High,0
+"Everett, WA, USA",Ultra High,0
+"Ewing Township, NJ",Low,0
+"Ewing Township, NJ",Medium,1
+"Ewing Township, NJ",High,0
+"Ewing Township, NJ",Very High,0
+"Ewing Township, NJ",Ultra High,0
+"Exton, PA",Low,0
+"Exton, PA",Medium,1
+"Exton, PA",High,0
+"Exton, PA",Very High,0
+"Exton, PA",Ultra High,0
+"Exton, PA, US",Low,0
+"Exton, PA, US",Medium,1
+"Exton, PA, US",High,1
+"Exton, PA, US",Very High,0
+"Exton, PA, US",Ultra High,0
+"FL, US",Low,0
+"FL, US",Medium,0
+"FL, US",High,1
+"FL, US",Very High,0
+"FL, US",Ultra High,0
+"Fairfax, VA",Low,1
+"Fairfax, VA",Medium,1
+"Fairfax, VA",High,0
+"Fairfax, VA",Very High,0
+"Fairfax, VA",Ultra High,0
+"Fairfax, VA, US",Low,0
+"Fairfax, VA, US",Medium,1
+"Fairfax, VA, US",High,0
+"Fairfax, VA, US",Very High,0
+"Fairfax, VA, US",Ultra High,0
+"Fairfield, CA",Low,0
+"Fairfield, CA",Medium,1
+"Fairfield, CA",High,0
+"Fairfield, CA",Very High,0
+"Fairfield, CA",Ultra High,0
+"Fairfield, CA, US",Low,0
+"Fairfield, CA, US",Medium,1
+"Fairfield, CA, US",High,0
+"Fairfield, CA, US",Very High,0
+"Fairfield, CA, US",Ultra High,0
+"Farmington Hills, MI",Low,0
+"Farmington Hills, MI",Medium,2
+"Farmington Hills, MI",High,0
+"Farmington Hills, MI",Very High,0
+"Farmington Hills, MI",Ultra High,0
+"Farmington Hills, MI, US",Low,0
+"Farmington Hills, MI, US",Medium,3
+"Farmington Hills, MI, US",High,1
+"Farmington Hills, MI, US",Very High,0
+"Farmington Hills, MI, US",Ultra High,0
+"Fayetteville, NC",Low,0
+"Fayetteville, NC",Medium,1
+"Fayetteville, NC",High,0
+"Fayetteville, NC",Very High,0
+"Fayetteville, NC",Ultra High,0
+"Fayetteville, NC, US",Low,0
+"Fayetteville, NC, US",Medium,1
+"Fayetteville, NC, US",High,0
+"Fayetteville, NC, US",Very High,0
+"Fayetteville, NC, US",Ultra High,0
+"Fennimore, WI, US",Low,1
+"Fennimore, WI, US",Medium,0
+"Fennimore, WI, US",High,0
+"Fennimore, WI, US",Very High,0
+"Fennimore, WI, US",Ultra High,0
+"Flanders, NJ, US",Low,0
+"Flanders, NJ, US",Medium,1
+"Flanders, NJ, US",High,0
+"Flanders, NJ, US",Very High,0
+"Flanders, NJ, US",Ultra High,0
+"Floral Park, NY",Low,0
+"Floral Park, NY",Medium,1
+"Floral Park, NY",High,0
+"Floral Park, NY",Very High,0
+"Floral Park, NY",Ultra High,0
+"Florence, AZ, USA",Low,0
+"Florence, AZ, USA",Medium,1
+"Florence, AZ, USA",High,0
+"Florence, AZ, USA",Very High,0
+"Florence, AZ, USA",Ultra High,0
+"Florence, KY",Low,0
+"Florence, KY",Medium,2
+"Florence, KY",High,0
+"Florence, KY",Very High,0
+"Florence, KY",Ultra High,0
+"Florence, KY, US",Low,0
+"Florence, KY, US",Medium,3
+"Florence, KY, US",High,0
+"Florence, KY, US",Very High,0
+"Florence, KY, US",Ultra High,0
+"Florham Park, NJ, US",Low,0
+"Florham Park, NJ, US",Medium,1
+"Florham Park, NJ, US",High,0
+"Florham Park, NJ, US",Very High,0
+"Florham Park, NJ, US",Ultra High,0
+"Flower Mound, TX, USA",Low,0
+"Flower Mound, TX, USA",Medium,1
+"Flower Mound, TX, USA",High,0
+"Flower Mound, TX, USA",Very High,0
+"Flower Mound, TX, USA",Ultra High,0
+"Folsom, CA, US",Low,0
+"Folsom, CA, US",Medium,0
+"Folsom, CA, US",High,0
+"Folsom, CA, US",Very High,0
+"Folsom, CA, US",Ultra High,1
+"Folsom, CA, USA",Low,0
+"Folsom, CA, USA",Medium,0
+"Folsom, CA, USA",High,0
+"Folsom, CA, USA",Very High,0
+"Folsom, CA, USA",Ultra High,1
+"Fond du Lac, WI, US",Low,0
+"Fond du Lac, WI, US",Medium,1
+"Fond du Lac, WI, US",High,0
+"Fond du Lac, WI, US",Very High,0
+"Fond du Lac, WI, US",Ultra High,0
+"Fontana, CA",Low,0
+"Fontana, CA",Medium,0
+"Fontana, CA",High,0
+"Fontana, CA",Very High,1
+"Fontana, CA",Ultra High,0
+"Fontana, CA, US",Low,0
+"Fontana, CA, US",Medium,0
+"Fontana, CA, US",High,0
+"Fontana, CA, US",Very High,1
+"Fontana, CA, US",Ultra High,0
+"Forney, TX",Low,0
+"Forney, TX",Medium,1
+"Forney, TX",High,0
+"Forney, TX",Very High,0
+"Forney, TX",Ultra High,0
+"Forney, TX, US",Low,0
+"Forney, TX, US",Medium,1
+"Forney, TX, US",High,0
+"Forney, TX, US",Very High,0
+"Forney, TX, US",Ultra High,0
+"Fort Eustis, VA, US",Low,0
+"Fort Eustis, VA, US",Medium,0
+"Fort Eustis, VA, US",High,1
+"Fort Eustis, VA, US",Very High,0
+"Fort Eustis, VA, US",Ultra High,0
+"Fort Lauderdale, FL",Low,0
+"Fort Lauderdale, FL",Medium,1
+"Fort Lauderdale, FL",High,1
+"Fort Lauderdale, FL",Very High,0
+"Fort Lauderdale, FL",Ultra High,0
+"Fort Lauderdale, FL, USA",Low,0
+"Fort Lauderdale, FL, USA",Medium,1
+"Fort Lauderdale, FL, USA",High,0
+"Fort Lauderdale, FL, USA",Very High,0
+"Fort Lauderdale, FL, USA",Ultra High,0
+"Fort Mill, SC",Low,2
+"Fort Mill, SC",Medium,0
+"Fort Mill, SC",High,0
+"Fort Mill, SC",Very High,0
+"Fort Mill, SC",Ultra High,0
+"Fort Myers, FL, US",Low,0
+"Fort Myers, FL, US",Medium,1
+"Fort Myers, FL, US",High,0
+"Fort Myers, FL, US",Very High,0
+"Fort Myers, FL, US",Ultra High,0
+"Fort Walton Beach, FL",Low,0
+"Fort Walton Beach, FL",Medium,0
+"Fort Walton Beach, FL",High,1
+"Fort Walton Beach, FL",Very High,0
+"Fort Walton Beach, FL",Ultra High,0
+"Fort Wayne, IN, USA",Low,0
+"Fort Wayne, IN, USA",Medium,1
+"Fort Wayne, IN, USA",High,0
+"Fort Wayne, IN, USA",Very High,0
+"Fort Wayne, IN, USA",Ultra High,0
+"Fort Worth, TX",Low,0
+"Fort Worth, TX",Medium,1
+"Fort Worth, TX",High,0
+"Fort Worth, TX",Very High,0
+"Fort Worth, TX",Ultra High,0
+"Fort Worth, TX, US",Low,0
+"Fort Worth, TX, US",Medium,2
+"Fort Worth, TX, US",High,0
+"Fort Worth, TX, US",Very High,0
+"Fort Worth, TX, US",Ultra High,0
+"Fort Worth, TX, USA",Low,0
+"Fort Worth, TX, USA",Medium,3
+"Fort Worth, TX, USA",High,0
+"Fort Worth, TX, USA",Very High,0
+"Fort Worth, TX, USA",Ultra High,0
+"Foster City, CA, USA",Low,0
+"Foster City, CA, USA",Medium,4
+"Foster City, CA, USA",High,0
+"Foster City, CA, USA",Very High,0
+"Foster City, CA, USA",Ultra High,0
+"Fountain Valley, CA",Low,1
+"Fountain Valley, CA",Medium,0
+"Fountain Valley, CA",High,0
+"Fountain Valley, CA",Very High,0
+"Fountain Valley, CA",Ultra High,0
+"Fountain Valley, CA, USA",Low,0
+"Fountain Valley, CA, USA",Medium,1
+"Fountain Valley, CA, USA",High,0
+"Fountain Valley, CA, USA",Very High,0
+"Fountain Valley, CA, USA",Ultra High,0
+"Framingham, MA",Low,1
+"Framingham, MA",Medium,0
+"Framingham, MA",High,0
+"Framingham, MA",Very High,0
+"Framingham, MA",Ultra High,0
+"Framingham, MA, USA",Low,0
+"Framingham, MA, USA",Medium,1
+"Framingham, MA, USA",High,0
+"Framingham, MA, USA",Very High,0
+"Framingham, MA, USA",Ultra High,0
+"Frankfort, KY",Low,0
+"Frankfort, KY",Medium,1
+"Frankfort, KY",High,0
+"Frankfort, KY",Very High,0
+"Frankfort, KY",Ultra High,0
+"Frankfort, KY, US",Low,0
+"Frankfort, KY, US",Medium,1
+"Frankfort, KY, US",High,0
+"Frankfort, KY, US",Very High,0
+"Frankfort, KY, US",Ultra High,0
+"Franklin, TN, USA",Low,0
+"Franklin, TN, USA",Medium,1
+"Franklin, TN, USA",High,0
+"Franklin, TN, USA",Very High,0
+"Franklin, TN, USA",Ultra High,0
+"Frederick, MD",Low,0
+"Frederick, MD",Medium,1
+"Frederick, MD",High,0
+"Frederick, MD",Very High,0
+"Frederick, MD",Ultra High,0
+"Frederick, MD, US",Low,0
+"Frederick, MD, US",Medium,1
+"Frederick, MD, US",High,0
+"Frederick, MD, US",Very High,0
+"Frederick, MD, US",Ultra High,0
+"Fredericksburg, PA, US",Low,0
+"Fredericksburg, PA, US",Medium,1
+"Fredericksburg, PA, US",High,0
+"Fredericksburg, PA, US",Very High,0
+"Fredericksburg, PA, US",Ultra High,0
+"Fredericksburg, VA",Low,0
+"Fredericksburg, VA",Medium,0
+"Fredericksburg, VA",High,1
+"Fredericksburg, VA",Very High,0
+"Fredericksburg, VA",Ultra High,0
+"Fredericksburg, VA, US",Low,0
+"Fredericksburg, VA, US",Medium,1
+"Fredericksburg, VA, US",High,0
+"Fredericksburg, VA, US",Very High,0
+"Fredericksburg, VA, US",Ultra High,0
+"Fremont, CA, US",Low,0
+"Fremont, CA, US",Medium,1
+"Fremont, CA, US",High,0
+"Fremont, CA, US",Very High,0
+"Fremont, CA, US",Ultra High,0
+"Fremont, CA, USA",Low,1
+"Fremont, CA, USA",Medium,2
+"Fremont, CA, USA",High,1
+"Fremont, CA, USA",Very High,0
+"Fremont, CA, USA",Ultra High,0
+"Fresno, CA",Low,0
+"Fresno, CA",Medium,1
+"Fresno, CA",High,0
+"Fresno, CA",Very High,0
+"Fresno, CA",Ultra High,0
+"Fresno, CA, USA",Low,0
+"Fresno, CA, USA",Medium,1
+"Fresno, CA, USA",High,1
+"Fresno, CA, USA",Very High,0
+"Fresno, CA, USA",Ultra High,0
+"Frisco, TX",Low,0
+"Frisco, TX",Medium,0
+"Frisco, TX",High,1
+"Frisco, TX",Very High,0
+"Frisco, TX",Ultra High,0
+"Frisco, TX, US",Low,1
+"Frisco, TX, US",Medium,3
+"Frisco, TX, US",High,1
+"Frisco, TX, US",Very High,0
+"Frisco, TX, US",Ultra High,0
+"Frisco, TX, USA",Low,0
+"Frisco, TX, USA",Medium,2
+"Frisco, TX, USA",High,0
+"Frisco, TX, USA",Very High,0
+"Frisco, TX, USA",Ultra High,0
+"GA, US",Low,0
+"GA, US",Medium,1
+"GA, US",High,1
+"GA, US",Very High,0
+"GA, US",Ultra High,0
+"Gainesville, FL, USA",Low,0
+"Gainesville, FL, USA",Medium,1
+"Gainesville, FL, USA",High,0
+"Gainesville, FL, USA",Very High,0
+"Gainesville, FL, USA",Ultra High,0
+"Gaithersburg, MD",Low,0
+"Gaithersburg, MD",Medium,0
+"Gaithersburg, MD",High,1
+"Gaithersburg, MD",Very High,0
+"Gaithersburg, MD",Ultra High,0
+"Gaithersburg, MD, US",Low,0
+"Gaithersburg, MD, US",Medium,0
+"Gaithersburg, MD, US",High,1
+"Gaithersburg, MD, US",Very High,0
+"Gaithersburg, MD, US",Ultra High,0
+"Gardena, CA, USA",Low,0
+"Gardena, CA, USA",Medium,1
+"Gardena, CA, USA",High,1
+"Gardena, CA, USA",Very High,0
+"Gardena, CA, USA",Ultra High,0
+"Garland, TX, USA",Low,0
+"Garland, TX, USA",Medium,1
+"Garland, TX, USA",High,0
+"Garland, TX, USA",Very High,0
+"Garland, TX, USA",Ultra High,0
+"Gentry, AR",Low,0
+"Gentry, AR",Medium,1
+"Gentry, AR",High,0
+"Gentry, AR",Very High,0
+"Gentry, AR",Ultra High,0
+"Gentry, AR, US",Low,0
+"Gentry, AR, US",Medium,1
+"Gentry, AR, US",High,0
+"Gentry, AR, US",Very High,0
+"Gentry, AR, US",Ultra High,0
+"Gentry, AR, USA",Low,0
+"Gentry, AR, USA",Medium,1
+"Gentry, AR, USA",High,0
+"Gentry, AR, USA",Very High,0
+"Gentry, AR, USA",Ultra High,0
+"Gilroy, CA, USA",Low,1
+"Gilroy, CA, USA",Medium,0
+"Gilroy, CA, USA",High,0
+"Gilroy, CA, USA",Very High,0
+"Gilroy, CA, USA",Ultra High,0
+"Glasgow, OR, USA",Low,0
+"Glasgow, OR, USA",Medium,1
+"Glasgow, OR, USA",High,0
+"Glasgow, OR, USA",Very High,0
+"Glasgow, OR, USA",Ultra High,0
+"Glassboro, NJ, US",Low,0
+"Glassboro, NJ, US",Medium,1
+"Glassboro, NJ, US",High,0
+"Glassboro, NJ, US",Very High,0
+"Glassboro, NJ, US",Ultra High,0
+"Glen Allen, VA",Low,0
+"Glen Allen, VA",Medium,1
+"Glen Allen, VA",High,0
+"Glen Allen, VA",Very High,0
+"Glen Allen, VA",Ultra High,0
+"Glen Allen, VA, US",Low,0
+"Glen Allen, VA, US",Medium,1
+"Glen Allen, VA, US",High,0
+"Glen Allen, VA, US",Very High,0
+"Glen Allen, VA, US",Ultra High,0
+"Glendale, CA, USA",Low,0
+"Glendale, CA, USA",Medium,2
+"Glendale, CA, USA",High,0
+"Glendale, CA, USA",Very High,0
+"Glendale, CA, USA",Ultra High,0
+"Glendora, CA, USA",Low,0
+"Glendora, CA, USA",Medium,1
+"Glendora, CA, USA",High,0
+"Glendora, CA, USA",Very High,0
+"Glendora, CA, USA",Ultra High,0
+"Goleta, CA, USA",Low,0
+"Goleta, CA, USA",Medium,1
+"Goleta, CA, USA",High,0
+"Goleta, CA, USA",Very High,0
+"Goleta, CA, USA",Ultra High,0
+"Gordonsville, VA, USA",Low,0
+"Gordonsville, VA, USA",Medium,1
+"Gordonsville, VA, USA",High,0
+"Gordonsville, VA, USA",Very High,0
+"Gordonsville, VA, USA",Ultra High,0
+"Grand Blanc, MI",Low,0
+"Grand Blanc, MI",Medium,1
+"Grand Blanc, MI",High,0
+"Grand Blanc, MI",Very High,0
+"Grand Blanc, MI",Ultra High,0
+"Grand Prairie, TX",Low,0
+"Grand Prairie, TX",Medium,1
+"Grand Prairie, TX",High,0
+"Grand Prairie, TX",Very High,0
+"Grand Prairie, TX",Ultra High,0
+"Grand Prairie, TX, US",Low,0
+"Grand Prairie, TX, US",Medium,1
+"Grand Prairie, TX, US",High,0
+"Grand Prairie, TX, US",Very High,0
+"Grand Prairie, TX, US",Ultra High,0
+"Grand Rapids, MI",Low,0
+"Grand Rapids, MI",Medium,1
+"Grand Rapids, MI",High,0
+"Grand Rapids, MI",Very High,0
+"Grand Rapids, MI",Ultra High,0
+"Grand Rapids, MI, US",Low,0
+"Grand Rapids, MI, US",Medium,3
+"Grand Rapids, MI, US",High,0
+"Grand Rapids, MI, US",Very High,0
+"Grand Rapids, MI, US",Ultra High,0
+"Grapevine, TX, US",Low,0
+"Grapevine, TX, US",Medium,2
+"Grapevine, TX, US",High,0
+"Grapevine, TX, US",Very High,0
+"Grapevine, TX, US",Ultra High,0
+"Greeley, CO, USA",Low,0
+"Greeley, CO, USA",Medium,1
+"Greeley, CO, USA",High,0
+"Greeley, CO, USA",Very High,0
+"Greeley, CO, USA",Ultra High,0
+"Green Bay, WI",Low,0
+"Green Bay, WI",Medium,1
+"Green Bay, WI",High,1
+"Green Bay, WI",Very High,0
+"Green Bay, WI",Ultra High,0
+"Green Bay, WI, US",Low,0
+"Green Bay, WI, US",Medium,3
+"Green Bay, WI, US",High,0
+"Green Bay, WI, US",Very High,0
+"Green Bay, WI, US",Ultra High,0
+"Green Bay, WI, USA",Low,0
+"Green Bay, WI, USA",Medium,1
+"Green Bay, WI, USA",High,0
+"Green Bay, WI, USA",Very High,0
+"Green Bay, WI, USA",Ultra High,0
+"Greensboro, NC",Low,1
+"Greensboro, NC",Medium,0
+"Greensboro, NC",High,0
+"Greensboro, NC",Very High,0
+"Greensboro, NC",Ultra High,0
+"Greensboro, NC, US",Low,0
+"Greensboro, NC, US",Medium,2
+"Greensboro, NC, US",High,0
+"Greensboro, NC, US",Very High,0
+"Greensboro, NC, US",Ultra High,0
+"Greenville, SC",Low,3
+"Greenville, SC",Medium,3
+"Greenville, SC",High,0
+"Greenville, SC",Very High,0
+"Greenville, SC",Ultra High,0
+"Greenville, SC, US",Low,0
+"Greenville, SC, US",Medium,2
+"Greenville, SC, US",High,0
+"Greenville, SC, US",Very High,0
+"Greenville, SC, US",Ultra High,0
+"Greenwood Village, CO, US",Low,0
+"Greenwood Village, CO, US",Medium,0
+"Greenwood Village, CO, US",High,1
+"Greenwood Village, CO, US",Very High,0
+"Greenwood Village, CO, US",Ultra High,0
+"Greer, SC",Low,1
+"Greer, SC",Medium,0
+"Greer, SC",High,0
+"Greer, SC",Very High,0
+"Greer, SC",Ultra High,0
+"Gresham, OR, USA",Low,0
+"Gresham, OR, USA",Medium,1
+"Gresham, OR, USA",High,0
+"Gresham, OR, USA",Very High,0
+"Gresham, OR, USA",Ultra High,0
+"Guymon, OK, USA",Low,0
+"Guymon, OK, USA",Medium,1
+"Guymon, OK, USA",High,0
+"Guymon, OK, USA",Very High,0
+"Guymon, OK, USA",Ultra High,0
+"Hacienda Heights, CA, USA",Low,0
+"Hacienda Heights, CA, USA",Medium,1
+"Hacienda Heights, CA, USA",High,0
+"Hacienda Heights, CA, USA",Very High,0
+"Hacienda Heights, CA, USA",Ultra High,0
+"Hackensack, NJ, USA",Low,0
+"Hackensack, NJ, USA",Medium,1
+"Hackensack, NJ, USA",High,0
+"Hackensack, NJ, USA",Very High,0
+"Hackensack, NJ, USA",Ultra High,0
+"Hagerstown, MD",Low,0
+"Hagerstown, MD",Medium,1
+"Hagerstown, MD",High,0
+"Hagerstown, MD",Very High,0
+"Hagerstown, MD",Ultra High,0
+"Hainesport, NJ",Low,0
+"Hainesport, NJ",Medium,1
+"Hainesport, NJ",High,0
+"Hainesport, NJ",Very High,0
+"Hainesport, NJ",Ultra High,0
+"Hainesport, NJ, US",Low,0
+"Hainesport, NJ, US",Medium,1
+"Hainesport, NJ, US",High,0
+"Hainesport, NJ, US",Very High,0
+"Hainesport, NJ, US",Ultra High,0
+"Hampton, GA",Low,0
+"Hampton, GA",Medium,1
+"Hampton, GA",High,0
+"Hampton, GA",Very High,0
+"Hampton, GA",Ultra High,0
+"Hampton, GA, US",Low,0
+"Hampton, GA, US",Medium,1
+"Hampton, GA, US",High,0
+"Hampton, GA, US",Very High,0
+"Hampton, GA, US",Ultra High,0
+"Hampton, VA",Low,0
+"Hampton, VA",Medium,0
+"Hampton, VA",High,1
+"Hampton, VA",Very High,0
+"Hampton, VA",Ultra High,0
+"Hamptonville, NC",Low,0
+"Hamptonville, NC",Medium,0
+"Hamptonville, NC",High,1
+"Hamptonville, NC",Very High,0
+"Hamptonville, NC",Ultra High,0
+"Harrisburg, PA",Low,1
+"Harrisburg, PA",Medium,2
+"Harrisburg, PA",High,0
+"Harrisburg, PA",Very High,0
+"Harrisburg, PA",Ultra High,0
+"Harrisburg, PA, US",Low,0
+"Harrisburg, PA, US",Medium,1
+"Harrisburg, PA, US",High,1
+"Harrisburg, PA, US",Very High,1
+"Harrisburg, PA, US",Ultra High,0
+"Harrisburg, PA, USA",Low,0
+"Harrisburg, PA, USA",Medium,1
+"Harrisburg, PA, USA",High,0
+"Harrisburg, PA, USA",Very High,0
+"Harrisburg, PA, USA",Ultra High,0
+"Harrison, MT, USA",Low,0
+"Harrison, MT, USA",Medium,0
+"Harrison, MT, USA",High,1
+"Harrison, MT, USA",Very High,0
+"Harrison, MT, USA",Ultra High,0
+"Hartford, CT",Low,1
+"Hartford, CT",Medium,2
+"Hartford, CT",High,0
+"Hartford, CT",Very High,1
+"Hartford, CT",Ultra High,0
+"Hartford, CT, US",Low,0
+"Hartford, CT, US",Medium,1
+"Hartford, CT, US",High,1
+"Hartford, CT, US",Very High,0
+"Hartford, CT, US",Ultra High,0
+"Hawthorne, CA, USA",Low,0
+"Hawthorne, CA, USA",Medium,0
+"Hawthorne, CA, USA",High,1
+"Hawthorne, CA, USA",Very High,0
+"Hawthorne, CA, USA",Ultra High,0
+"Hayward, CA, USA",Low,0
+"Hayward, CA, USA",Medium,2
+"Hayward, CA, USA",High,0
+"Hayward, CA, USA",Very High,0
+"Hayward, CA, USA",Ultra High,0
+"Headquarters, WA, USA",Low,0
+"Headquarters, WA, USA",Medium,2
+"Headquarters, WA, USA",High,0
+"Headquarters, WA, USA",Very High,0
+"Headquarters, WA, USA",Ultra High,0
+"Helena, MT",Low,0
+"Helena, MT",Medium,1
+"Helena, MT",High,0
+"Helena, MT",Very High,0
+"Helena, MT",Ultra High,0
+"Helena, MT, USA",Low,0
+"Helena, MT, USA",Medium,2
+"Helena, MT, USA",High,0
+"Helena, MT, USA",Very High,0
+"Helena, MT, USA",Ultra High,0
+"Henderson, NV",Low,1
+"Henderson, NV",Medium,0
+"Henderson, NV",High,0
+"Henderson, NV",Very High,0
+"Henderson, NV",Ultra High,0
+"Henderson, NV, USA",Low,2
+"Henderson, NV, USA",Medium,2
+"Henderson, NV, USA",High,0
+"Henderson, NV, USA",Very High,0
+"Henderson, NV, USA",Ultra High,0
+"Hermitage, TN, USA",Low,0
+"Hermitage, TN, USA",Medium,1
+"Hermitage, TN, USA",High,0
+"Hermitage, TN, USA",Very High,0
+"Hermitage, TN, USA",Ultra High,0
+"Herndon, VA, US",Low,0
+"Herndon, VA, US",Medium,1
+"Herndon, VA, US",High,0
+"Herndon, VA, US",Very High,0
+"Herndon, VA, US",Ultra High,0
+"Herndon, VA, USA",Low,0
+"Herndon, VA, USA",Medium,1
+"Herndon, VA, USA",High,0
+"Herndon, VA, USA",Very High,0
+"Herndon, VA, USA",Ultra High,0
+"Hickory, NC",Low,0
+"Hickory, NC",Medium,1
+"Hickory, NC",High,0
+"Hickory, NC",Very High,0
+"Hickory, NC",Ultra High,0
+"Highland, CA, USA",Low,0
+"Highland, CA, USA",Medium,2
+"Highland, CA, USA",High,0
+"Highland, CA, USA",Very High,0
+"Highland, CA, USA",Ultra High,0
+"Hill AFB, UT, US",Low,0
+"Hill AFB, UT, US",Medium,0
+"Hill AFB, UT, US",High,1
+"Hill AFB, UT, US",Very High,0
+"Hill AFB, UT, US",Ultra High,0
+"Hillsboro, OR",Low,0
+"Hillsboro, OR",Medium,2
+"Hillsboro, OR",High,0
+"Hillsboro, OR",Very High,0
+"Hillsboro, OR",Ultra High,0
+"Hillsboro, OR, US",Low,0
+"Hillsboro, OR, US",Medium,2
+"Hillsboro, OR, US",High,0
+"Hillsboro, OR, US",Very High,0
+"Hillsboro, OR, US",Ultra High,0
+"Hillsboro, OR, USA",Low,0
+"Hillsboro, OR, USA",Medium,2
+"Hillsboro, OR, USA",High,0
+"Hillsboro, OR, USA",Very High,0
+"Hillsboro, OR, USA",Ultra High,0
+"Hoboken, NJ, US",Low,0
+"Hoboken, NJ, US",Medium,0
+"Hoboken, NJ, US",High,2
+"Hoboken, NJ, US",Very High,0
+"Hoboken, NJ, US",Ultra High,0
+"Hollywood, MD, USA",Low,0
+"Hollywood, MD, USA",Medium,0
+"Hollywood, MD, USA",High,1
+"Hollywood, MD, USA",Very High,0
+"Hollywood, MD, USA",Ultra High,0
+"Homewood, IL",Low,0
+"Homewood, IL",Medium,1
+"Homewood, IL",High,0
+"Homewood, IL",Very High,0
+"Homewood, IL",Ultra High,0
+"Homewood, IL, US",Low,0
+"Homewood, IL, US",Medium,0
+"Homewood, IL, US",High,1
+"Homewood, IL, US",Very High,0
+"Homewood, IL, US",Ultra High,0
+"Honolulu, HI",Low,0
+"Honolulu, HI",Medium,1
+"Honolulu, HI",High,2
+"Honolulu, HI",Very High,0
+"Honolulu, HI",Ultra High,0
+"Honolulu, HI, USA",Low,0
+"Honolulu, HI, USA",Medium,2
+"Honolulu, HI, USA",High,1
+"Honolulu, HI, USA",Very High,0
+"Honolulu, HI, USA",Ultra High,0
+"Hoover, AL, US",Low,0
+"Hoover, AL, US",Medium,1
+"Hoover, AL, US",High,0
+"Hoover, AL, US",Very High,0
+"Hoover, AL, US",Ultra High,0
+"Houston, TX",Low,2
+"Houston, TX",Medium,9
+"Houston, TX",High,4
+"Houston, TX",Very High,0
+"Houston, TX",Ultra High,0
+"Houston, TX, US",Low,0
+"Houston, TX, US",Medium,13
+"Houston, TX, US",High,7
+"Houston, TX, US",Very High,0
+"Houston, TX, US",Ultra High,0
+"Houston, TX, USA",Low,0
+"Houston, TX, USA",Medium,12
+"Houston, TX, USA",High,0
+"Houston, TX, USA",Very High,0
+"Houston, TX, USA",Ultra High,0
+"Huntsville, AL, USA",Low,0
+"Huntsville, AL, USA",Medium,1
+"Huntsville, AL, USA",High,0
+"Huntsville, AL, USA",Very High,0
+"Huntsville, AL, USA",Ultra High,0
+"IL, US",Low,0
+"IL, US",Medium,1
+"IL, US",High,0
+"IL, US",Very High,0
+"IL, US",Ultra High,0
+"Idaho Falls, ID, US",Low,0
+"Idaho Falls, ID, US",Medium,1
+"Idaho Falls, ID, US",High,0
+"Idaho Falls, ID, US",Very High,0
+"Idaho Falls, ID, US",Ultra High,0
+"Indian Head, MD",Low,0
+"Indian Head, MD",Medium,1
+"Indian Head, MD",High,0
+"Indian Head, MD",Very High,0
+"Indian Head, MD",Ultra High,0
+"Indian Head, MD, US",Low,0
+"Indian Head, MD, US",Medium,1
+"Indian Head, MD, US",High,0
+"Indian Head, MD, US",Very High,0
+"Indian Head, MD, US",Ultra High,0
+"Indianapolis, IN",Low,0
+"Indianapolis, IN",Medium,4
+"Indianapolis, IN",High,1
+"Indianapolis, IN",Very High,0
+"Indianapolis, IN",Ultra High,0
+"Indianapolis, IN, US",Low,0
+"Indianapolis, IN, US",Medium,2
+"Indianapolis, IN, US",High,1
+"Indianapolis, IN, US",Very High,0
+"Indianapolis, IN, US",Ultra High,0
+"Indianapolis, IN, USA",Low,1
+"Indianapolis, IN, USA",Medium,0
+"Indianapolis, IN, USA",High,0
+"Indianapolis, IN, USA",Very High,0
+"Indianapolis, IN, USA",Ultra High,0
+"Irvine, CA",Low,1
+"Irvine, CA",Medium,0
+"Irvine, CA",High,1
+"Irvine, CA",Very High,0
+"Irvine, CA",Ultra High,0
+"Irvine, CA, US",Low,1
+"Irvine, CA, US",Medium,0
+"Irvine, CA, US",High,1
+"Irvine, CA, US",Very High,0
+"Irvine, CA, US",Ultra High,0
+"Irvine, CA, USA",Low,3
+"Irvine, CA, USA",Medium,7
+"Irvine, CA, USA",High,6
+"Irvine, CA, USA",Very High,0
+"Irvine, CA, USA",Ultra High,0
+"Irving, TX",Low,0
+"Irving, TX",Medium,2
+"Irving, TX",High,2
+"Irving, TX",Very High,1
+"Irving, TX",Ultra High,1
+"Irving, TX, US",Low,0
+"Irving, TX, US",Medium,1
+"Irving, TX, US",High,7
+"Irving, TX, US",Very High,1
+"Irving, TX, US",Ultra High,1
+"Irving, TX, USA",Low,0
+"Irving, TX, USA",Medium,2
+"Irving, TX, USA",High,0
+"Irving, TX, USA",Very High,0
+"Irving, TX, USA",Ultra High,0
+"Irwindale, CA, USA",Low,0
+"Irwindale, CA, USA",Medium,0
+"Irwindale, CA, USA",High,1
+"Irwindale, CA, USA",Very High,0
+"Irwindale, CA, USA",Ultra High,0
+"Issaquah, WA, USA",Low,0
+"Issaquah, WA, USA",Medium,1
+"Issaquah, WA, USA",High,0
+"Issaquah, WA, USA",Very High,0
+"Issaquah, WA, USA",Ultra High,0
+"Itasca, IL",Low,0
+"Itasca, IL",Medium,1
+"Itasca, IL",High,0
+"Itasca, IL",Very High,0
+"Itasca, IL",Ultra High,0
+"Itasca, IL, US",Low,0
+"Itasca, IL, US",Medium,1
+"Itasca, IL, US",High,0
+"Itasca, IL, US",Very High,0
+"Itasca, IL, US",Ultra High,0
+"Ivins, UT, USA",Low,0
+"Ivins, UT, USA",Medium,0
+"Ivins, UT, USA",High,1
+"Ivins, UT, USA",Very High,0
+"Ivins, UT, USA",Ultra High,0
+"Jackson, MS, US",Low,0
+"Jackson, MS, US",Medium,1
+"Jackson, MS, US",High,0
+"Jackson, MS, US",Very High,0
+"Jackson, MS, US",Ultra High,0
+"Jacksonville, FL",Low,0
+"Jacksonville, FL",Medium,2
+"Jacksonville, FL",High,3
+"Jacksonville, FL",Very High,0
+"Jacksonville, FL",Ultra High,0
+"Jacksonville, FL, US",Low,1
+"Jacksonville, FL, US",Medium,3
+"Jacksonville, FL, US",High,2
+"Jacksonville, FL, US",Very High,0
+"Jacksonville, FL, US",Ultra High,0
+"Jacksonville, FL, USA",Low,0
+"Jacksonville, FL, USA",Medium,1
+"Jacksonville, FL, USA",High,0
+"Jacksonville, FL, USA",Very High,0
+"Jacksonville, FL, USA",Ultra High,0
+"Jericho, NY, US",Low,0
+"Jericho, NY, US",Medium,1
+"Jericho, NY, US",High,0
+"Jericho, NY, US",Very High,0
+"Jericho, NY, US",Ultra High,0
+"Jersey City, NJ",Low,0
+"Jersey City, NJ",Medium,1
+"Jersey City, NJ",High,0
+"Jersey City, NJ",Very High,0
+"Jersey City, NJ",Ultra High,0
+"Jersey City, NJ, US",Low,0
+"Jersey City, NJ, US",Medium,0
+"Jersey City, NJ, US",High,1
+"Jersey City, NJ, US",Very High,0
+"Jersey City, NJ, US",Ultra High,1
+"Jersey City, NJ, USA",Low,0
+"Jersey City, NJ, USA",Medium,1
+"Jersey City, NJ, USA",High,0
+"Jersey City, NJ, USA",Very High,0
+"Jersey City, NJ, USA",Ultra High,0
+"Johannesburg, CA, USA",Low,0
+"Johannesburg, CA, USA",Medium,1
+"Johannesburg, CA, USA",High,0
+"Johannesburg, CA, USA",Very High,0
+"Johannesburg, CA, USA",Ultra High,0
+"Johns Creek, GA, USA",Low,0
+"Johns Creek, GA, USA",Medium,1
+"Johns Creek, GA, USA",High,0
+"Johns Creek, GA, USA",Very High,0
+"Johns Creek, GA, USA",Ultra High,0
+"Johnston, RI",Low,0
+"Johnston, RI",Medium,0
+"Johnston, RI",High,1
+"Johnston, RI",Very High,0
+"Johnston, RI",Ultra High,0
+"Johnston, RI, US",Low,0
+"Johnston, RI, US",Medium,0
+"Johnston, RI, US",High,1
+"Johnston, RI, US",Very High,0
+"Johnston, RI, US",Ultra High,0
+"Juneau, AK, USA",Low,0
+"Juneau, AK, USA",Medium,1
+"Juneau, AK, USA",High,0
+"Juneau, AK, USA",Very High,0
+"Juneau, AK, USA",Ultra High,0
+"Jurupa Valley, CA, US",Low,0
+"Jurupa Valley, CA, US",Medium,1
+"Jurupa Valley, CA, US",High,0
+"Jurupa Valley, CA, US",Very High,0
+"Jurupa Valley, CA, US",Ultra High,0
+"KS, US",Low,1
+"KS, US",Medium,1
+"KS, US",High,0
+"KS, US",Very High,0
+"KS, US",Ultra High,0
+"Kahului, HI, USA",Low,1
+"Kahului, HI, USA",Medium,0
+"Kahului, HI, USA",High,0
+"Kahului, HI, USA",Very High,0
+"Kahului, HI, USA",Ultra High,0
+"Kansas City, MO",Low,0
+"Kansas City, MO",Medium,4
+"Kansas City, MO",High,0
+"Kansas City, MO",Very High,0
+"Kansas City, MO",Ultra High,0
+"Kansas City, MO, US",Low,0
+"Kansas City, MO, US",Medium,3
+"Kansas City, MO, US",High,1
+"Kansas City, MO, US",Very High,0
+"Kansas City, MO, US",Ultra High,0
+"Kansas City, MO, USA",Low,1
+"Kansas City, MO, USA",Medium,1
+"Kansas City, MO, USA",High,0
+"Kansas City, MO, USA",Very High,0
+"Kansas City, MO, USA",Ultra High,0
+"Keene, NH",Low,0
+"Keene, NH",Medium,1
+"Keene, NH",High,0
+"Keene, NH",Very High,0
+"Keene, NH",Ultra High,0
+"Kennedy Space Center, FL",Low,0
+"Kennedy Space Center, FL",Medium,1
+"Kennedy Space Center, FL",High,0
+"Kennedy Space Center, FL",Very High,0
+"Kennedy Space Center, FL",Ultra High,0
+"Kirkland, WA, USA",Low,1
+"Kirkland, WA, USA",Medium,0
+"Kirkland, WA, USA",High,1
+"Kirkland, WA, USA",Very High,0
+"Kirkland, WA, USA",Ultra High,0
+"Kirtland Addition, NM, USA",Low,0
+"Kirtland Addition, NM, USA",Medium,1
+"Kirtland Addition, NM, USA",High,0
+"Kirtland Addition, NM, USA",Very High,0
+"Kirtland Addition, NM, USA",Ultra High,0
+"La Crosse, WI",Low,1
+"La Crosse, WI",Medium,0
+"La Crosse, WI",High,0
+"La Crosse, WI",Very High,0
+"La Crosse, WI",Ultra High,0
+"La Verne, CA, USA",Low,1
+"La Verne, CA, USA",Medium,0
+"La Verne, CA, USA",High,0
+"La Verne, CA, USA",Very High,0
+"La Verne, CA, USA",Ultra High,0
+"LaVerkin, UT, US",Low,0
+"LaVerkin, UT, US",Medium,1
+"LaVerkin, UT, US",High,0
+"LaVerkin, UT, US",Very High,0
+"LaVerkin, UT, US",Ultra High,0
+"Lake Bluff, IL, US",Low,0
+"Lake Bluff, IL, US",Medium,1
+"Lake Bluff, IL, US",High,0
+"Lake Bluff, IL, US",Very High,0
+"Lake Bluff, IL, US",Ultra High,0
+"Lake Mary, FL",Low,0
+"Lake Mary, FL",Medium,0
+"Lake Mary, FL",High,1
+"Lake Mary, FL",Very High,0
+"Lake Mary, FL",Ultra High,0
+"Lake Mary, FL, US",Low,0
+"Lake Mary, FL, US",Medium,2
+"Lake Mary, FL, US",High,1
+"Lake Mary, FL, US",Very High,0
+"Lake Mary, FL, US",Ultra High,0
+"Lake Oswego, OR, USA",Low,0
+"Lake Oswego, OR, USA",Medium,1
+"Lake Oswego, OR, USA",High,0
+"Lake Oswego, OR, USA",Very High,0
+"Lake Oswego, OR, USA",Ultra High,0
+"Lakewood, CA",Low,1
+"Lakewood, CA",Medium,0
+"Lakewood, CA",High,0
+"Lakewood, CA",Very High,0
+"Lakewood, CA",Ultra High,0
+"Lakewood, CA, US",Low,1
+"Lakewood, CA, US",Medium,0
+"Lakewood, CA, US",High,0
+"Lakewood, CA, US",Very High,0
+"Lakewood, CA, US",Ultra High,0
+"Lakewood, CO",Low,0
+"Lakewood, CO",Medium,1
+"Lakewood, CO",High,1
+"Lakewood, CO",Very High,0
+"Lakewood, CO",Ultra High,0
+"Lakewood, CO, US",Low,0
+"Lakewood, CO, US",Medium,0
+"Lakewood, CO, US",High,1
+"Lakewood, CO, US",Very High,0
+"Lakewood, CO, US",Ultra High,0
+"Langley, VA, US",Low,0
+"Langley, VA, US",Medium,0
+"Langley, VA, US",High,0
+"Langley, VA, US",Very High,0
+"Langley, VA, US",Ultra High,1
+"Lansdale, PA, US",Low,0
+"Lansdale, PA, US",Medium,1
+"Lansdale, PA, US",High,0
+"Lansdale, PA, US",Very High,0
+"Lansdale, PA, US",Ultra High,0
+"Lansing, MI",Low,1
+"Lansing, MI",Medium,3
+"Lansing, MI",High,0
+"Lansing, MI",Very High,0
+"Lansing, MI",Ultra High,0
+"Las Vegas, NV",Low,0
+"Las Vegas, NV",Medium,3
+"Las Vegas, NV",High,0
+"Las Vegas, NV",Very High,0
+"Las Vegas, NV",Ultra High,0
+"Las Vegas, NV, US",Low,1
+"Las Vegas, NV, US",Medium,7
+"Las Vegas, NV, US",High,0
+"Las Vegas, NV, US",Very High,0
+"Las Vegas, NV, US",Ultra High,0
+"Las Vegas, NV, USA",Low,2
+"Las Vegas, NV, USA",Medium,8
+"Las Vegas, NV, USA",High,0
+"Las Vegas, NV, USA",Very High,0
+"Las Vegas, NV, USA",Ultra High,0
+"Lathrop, CA, USA",Low,0
+"Lathrop, CA, USA",Medium,1
+"Lathrop, CA, USA",High,0
+"Lathrop, CA, USA",Very High,0
+"Lathrop, CA, USA",Ultra High,0
+"Laurel, MD",Low,0
+"Laurel, MD",Medium,0
+"Laurel, MD",High,1
+"Laurel, MD",Very High,0
+"Laurel, MD",Ultra High,0
+"Laurel, MS",Low,0
+"Laurel, MS",Medium,1
+"Laurel, MS",High,0
+"Laurel, MS",Very High,0
+"Laurel, MS",Ultra High,0
+"Lawrenceville, GA, USA",Low,0
+"Lawrenceville, GA, USA",Medium,1
+"Lawrenceville, GA, USA",High,0
+"Lawrenceville, GA, USA",Very High,0
+"Lawrenceville, GA, USA",Ultra High,0
+"Layton, UT, USA",Low,0
+"Layton, UT, USA",Medium,1
+"Layton, UT, USA",High,0
+"Layton, UT, USA",Very High,0
+"Layton, UT, USA",Ultra High,0
+"Leawood, KS, USA",Low,1
+"Leawood, KS, USA",Medium,0
+"Leawood, KS, USA",High,0
+"Leawood, KS, USA",Very High,0
+"Leawood, KS, USA",Ultra High,0
+"Lee's Summit, MO, USA",Low,0
+"Lee's Summit, MO, USA",Medium,1
+"Lee's Summit, MO, USA",High,0
+"Lee's Summit, MO, USA",Very High,0
+"Lee's Summit, MO, USA",Ultra High,0
+"Leesburg, VA",Low,0
+"Leesburg, VA",Medium,0
+"Leesburg, VA",High,1
+"Leesburg, VA",Very High,0
+"Leesburg, VA",Ultra High,0
+"Leesburg, VA, US",Low,0
+"Leesburg, VA, US",Medium,0
+"Leesburg, VA, US",High,1
+"Leesburg, VA, US",Very High,0
+"Leesburg, VA, US",Ultra High,0
+"Lehi, UT, US",Low,1
+"Lehi, UT, US",Medium,0
+"Lehi, UT, US",High,1
+"Lehi, UT, US",Very High,0
+"Lehi, UT, US",Ultra High,0
+"Lemoore, CA, USA",Low,0
+"Lemoore, CA, USA",Medium,1
+"Lemoore, CA, USA",High,0
+"Lemoore, CA, USA",Very High,0
+"Lemoore, CA, USA",Ultra High,0
+"Levis, CA, USA",Low,0
+"Levis, CA, USA",Medium,2
+"Levis, CA, USA",High,0
+"Levis, CA, USA",Very High,0
+"Levis, CA, USA",Ultra High,0
+"Lewisville, TX, US",Low,0
+"Lewisville, TX, US",Medium,1
+"Lewisville, TX, US",High,0
+"Lewisville, TX, US",Very High,0
+"Lewisville, TX, US",Ultra High,0
+"Lexington, KY",Low,0
+"Lexington, KY",Medium,1
+"Lexington, KY",High,0
+"Lexington, KY",Very High,0
+"Lexington, KY",Ultra High,0
+"Lexington, KY, US",Low,0
+"Lexington, KY, US",Medium,1
+"Lexington, KY, US",High,0
+"Lexington, KY, US",Very High,0
+"Lexington, KY, US",Ultra High,0
+"Liberty, MO, US",Low,0
+"Liberty, MO, US",Medium,1
+"Liberty, MO, US",High,0
+"Liberty, MO, US",Very High,0
+"Liberty, MO, US",Ultra High,0
+"Lincoln, NE",Low,0
+"Lincoln, NE",Medium,1
+"Lincoln, NE",High,0
+"Lincoln, NE",Very High,0
+"Lincoln, NE",Ultra High,0
+"Lincoln, NE, US",Low,0
+"Lincoln, NE, US",Medium,2
+"Lincoln, NE, US",High,0
+"Lincoln, NE, US",Very High,0
+"Lincoln, NE, US",Ultra High,0
+"Linthicum Heights, MD, US",Low,1
+"Linthicum Heights, MD, US",Medium,0
+"Linthicum Heights, MD, US",High,0
+"Linthicum Heights, MD, US",Very High,0
+"Linthicum Heights, MD, US",Ultra High,0
+"Lisbon, ME",Low,0
+"Lisbon, ME",Medium,0
+"Lisbon, ME",High,1
+"Lisbon, ME",Very High,0
+"Lisbon, ME",Ultra High,0
+"Little Rock, AR",Low,0
+"Little Rock, AR",Medium,3
+"Little Rock, AR",High,0
+"Little Rock, AR",Very High,0
+"Little Rock, AR",Ultra High,0
+"Little Rock, AR, US",Low,0
+"Little Rock, AR, US",Medium,1
+"Little Rock, AR, US",High,0
+"Little Rock, AR, US",Very High,0
+"Little Rock, AR, US",Ultra High,0
+"Littleton, CO, USA",Low,0
+"Littleton, CO, USA",Medium,2
+"Littleton, CO, USA",High,0
+"Littleton, CO, USA",Very High,0
+"Littleton, CO, USA",Ultra High,0
+"Livermore, CA",Low,0
+"Livermore, CA",Medium,0
+"Livermore, CA",High,1
+"Livermore, CA",Very High,0
+"Livermore, CA",Ultra High,0
+"Livermore, CA, US",Low,0
+"Livermore, CA, US",Medium,0
+"Livermore, CA, US",High,2
+"Livermore, CA, US",Very High,0
+"Livermore, CA, US",Ultra High,0
+"Livermore, CA, USA",Low,0
+"Livermore, CA, USA",Medium,1
+"Livermore, CA, USA",High,0
+"Livermore, CA, USA",Very High,0
+"Livermore, CA, USA",Ultra High,0
+"Livingston, CA, USA",Low,1
+"Livingston, CA, USA",Medium,0
+"Livingston, CA, USA",High,0
+"Livingston, CA, USA",Very High,0
+"Livingston, CA, USA",Ultra High,0
+"Lompoc, CA, USA",Low,0
+"Lompoc, CA, USA",Medium,1
+"Lompoc, CA, USA",High,0
+"Lompoc, CA, USA",Very High,0
+"Lompoc, CA, USA",Ultra High,0
+"Lone Tree, CO",Low,1
+"Lone Tree, CO",Medium,0
+"Lone Tree, CO",High,1
+"Lone Tree, CO",Very High,1
+"Lone Tree, CO",Ultra High,0
+"Long Beach, CA, USA",Low,0
+"Long Beach, CA, USA",Medium,1
+"Long Beach, CA, USA",High,3
+"Long Beach, CA, USA",Very High,0
+"Long Beach, CA, USA",Ultra High,0
+"Long Beach, NY",Low,0
+"Long Beach, NY",Medium,1
+"Long Beach, NY",High,0
+"Long Beach, NY",Very High,0
+"Long Beach, NY",Ultra High,0
+"Long Island City, NY, US",Low,1
+"Long Island City, NY, US",Medium,0
+"Long Island City, NY, US",High,0
+"Long Island City, NY, US",Very High,0
+"Long Island City, NY, US",Ultra High,0
+"Lorton, VA",Low,0
+"Lorton, VA",Medium,1
+"Lorton, VA",High,0
+"Lorton, VA",Very High,1
+"Lorton, VA",Ultra High,0
+"Lorton, VA, US",Low,0
+"Lorton, VA, US",Medium,0
+"Lorton, VA, US",High,0
+"Lorton, VA, US",Very High,1
+"Lorton, VA, US",Ultra High,0
+"Los Angeles, CA",Low,3
+"Los Angeles, CA",Medium,1
+"Los Angeles, CA",High,1
+"Los Angeles, CA",Very High,1
+"Los Angeles, CA",Ultra High,0
+"Los Angeles, CA, US",Low,3
+"Los Angeles, CA, US",Medium,3
+"Los Angeles, CA, US",High,3
+"Los Angeles, CA, US",Very High,1
+"Los Angeles, CA, US",Ultra High,0
+"Los Angeles, CA, USA",Low,6
+"Los Angeles, CA, USA",Medium,23
+"Los Angeles, CA, USA",High,6
+"Los Angeles, CA, USA",Very High,2
+"Los Angeles, CA, USA",Ultra High,1
+"Louisville, KY",Low,1
+"Louisville, KY",Medium,1
+"Louisville, KY",High,0
+"Louisville, KY",Very High,0
+"Louisville, KY",Ultra High,0
+"Louisville, KY, US",Low,0
+"Louisville, KY, US",Medium,1
+"Louisville, KY, US",High,0
+"Louisville, KY, US",Very High,1
+"Louisville, KY, US",Ultra High,1
+"Lumberton, NJ",Low,0
+"Lumberton, NJ",Medium,1
+"Lumberton, NJ",High,0
+"Lumberton, NJ",Very High,0
+"Lumberton, NJ",Ultra High,0
+"Lynnfield, MA",Low,0
+"Lynnfield, MA",Medium,0
+"Lynnfield, MA",High,1
+"Lynnfield, MA",Very High,0
+"Lynnfield, MA",Ultra High,0
+"Lynnwood, WA, USA",Low,0
+"Lynnwood, WA, USA",Medium,1
+"Lynnwood, WA, USA",High,0
+"Lynnwood, WA, USA",Very High,0
+"Lynnwood, WA, USA",Ultra High,0
+"MA, US",Low,0
+"MA, US",Medium,0
+"MA, US",High,1
+"MA, US",Very High,0
+"MA, US",Ultra High,0
+"MO, US",Low,1
+"MO, US",Medium,1
+"MO, US",High,1
+"MO, US",Very High,0
+"MO, US",Ultra High,0
+"Macclenny, FL",Low,0
+"Macclenny, FL",Medium,1
+"Macclenny, FL",High,0
+"Macclenny, FL",Very High,0
+"Macclenny, FL",Ultra High,0
+"Macclenny, FL, US",Low,0
+"Macclenny, FL, US",Medium,1
+"Macclenny, FL, US",High,0
+"Macclenny, FL, US",Very High,0
+"Macclenny, FL, US",Ultra High,0
+"Macon, GA",Low,0
+"Macon, GA",Medium,1
+"Macon, GA",High,0
+"Macon, GA",Very High,0
+"Macon, GA",Ultra High,0
+"Madison, WI",Low,1
+"Madison, WI",Medium,1
+"Madison, WI",High,1
+"Madison, WI",Very High,0
+"Madison, WI",Ultra High,0
+"Madison, WI, US",Low,0
+"Madison, WI, US",Medium,2
+"Madison, WI, US",High,0
+"Madison, WI, US",Very High,0
+"Madison, WI, US",Ultra High,0
+"Madison, WI, USA",Low,0
+"Madison, WI, USA",Medium,0
+"Madison, WI, USA",High,1
+"Madison, WI, USA",Very High,0
+"Madison, WI, USA",Ultra High,0
+"Magna, UT, USA",Low,0
+"Magna, UT, USA",Medium,1
+"Magna, UT, USA",High,0
+"Magna, UT, USA",Very High,0
+"Magna, UT, USA",Ultra High,0
+"Malvern, PA",Low,1
+"Malvern, PA",Medium,2
+"Malvern, PA",High,0
+"Malvern, PA",Very High,0
+"Malvern, PA",Ultra High,0
+"Malvern, PA, US",Low,0
+"Malvern, PA, US",Medium,1
+"Malvern, PA, US",High,1
+"Malvern, PA, US",Very High,0
+"Malvern, PA, US",Ultra High,0
+"Manassas, VA, USA",Low,0
+"Manassas, VA, USA",Medium,1
+"Manassas, VA, USA",High,0
+"Manassas, VA, USA",Very High,0
+"Manassas, VA, USA",Ultra High,0
+"Manhasset, NY",Low,0
+"Manhasset, NY",Medium,1
+"Manhasset, NY",High,0
+"Manhasset, NY",Very High,0
+"Manhasset, NY",Ultra High,0
+"Manhasset, NY, US",Low,0
+"Manhasset, NY, US",Medium,1
+"Manhasset, NY, US",High,0
+"Manhasset, NY, US",Very High,0
+"Manhasset, NY, US",Ultra High,0
+"Manhasset, NY, USA",Low,0
+"Manhasset, NY, USA",Medium,1
+"Manhasset, NY, USA",High,0
+"Manhasset, NY, USA",Very High,0
+"Manhasset, NY, USA",Ultra High,0
+"Manhattan, NY, USA",Low,0
+"Manhattan, NY, USA",Medium,0
+"Manhattan, NY, USA",High,1
+"Manhattan, NY, USA",Very High,0
+"Manhattan, NY, USA",Ultra High,0
+"Manteno, IL",Low,0
+"Manteno, IL",Medium,1
+"Manteno, IL",High,0
+"Manteno, IL",Very High,0
+"Manteno, IL",Ultra High,0
+"Maple Grove, MN",Low,0
+"Maple Grove, MN",Medium,1
+"Maple Grove, MN",High,0
+"Maple Grove, MN",Very High,0
+"Maple Grove, MN",Ultra High,0
+"Maple Grove, MN, US",Low,0
+"Maple Grove, MN, US",Medium,0
+"Maple Grove, MN, US",High,1
+"Maple Grove, MN, US",Very High,0
+"Maple Grove, MN, US",Ultra High,0
+"Marietta, OH, USA",Low,0
+"Marietta, OH, USA",Medium,1
+"Marietta, OH, USA",High,0
+"Marietta, OH, USA",Very High,0
+"Marietta, OH, USA",Ultra High,0
+"Marlborough, MA",Low,0
+"Marlborough, MA",Medium,2
+"Marlborough, MA",High,0
+"Marlborough, MA",Very High,0
+"Marlborough, MA",Ultra High,0
+"Marlborough, MA, US",Low,0
+"Marlborough, MA, US",Medium,0
+"Marlborough, MA, US",High,1
+"Marlborough, MA, US",Very High,0
+"Marlborough, MA, US",Ultra High,0
+"Martinsburg, WV, US",Low,0
+"Martinsburg, WV, US",Medium,1
+"Martinsburg, WV, US",High,0
+"Martinsburg, WV, US",Very High,0
+"Martinsburg, WV, US",Ultra High,0
+"Martinsburg, WV, USA",Low,0
+"Martinsburg, WV, USA",Medium,1
+"Martinsburg, WV, USA",High,0
+"Martinsburg, WV, USA",Very High,0
+"Martinsburg, WV, USA",Ultra High,0
+"Mason, OH",Low,0
+"Mason, OH",Medium,1
+"Mason, OH",High,0
+"Mason, OH",Very High,0
+"Mason, OH",Ultra High,0
+"Mason, OH, US",Low,0
+"Mason, OH, US",Medium,1
+"Mason, OH, US",High,0
+"Mason, OH, US",Very High,0
+"Mason, OH, US",Ultra High,0
+"Mattoon, IL, US",Low,0
+"Mattoon, IL, US",Medium,1
+"Mattoon, IL, US",High,0
+"Mattoon, IL, US",Very High,0
+"Mattoon, IL, US",Ultra High,0
+"Mattoon, IL, USA",Low,0
+"Mattoon, IL, USA",Medium,1
+"Mattoon, IL, USA",High,0
+"Mattoon, IL, USA",Very High,0
+"Mattoon, IL, USA",Ultra High,0
+"Maumee, OH, USA",Low,0
+"Maumee, OH, USA",Medium,1
+"Maumee, OH, USA",High,0
+"Maumee, OH, USA",Very High,0
+"Maumee, OH, USA",Ultra High,0
+"Mayfield Village, OH, US",Low,0
+"Mayfield Village, OH, US",Medium,0
+"Mayfield Village, OH, US",High,1
+"Mayfield Village, OH, US",Very High,0
+"Mayfield Village, OH, US",Ultra High,0
+"McLean, VA",Low,0
+"McLean, VA",Medium,0
+"McLean, VA",High,1
+"McLean, VA",Very High,0
+"McLean, VA",Ultra High,0
+"McLean, VA, US",Low,0
+"McLean, VA, US",Medium,1
+"McLean, VA, US",High,0
+"McLean, VA, US",Very High,0
+"McLean, VA, US",Ultra High,0
+"Mechanicsville, VA, US",Low,1
+"Mechanicsville, VA, US",Medium,0
+"Mechanicsville, VA, US",High,0
+"Mechanicsville, VA, US",Very High,0
+"Mechanicsville, VA, US",Ultra High,0
+"Media, PA, USA",Low,0
+"Media, PA, USA",Medium,1
+"Media, PA, USA",High,0
+"Media, PA, USA",Very High,0
+"Media, PA, USA",Ultra High,0
+"Memphis, TN",Low,0
+"Memphis, TN",Medium,4
+"Memphis, TN",High,0
+"Memphis, TN",Very High,0
+"Memphis, TN",Ultra High,0
+"Memphis, TN, US",Low,0
+"Memphis, TN, US",Medium,2
+"Memphis, TN, US",High,1
+"Memphis, TN, US",Very High,0
+"Memphis, TN, US",Ultra High,0
+"Memphis, TN, USA",Low,0
+"Memphis, TN, USA",Medium,2
+"Memphis, TN, USA",High,0
+"Memphis, TN, USA",Very High,0
+"Memphis, TN, USA",Ultra High,0
+"Menlo Park, CA, USA",Low,1
+"Menlo Park, CA, USA",Medium,0
+"Menlo Park, CA, USA",High,0
+"Menlo Park, CA, USA",Very High,0
+"Menlo Park, CA, USA",Ultra High,0
+"Meridian, ID, USA",Low,0
+"Meridian, ID, USA",Medium,2
+"Meridian, ID, USA",High,1
+"Meridian, ID, USA",Very High,0
+"Meridian, ID, USA",Ultra High,0
+"Merrimack, NH",Low,0
+"Merrimack, NH",Medium,0
+"Merrimack, NH",High,1
+"Merrimack, NH",Very High,0
+"Merrimack, NH",Ultra High,0
+"Metairie, LA, US",Low,0
+"Metairie, LA, US",Medium,0
+"Metairie, LA, US",High,1
+"Metairie, LA, US",Very High,0
+"Metairie, LA, US",Ultra High,0
+"Miami Beach, FL",Low,0
+"Miami Beach, FL",Medium,2
+"Miami Beach, FL",High,0
+"Miami Beach, FL",Very High,0
+"Miami Beach, FL",Ultra High,0
+"Miami Beach, FL, US",Low,0
+"Miami Beach, FL, US",Medium,1
+"Miami Beach, FL, US",High,0
+"Miami Beach, FL, US",Very High,0
+"Miami Beach, FL, US",Ultra High,0
+"Miami, FL",Low,0
+"Miami, FL",Medium,7
+"Miami, FL",High,1
+"Miami, FL",Very High,0
+"Miami, FL",Ultra High,1
+"Miami, FL, US",Low,2
+"Miami, FL, US",Medium,2
+"Miami, FL, US",High,1
+"Miami, FL, US",Very High,0
+"Miami, FL, US",Ultra High,1
+"Miamisburg, OH",Low,0
+"Miamisburg, OH",Medium,2
+"Miamisburg, OH",High,0
+"Miamisburg, OH",Very High,0
+"Miamisburg, OH",Ultra High,0
+"Middleton, WI, USA",Low,0
+"Middleton, WI, USA",Medium,1
+"Middleton, WI, USA",High,0
+"Middleton, WI, USA",Very High,0
+"Middleton, WI, USA",Ultra High,0
+"Midvale, UT, USA",Low,0
+"Midvale, UT, USA",Medium,1
+"Midvale, UT, USA",High,0
+"Midvale, UT, USA",Very High,0
+"Midvale, UT, USA",Ultra High,0
+"Millersburg, KY, USA",Low,0
+"Millersburg, KY, USA",Medium,1
+"Millersburg, KY, USA",High,0
+"Millersburg, KY, USA",Very High,0
+"Millersburg, KY, USA",Ultra High,0
+"Milligan, TN, US",Low,0
+"Milligan, TN, US",Medium,1
+"Milligan, TN, US",High,0
+"Milligan, TN, US",Very High,0
+"Milligan, TN, US",Ultra High,0
+"Milwaukee, WI",Low,0
+"Milwaukee, WI",Medium,3
+"Milwaukee, WI",High,1
+"Milwaukee, WI",Very High,0
+"Milwaukee, WI",Ultra High,0
+"Milwaukee, WI, US",Low,0
+"Milwaukee, WI, US",Medium,1
+"Milwaukee, WI, US",High,1
+"Milwaukee, WI, US",Very High,0
+"Milwaukee, WI, US",Ultra High,0
+"Minneapolis, MN",Low,0
+"Minneapolis, MN",Medium,3
+"Minneapolis, MN",High,3
+"Minneapolis, MN",Very High,0
+"Minneapolis, MN",Ultra High,0
+"Minneapolis, MN, US",Low,0
+"Minneapolis, MN, US",Medium,4
+"Minneapolis, MN, US",High,2
+"Minneapolis, MN, US",Very High,0
+"Minneapolis, MN, US",Ultra High,0
+"Minneapolis, MN, USA",Low,0
+"Minneapolis, MN, USA",Medium,1
+"Minneapolis, MN, USA",High,1
+"Minneapolis, MN, USA",Very High,0
+"Minneapolis, MN, USA",Ultra High,0
+"Minnesota Lake, MN",Low,0
+"Minnesota Lake, MN",Medium,1
+"Minnesota Lake, MN",High,0
+"Minnesota Lake, MN",Very High,0
+"Minnesota Lake, MN",Ultra High,0
+"Minnesota, MN, USA",Low,0
+"Minnesota, MN, USA",Medium,1
+"Minnesota, MN, USA",High,0
+"Minnesota, MN, USA",Very High,0
+"Minnesota, MN, USA",Ultra High,0
+"Minnetonka, MN",Low,1
+"Minnetonka, MN",Medium,3
+"Minnetonka, MN",High,1
+"Minnetonka, MN",Very High,0
+"Minnetonka, MN",Ultra High,0
+"Minnetonka, MN, US",Low,1
+"Minnetonka, MN, US",Medium,1
+"Minnetonka, MN, US",High,1
+"Minnetonka, MN, US",Very High,0
+"Minnetonka, MN, US",Ultra High,0
+"Miramar, FL, US",Low,0
+"Miramar, FL, US",Medium,0
+"Miramar, FL, US",High,1
+"Miramar, FL, US",Very High,0
+"Miramar, FL, US",Ultra High,0
+"Mission, KS, USA",Low,0
+"Mission, KS, USA",Medium,1
+"Mission, KS, USA",High,0
+"Mission, KS, USA",Very High,0
+"Mission, KS, USA",Ultra High,0
+"Missoula, MT, USA",Low,1
+"Missoula, MT, USA",Medium,0
+"Missoula, MT, USA",High,0
+"Missoula, MT, USA",Very High,0
+"Missoula, MT, USA",Ultra High,0
+Missouri,Low,0
+Missouri,Medium,1
+Missouri,High,1
+Missouri,Very High,0
+Missouri,Ultra High,0
+"Modesto, CA, USA",Low,0
+"Modesto, CA, USA",Medium,1
+"Modesto, CA, USA",High,0
+"Modesto, CA, USA",Very High,0
+"Modesto, CA, USA",Ultra High,0
+"Monrovia, CA, USA",Low,0
+"Monrovia, CA, USA",Medium,0
+"Monrovia, CA, USA",High,2
+"Monrovia, CA, USA",Very High,0
+"Monrovia, CA, USA",Ultra High,0
+"Monterey, CA, USA",Low,0
+"Monterey, CA, USA",Medium,3
+"Monterey, CA, USA",High,1
+"Monterey, CA, USA",Very High,0
+"Monterey, CA, USA",Ultra High,0
+"Montgomery, AL, USA",Low,0
+"Montgomery, AL, USA",Medium,1
+"Montgomery, AL, USA",High,0
+"Montgomery, AL, USA",Very High,0
+"Montgomery, AL, USA",Ultra High,0
+"Montpelier, VT",Low,0
+"Montpelier, VT",Medium,1
+"Montpelier, VT",High,0
+"Montpelier, VT",Very High,0
+"Montpelier, VT",Ultra High,0
+"Montpelier, VT, US",Low,0
+"Montpelier, VT, US",Medium,1
+"Montpelier, VT, US",High,0
+"Montpelier, VT, US",Very High,0
+"Montpelier, VT, US",Ultra High,0
+"Moon, PA",Low,0
+"Moon, PA",Medium,1
+"Moon, PA",High,0
+"Moon, PA",Very High,0
+"Moon, PA",Ultra High,0
+"Moorpark, CA",Low,0
+"Moorpark, CA",Medium,2
+"Moorpark, CA",High,0
+"Moorpark, CA",Very High,0
+"Moorpark, CA",Ultra High,0
+"Moorpark, CA, US",Low,0
+"Moorpark, CA, US",Medium,2
+"Moorpark, CA, US",High,0
+"Moorpark, CA, US",Very High,0
+"Moorpark, CA, US",Ultra High,0
+"Moreno Valley, CA, USA",Low,0
+"Moreno Valley, CA, USA",Medium,1
+"Moreno Valley, CA, USA",High,0
+"Moreno Valley, CA, USA",Very High,0
+"Moreno Valley, CA, USA",Ultra High,0
+"Morristown, NJ",Low,0
+"Morristown, NJ",Medium,1
+"Morristown, NJ",High,0
+"Morristown, NJ",Very High,0
+"Morristown, NJ",Ultra High,0
+"Morrisville, NC, USA",Low,0
+"Morrisville, NC, USA",Medium,1
+"Morrisville, NC, USA",High,0
+"Morrisville, NC, USA",Very High,0
+"Morrisville, NC, USA",Ultra High,0
+"Mount Laurel, NJ",Low,0
+"Mount Laurel, NJ",Medium,0
+"Mount Laurel, NJ",High,1
+"Mount Laurel, NJ",Very High,0
+"Mount Laurel, NJ",Ultra High,0
+"Mount Laurel, NJ, US",Low,0
+"Mount Laurel, NJ, US",Medium,2
+"Mount Laurel, NJ, US",High,0
+"Mount Laurel, NJ, US",Very High,0
+"Mount Laurel, NJ, US",Ultra High,0
+"Mount Vernon, WA, US",Low,2
+"Mount Vernon, WA, US",Medium,0
+"Mount Vernon, WA, US",High,0
+"Mount Vernon, WA, US",Very High,0
+"Mount Vernon, WA, US",Ultra High,0
+"Mountain View, CA",Low,1
+"Mountain View, CA",Medium,0
+"Mountain View, CA",High,0
+"Mountain View, CA",Very High,0
+"Mountain View, CA",Ultra High,0
+"Mountain View, CA, US",Low,0
+"Mountain View, CA, US",Medium,1
+"Mountain View, CA, US",High,0
+"Mountain View, CA, US",Very High,2
+"Mountain View, CA, US",Ultra High,0
+"Mountain View, CA, USA",Low,3
+"Mountain View, CA, USA",Medium,1
+"Mountain View, CA, USA",High,1
+"Mountain View, CA, USA",Very High,0
+"Mountain View, CA, USA",Ultra High,0
+"Mt Laurel Township, NJ",Low,0
+"Mt Laurel Township, NJ",Medium,0
+"Mt Laurel Township, NJ",High,1
+"Mt Laurel Township, NJ",Very High,0
+"Mt Laurel Township, NJ",Ultra High,0
+"Muskego, WI, US",Low,0
+"Muskego, WI, US",Medium,1
+"Muskego, WI, US",High,0
+"Muskego, WI, US",Very High,0
+"Muskego, WI, US",Ultra High,0
+"Myrtle Point, OR, USA",Low,0
+"Myrtle Point, OR, USA",Medium,0
+"Myrtle Point, OR, USA",High,0
+"Myrtle Point, OR, USA",Very High,1
+"Myrtle Point, OR, USA",Ultra High,0
+"NC, US",Low,0
+"NC, US",Medium,1
+"NC, US",High,1
+"NC, US",Very High,0
+"NC, US",Ultra High,0
+"NJ, US",Low,1
+"NJ, US",Medium,1
+"NJ, US",High,0
+"NJ, US",Very High,0
+"NJ, US",Ultra High,0
+"NM, US",Low,1
+"NM, US",Medium,0
+"NM, US",High,0
+"NM, US",Very High,0
+"NM, US",Ultra High,0
+"NV, US",Low,0
+"NV, US",Medium,1
+"NV, US",High,0
+"NV, US",Very High,0
+"NV, US",Ultra High,0
+"Naperville, IL, USA",Low,0
+"Naperville, IL, USA",Medium,1
+"Naperville, IL, USA",High,0
+"Naperville, IL, USA",Very High,0
+"Naperville, IL, USA",Ultra High,0
+"Nashville, TN",Low,6
+"Nashville, TN",Medium,6
+"Nashville, TN",High,3
+"Nashville, TN",Very High,0
+"Nashville, TN",Ultra High,0
+"Nashville, TN, US",Low,5
+"Nashville, TN, US",Medium,17
+"Nashville, TN, US",High,0
+"Nashville, TN, US",Very High,0
+"Nashville, TN, US",Ultra High,0
+"Nashville, TN, USA",Low,0
+"Nashville, TN, USA",Medium,0
+"Nashville, TN, USA",High,0
+"Nashville, TN, USA",Very High,0
+"Nashville, TN, USA",Ultra High,1
+"National City, CA, USA",Low,2
+"National City, CA, USA",Medium,0
+"National City, CA, USA",High,0
+"National City, CA, USA",Very High,0
+"National City, CA, USA",Ultra High,0
+"New Albany, IN, US",Low,0
+"New Albany, IN, US",Medium,1
+"New Albany, IN, US",High,0
+"New Albany, IN, US",Very High,0
+"New Albany, IN, US",Ultra High,0
+"New Bedford, MA, USA",Low,0
+"New Bedford, MA, USA",Medium,1
+"New Bedford, MA, USA",High,0
+"New Bedford, MA, USA",Very High,0
+"New Bedford, MA, USA",Ultra High,0
+"New Hartford, NY, USA",Low,1
+"New Hartford, NY, USA",Medium,0
+"New Hartford, NY, USA",High,0
+"New Hartford, NY, USA",Very High,0
+"New Hartford, NY, USA",Ultra High,0
+"New Haven, CT",Low,0
+"New Haven, CT",Medium,1
+"New Haven, CT",High,0
+"New Haven, CT",Very High,0
+"New Haven, CT",Ultra High,0
+"New Haven, CT, US",Low,0
+"New Haven, CT, US",Medium,0
+"New Haven, CT, US",High,1
+"New Haven, CT, US",Very High,0
+"New Haven, CT, US",Ultra High,0
+"New Holland, PA, US",Low,0
+"New Holland, PA, US",Medium,1
+"New Holland, PA, US",High,0
+"New Holland, PA, US",Very High,0
+"New Holland, PA, US",Ultra High,0
+"New Orleans, LA",Low,0
+"New Orleans, LA",Medium,1
+"New Orleans, LA",High,0
+"New Orleans, LA",Very High,0
+"New Orleans, LA",Ultra High,0
+"New Orleans, LA, US",Low,0
+"New Orleans, LA, US",Medium,2
+"New Orleans, LA, US",High,0
+"New Orleans, LA, US",Very High,0
+"New Orleans, LA, US",Ultra High,0
+"New Port Richey, FL, USA",Low,0
+"New Port Richey, FL, USA",Medium,1
+"New Port Richey, FL, USA",High,0
+"New Port Richey, FL, USA",Very High,0
+"New Port Richey, FL, USA",Ultra High,0
+"New York, NY",Low,4
+"New York, NY",Medium,16
+"New York, NY",High,4
+"New York, NY",Very High,3
+"New York, NY",Ultra High,0
+"New York, NY, US",Low,0
+"New York, NY, US",Medium,16
+"New York, NY, US",High,8
+"New York, NY, US",Very High,6
+"New York, NY, US",Ultra High,1
+"New York, NY, USA",Low,1
+"New York, NY, USA",Medium,7
+"New York, NY, USA",High,0
+"New York, NY, USA",Very High,0
+"New York, NY, USA",Ultra High,0
+"New York, United States",Low,0
+"New York, United States",Medium,1
+"New York, United States",High,0
+"New York, United States",Very High,0
+"New York, United States",Ultra High,0
+"Newark, CA",Low,0
+"Newark, CA",Medium,0
+"Newark, CA",High,0
+"Newark, CA",Very High,1
+"Newark, CA",Ultra High,0
+"Newark, NJ",Low,0
+"Newark, NJ",Medium,1
+"Newark, NJ",High,0
+"Newark, NJ",Very High,0
+"Newark, NJ",Ultra High,0
+"Newark, NJ, US",Low,0
+"Newark, NJ, US",Medium,1
+"Newark, NJ, US",High,0
+"Newark, NJ, US",Very High,0
+"Newark, NJ, US",Ultra High,0
+"Newark, NJ, USA",Low,0
+"Newark, NJ, USA",Medium,1
+"Newark, NJ, USA",High,0
+"Newark, NJ, USA",Very High,0
+"Newark, NJ, USA",Ultra High,0
+"Newhall, CA, USA",Low,0
+"Newhall, CA, USA",Medium,1
+"Newhall, CA, USA",High,0
+"Newhall, CA, USA",Very High,0
+"Newhall, CA, USA",Ultra High,0
+"Newport Beach, CA, US",Low,0
+"Newport Beach, CA, US",Medium,1
+"Newport Beach, CA, US",High,0
+"Newport Beach, CA, US",Very High,0
+"Newport Beach, CA, US",Ultra High,0
+"Newport Beach, CA, USA",Low,1
+"Newport Beach, CA, USA",Medium,2
+"Newport Beach, CA, USA",High,0
+"Newport Beach, CA, USA",Very High,0
+"Newport Beach, CA, USA",Ultra High,0
+"Newport News, VA",Low,0
+"Newport News, VA",Medium,2
+"Newport News, VA",High,0
+"Newport News, VA",Very High,0
+"Newport News, VA",Ultra High,0
+"Newton, GA",Low,0
+"Newton, GA",Medium,0
+"Newton, GA",High,1
+"Newton, GA",Very High,0
+"Newton, GA",Ultra High,0
+"Noblesville, IN",Low,0
+"Noblesville, IN",Medium,1
+"Noblesville, IN",High,0
+"Noblesville, IN",Very High,0
+"Noblesville, IN",Ultra High,0
+"Norfolk, VA",Low,1
+"Norfolk, VA",Medium,2
+"Norfolk, VA",High,0
+"Norfolk, VA",Very High,0
+"Norfolk, VA",Ultra High,0
+"Norfolk, VA, US",Low,0
+"Norfolk, VA, US",Medium,2
+"Norfolk, VA, US",High,0
+"Norfolk, VA, US",Very High,0
+"Norfolk, VA, US",Ultra High,0
+"Norfolk, VA, USA",Low,0
+"Norfolk, VA, USA",Medium,1
+"Norfolk, VA, USA",High,0
+"Norfolk, VA, USA",Very High,0
+"Norfolk, VA, USA",Ultra High,0
+North Carolina,Low,0
+North Carolina,Medium,1
+North Carolina,High,0
+North Carolina,Very High,0
+North Carolina,Ultra High,0
+"North Highlands, CA, USA",Low,1
+"North Highlands, CA, USA",Medium,0
+"North Highlands, CA, USA",High,0
+"North Highlands, CA, USA",Very High,0
+"North Highlands, CA, USA",Ultra High,0
+"North Las Vegas, NV, USA",Low,0
+"North Las Vegas, NV, USA",Medium,1
+"North Las Vegas, NV, USA",High,0
+"North Las Vegas, NV, USA",Very High,0
+"North Las Vegas, NV, USA",Ultra High,0
+"North Wales, PA",Low,1
+"North Wales, PA",Medium,0
+"North Wales, PA",High,0
+"North Wales, PA",Very High,0
+"North Wales, PA",Ultra High,0
+"Northbrook, IL",Low,0
+"Northbrook, IL",Medium,0
+"Northbrook, IL",High,1
+"Northbrook, IL",Very High,0
+"Northbrook, IL",Ultra High,0
+"Northbrook, IL, US",Low,0
+"Northbrook, IL, US",Medium,0
+"Northbrook, IL, US",High,1
+"Northbrook, IL, US",Very High,0
+"Northbrook, IL, US",Ultra High,0
+"Northfield, IL",Low,0
+"Northfield, IL",Medium,1
+"Northfield, IL",High,0
+"Northfield, IL",Very High,0
+"Northfield, IL",Ultra High,0
+"Northfield, IL, USA",Low,0
+"Northfield, IL, USA",Medium,1
+"Northfield, IL, USA",High,0
+"Northfield, IL, USA",Very High,0
+"Northfield, IL, USA",Ultra High,0
+"Norwood Young America, MN",Low,0
+"Norwood Young America, MN",Medium,1
+"Norwood Young America, MN",High,0
+"Norwood Young America, MN",Very High,0
+"Norwood Young America, MN",Ultra High,0
+"Nottingham, MD, US",Low,0
+"Nottingham, MD, US",Medium,1
+"Nottingham, MD, US",High,0
+"Nottingham, MD, US",Very High,0
+"Nottingham, MD, US",Ultra High,0
+"O Fallon, MO",Low,0
+"O Fallon, MO",Medium,0
+"O Fallon, MO",High,1
+"O Fallon, MO",Very High,0
+"O Fallon, MO",Ultra High,0
+"O'Fallon, MO, US",Low,0
+"O'Fallon, MO, US",Medium,0
+"O'Fallon, MO, US",High,1
+"O'Fallon, MO, US",Very High,0
+"O'Fallon, MO, US",Ultra High,0
+"Oakland, CA",Low,2
+"Oakland, CA",Medium,0
+"Oakland, CA",High,0
+"Oakland, CA",Very High,1
+"Oakland, CA",Ultra High,0
+"Oakland, CA, US",Low,0
+"Oakland, CA, US",Medium,1
+"Oakland, CA, US",High,0
+"Oakland, CA, US",Very High,1
+"Oakland, CA, US",Ultra High,0
+"Oakland, CA, USA",Low,1
+"Oakland, CA, USA",Medium,2
+"Oakland, CA, USA",High,0
+"Oakland, CA, USA",Very High,0
+"Oakland, CA, USA",Ultra High,0
+"Ocala, FL",Low,0
+"Ocala, FL",Medium,1
+"Ocala, FL",High,0
+"Ocala, FL",Very High,0
+"Ocala, FL",Ultra High,0
+"Ocala, FL, US",Low,0
+"Ocala, FL, US",Medium,1
+"Ocala, FL, US",High,0
+"Ocala, FL, US",Very High,0
+"Ocala, FL, US",Ultra High,0
+"Oceanport, NJ, USA",Low,0
+"Oceanport, NJ, USA",Medium,1
+"Oceanport, NJ, USA",High,0
+"Oceanport, NJ, USA",Very High,0
+"Oceanport, NJ, USA",Ultra High,0
+"Oceanside, CA, USA",Low,0
+"Oceanside, CA, USA",Medium,2
+"Oceanside, CA, USA",High,0
+"Oceanside, CA, USA",Very High,0
+"Oceanside, CA, USA",Ultra High,0
+"Ochillee, GA, USA",Low,1
+"Ochillee, GA, USA",Medium,0
+"Ochillee, GA, USA",High,0
+"Ochillee, GA, USA",Very High,0
+"Ochillee, GA, USA",Ultra High,0
+"Oconomowoc, WI, US",Low,0
+"Oconomowoc, WI, US",Medium,0
+"Oconomowoc, WI, US",High,1
+"Oconomowoc, WI, US",Very High,0
+"Oconomowoc, WI, US",Ultra High,0
+"Ogden, UT, USA",Low,0
+"Ogden, UT, USA",Medium,1
+"Ogden, UT, USA",High,0
+"Ogden, UT, USA",Very High,0
+"Ogden, UT, USA",Ultra High,0
+"Oklahoma City, OK",Low,0
+"Oklahoma City, OK",Medium,2
+"Oklahoma City, OK",High,0
+"Oklahoma City, OK",Very High,0
+"Oklahoma City, OK",Ultra High,0
+"Old Bridge, NJ",Low,0
+"Old Bridge, NJ",Medium,1
+"Old Bridge, NJ",High,0
+"Old Bridge, NJ",Very High,0
+"Old Bridge, NJ",Ultra High,0
+"Olympia, WA, US",Low,0
+"Olympia, WA, US",Medium,2
+"Olympia, WA, US",High,0
+"Olympia, WA, US",Very High,0
+"Olympia, WA, US",Ultra High,0
+"Olympia, WA, USA",Low,0
+"Olympia, WA, USA",Medium,1
+"Olympia, WA, USA",High,1
+"Olympia, WA, USA",Very High,0
+"Olympia, WA, USA",Ultra High,0
+"Olyphant, PA, US",Low,0
+"Olyphant, PA, US",Medium,1
+"Olyphant, PA, US",High,0
+"Olyphant, PA, US",Very High,0
+"Olyphant, PA, US",Ultra High,0
+"Omaha, NE",Low,0
+"Omaha, NE",Medium,1
+"Omaha, NE",High,0
+"Omaha, NE",Very High,0
+"Omaha, NE",Ultra High,0
+"Omaha, NE, US",Low,0
+"Omaha, NE, US",Medium,2
+"Omaha, NE, US",High,0
+"Omaha, NE, US",Very High,0
+"Omaha, NE, US",Ultra High,0
+"Omaha, NE, USA",Low,0
+"Omaha, NE, USA",Medium,3
+"Omaha, NE, USA",High,0
+"Omaha, NE, USA",Very High,0
+"Omaha, NE, USA",Ultra High,0
+"Omak, WA, USA",Low,0
+"Omak, WA, USA",Medium,1
+"Omak, WA, USA",High,0
+"Omak, WA, USA",Very High,0
+"Omak, WA, USA",Ultra High,0
+"Ontario, CA, USA",Low,0
+"Ontario, CA, USA",Medium,1
+"Ontario, CA, USA",High,0
+"Ontario, CA, USA",Very High,0
+"Ontario, CA, USA",Ultra High,0
+"Orange, CA, USA",Low,2
+"Orange, CA, USA",Medium,0
+"Orange, CA, USA",High,0
+"Orange, CA, USA",Very High,0
+"Orange, CA, USA",Ultra High,0
+"Orlando, FL",Low,1
+"Orlando, FL",Medium,4
+"Orlando, FL",High,0
+"Orlando, FL",Very High,0
+"Orlando, FL",Ultra High,0
+"Orlando, FL, US",Low,0
+"Orlando, FL, US",Medium,4
+"Orlando, FL, US",High,3
+"Orlando, FL, US",Very High,0
+"Orlando, FL, US",Ultra High,0
+"Orlando, FL, USA",Low,0
+"Orlando, FL, USA",Medium,1
+"Orlando, FL, USA",High,0
+"Orlando, FL, USA",Very High,0
+"Orlando, FL, USA",Ultra High,0
+"Oshkosh, WI, US",Low,1
+"Oshkosh, WI, US",Medium,0
+"Oshkosh, WI, US",High,0
+"Oshkosh, WI, US",Very High,0
+"Oshkosh, WI, US",Ultra High,0
+"Overland Park, KS",Low,0
+"Overland Park, KS",Medium,3
+"Overland Park, KS",High,0
+"Overland Park, KS",Very High,0
+"Overland Park, KS",Ultra High,0
+"Overland Park, KS, US",Low,0
+"Overland Park, KS, US",Medium,3
+"Overland Park, KS, US",High,0
+"Overland Park, KS, US",Very High,0
+"Overland Park, KS, US",Ultra High,0
+"Overland Park, KS, USA",Low,0
+"Overland Park, KS, USA",Medium,1
+"Overland Park, KS, USA",High,0
+"Overland Park, KS, USA",Very High,0
+"Overland Park, KS, USA",Ultra High,0
+"Owings Mills, MD",Low,0
+"Owings Mills, MD",Medium,0
+"Owings Mills, MD",High,1
+"Owings Mills, MD",Very High,0
+"Owings Mills, MD",Ultra High,0
+"Owings Mills, MD, US",Low,0
+"Owings Mills, MD, US",Medium,0
+"Owings Mills, MD, US",High,1
+"Owings Mills, MD, US",Very High,0
+"Owings Mills, MD, US",Ultra High,0
+"Owings Mills, MD, USA",Low,0
+"Owings Mills, MD, USA",Medium,1
+"Owings Mills, MD, USA",High,0
+"Owings Mills, MD, USA",Very High,0
+"Owings Mills, MD, USA",Ultra High,0
+"Oxnard, CA, USA",Low,1
+"Oxnard, CA, USA",Medium,0
+"Oxnard, CA, USA",High,0
+"Oxnard, CA, USA",Very High,0
+"Oxnard, CA, USA",Ultra High,0
+"PA, US",Low,0
+"PA, US",Medium,0
+"PA, US",High,1
+"PA, US",Very High,0
+"PA, US",Ultra High,0
+"Paducah, KY, US",Low,0
+"Paducah, KY, US",Medium,1
+"Paducah, KY, US",High,0
+"Paducah, KY, US",Very High,0
+"Paducah, KY, US",Ultra High,0
+"Palm Bay, FL",Low,0
+"Palm Bay, FL",Medium,1
+"Palm Bay, FL",High,0
+"Palm Bay, FL",Very High,0
+"Palm Bay, FL",Ultra High,0
+"Palmyra, PA, US",Low,0
+"Palmyra, PA, US",Medium,1
+"Palmyra, PA, US",High,0
+"Palmyra, PA, US",Very High,0
+"Palmyra, PA, US",Ultra High,0
+"Palo Alto, CA, USA",Low,0
+"Palo Alto, CA, USA",Medium,1
+"Palo Alto, CA, USA",High,0
+"Palo Alto, CA, USA",Very High,2
+"Palo Alto, CA, USA",Ultra High,0
+"Paradise Valley, AZ, USA",Low,0
+"Paradise Valley, AZ, USA",Medium,1
+"Paradise Valley, AZ, USA",High,0
+"Paradise Valley, AZ, USA",Very High,0
+"Paradise Valley, AZ, USA",Ultra High,0
+"Parsippany-Troy Hills, NJ, US",Low,1
+"Parsippany-Troy Hills, NJ, US",Medium,0
+"Parsippany-Troy Hills, NJ, US",High,0
+"Parsippany-Troy Hills, NJ, US",Very High,0
+"Parsippany-Troy Hills, NJ, US",Ultra High,0
+"Pasadena, CA, USA",Low,0
+"Pasadena, CA, USA",Medium,1
+"Pasadena, CA, USA",High,0
+"Pasadena, CA, USA",Very High,0
+"Pasadena, CA, USA",Ultra High,0
+"Pasadena, TX, US",Low,0
+"Pasadena, TX, US",Medium,1
+"Pasadena, TX, US",High,0
+"Pasadena, TX, US",Very High,0
+"Pasadena, TX, US",Ultra High,0
+"Pascagoula, MS, US",Low,0
+"Pascagoula, MS, US",Medium,1
+"Pascagoula, MS, US",High,0
+"Pascagoula, MS, US",Very High,0
+"Pascagoula, MS, US",Ultra High,0
+"Patuxent, MD, USA",Low,0
+"Patuxent, MD, USA",Medium,1
+"Patuxent, MD, USA",High,0
+"Patuxent, MD, USA",Very High,0
+"Patuxent, MD, USA",Ultra High,0
+"Peachtree Corners, GA, US",Low,0
+"Peachtree Corners, GA, US",Medium,1
+"Peachtree Corners, GA, US",High,0
+"Peachtree Corners, GA, US",Very High,0
+"Peachtree Corners, GA, US",Ultra High,0
+"Pearl Harbor, HI, USA",Low,0
+"Pearl Harbor, HI, USA",Medium,0
+"Pearl Harbor, HI, USA",High,0
+"Pearl Harbor, HI, USA",Very High,1
+"Pearl Harbor, HI, USA",Ultra High,0
+"Pembroke, NH",Low,0
+"Pembroke, NH",Medium,1
+"Pembroke, NH",High,0
+"Pembroke, NH",Very High,0
+"Pembroke, NH",Ultra High,0
+Pennsylvania,Low,0
+Pennsylvania,Medium,1
+Pennsylvania,High,0
+Pennsylvania,Very High,0
+Pennsylvania,Ultra High,0
+"Peoria, AZ",Low,0
+"Peoria, AZ",Medium,1
+"Peoria, AZ",High,0
+"Peoria, AZ",Very High,0
+"Peoria, AZ",Ultra High,0
+"Peoria, AZ, US",Low,0
+"Peoria, AZ, US",Medium,1
+"Peoria, AZ, US",High,0
+"Peoria, AZ, US",Very High,0
+"Peoria, AZ, US",Ultra High,0
+"Peoria, IL",Low,0
+"Peoria, IL",Medium,1
+"Peoria, IL",High,0
+"Peoria, IL",Very High,0
+"Peoria, IL",Ultra High,0
+"Peoria, IL, US",Low,0
+"Peoria, IL, US",Medium,0
+"Peoria, IL, US",High,0
+"Peoria, IL, US",Very High,1
+"Peoria, IL, US",Ultra High,0
+"Petaluma, CA, USA",Low,0
+"Petaluma, CA, USA",Medium,0
+"Petaluma, CA, USA",High,2
+"Petaluma, CA, USA",Very High,0
+"Petaluma, CA, USA",Ultra High,0
+"Pflugerville, TX, US",Low,0
+"Pflugerville, TX, US",Medium,0
+"Pflugerville, TX, US",High,1
+"Pflugerville, TX, US",Very High,0
+"Pflugerville, TX, US",Ultra High,0
+"Pflugerville, TX, USA",Low,1
+"Pflugerville, TX, USA",Medium,0
+"Pflugerville, TX, USA",High,0
+"Pflugerville, TX, USA",Very High,0
+"Pflugerville, TX, USA",Ultra High,0
+"Philadelphia, PA",Low,0
+"Philadelphia, PA",Medium,3
+"Philadelphia, PA",High,0
+"Philadelphia, PA",Very High,0
+"Philadelphia, PA",Ultra High,0
+"Philadelphia, PA, US",Low,0
+"Philadelphia, PA, US",Medium,3
+"Philadelphia, PA, US",High,1
+"Philadelphia, PA, US",Very High,0
+"Philadelphia, PA, US",Ultra High,0
+"Philadelphia, PA, USA",Low,0
+"Philadelphia, PA, USA",Medium,1
+"Philadelphia, PA, USA",High,0
+"Philadelphia, PA, USA",Very High,0
+"Philadelphia, PA, USA",Ultra High,0
+"Phoenix, AZ",Low,0
+"Phoenix, AZ",Medium,4
+"Phoenix, AZ",High,2
+"Phoenix, AZ",Very High,0
+"Phoenix, AZ",Ultra High,0
+"Phoenix, AZ, US",Low,1
+"Phoenix, AZ, US",Medium,2
+"Phoenix, AZ, US",High,3
+"Phoenix, AZ, US",Very High,0
+"Phoenix, AZ, US",Ultra High,0
+"Phoenix, AZ, USA",Low,9
+"Phoenix, AZ, USA",Medium,35
+"Phoenix, AZ, USA",High,1
+"Phoenix, AZ, USA",Very High,0
+"Phoenix, AZ, USA",Ultra High,0
+"Pittsburgh, PA",Low,0
+"Pittsburgh, PA",Medium,3
+"Pittsburgh, PA",High,0
+"Pittsburgh, PA",Very High,0
+"Pittsburgh, PA",Ultra High,0
+"Pittsburgh, PA, US",Low,2
+"Pittsburgh, PA, US",Medium,2
+"Pittsburgh, PA, US",High,0
+"Pittsburgh, PA, US",Very High,0
+"Pittsburgh, PA, US",Ultra High,0
+"Pittsburgh, PA, USA",Low,0
+"Pittsburgh, PA, USA",Medium,2
+"Pittsburgh, PA, USA",High,0
+"Pittsburgh, PA, USA",Very High,0
+"Pittsburgh, PA, USA",Ultra High,0
+"Placerville, CA, USA",Low,0
+"Placerville, CA, USA",Medium,2
+"Placerville, CA, USA",High,0
+"Placerville, CA, USA",Very High,0
+"Placerville, CA, USA",Ultra High,0
+"Plano, TX",Low,0
+"Plano, TX",Medium,4
+"Plano, TX",High,1
+"Plano, TX",Very High,0
+"Plano, TX",Ultra High,0
+"Plano, TX, US",Low,0
+"Plano, TX, US",Medium,3
+"Plano, TX, US",High,0
+"Plano, TX, US",Very High,0
+"Plano, TX, US",Ultra High,0
+"Plano, TX, USA",Low,1
+"Plano, TX, USA",Medium,2
+"Plano, TX, USA",High,0
+"Plano, TX, USA",Very High,0
+"Plano, TX, USA",Ultra High,0
+"Pleasant Hill, CA, USA",Low,0
+"Pleasant Hill, CA, USA",Medium,1
+"Pleasant Hill, CA, USA",High,0
+"Pleasant Hill, CA, USA",Very High,0
+"Pleasant Hill, CA, USA",Ultra High,0
+"Pleasant Prairie, WI",Low,0
+"Pleasant Prairie, WI",Medium,3
+"Pleasant Prairie, WI",High,0
+"Pleasant Prairie, WI",Very High,0
+"Pleasant Prairie, WI",Ultra High,0
+"Pleasant Prairie, WI, US",Low,0
+"Pleasant Prairie, WI, US",Medium,4
+"Pleasant Prairie, WI, US",High,0
+"Pleasant Prairie, WI, US",Very High,0
+"Pleasant Prairie, WI, US",Ultra High,0
+"Pleasanton, CA",Low,0
+"Pleasanton, CA",Medium,1
+"Pleasanton, CA",High,0
+"Pleasanton, CA",Very High,0
+"Pleasanton, CA",Ultra High,0
+"Pleasanton, CA, US",Low,0
+"Pleasanton, CA, US",Medium,0
+"Pleasanton, CA, US",High,1
+"Pleasanton, CA, US",Very High,0
+"Pleasanton, CA, US",Ultra High,0
+"Pleasanton, CA, USA",Low,1
+"Pleasanton, CA, USA",Medium,1
+"Pleasanton, CA, USA",High,0
+"Pleasanton, CA, USA",Very High,1
+"Pleasanton, CA, USA",Ultra High,0
+"Plymouth Meeting, PA",Low,0
+"Plymouth Meeting, PA",Medium,4
+"Plymouth Meeting, PA",High,0
+"Plymouth Meeting, PA",Very High,0
+"Plymouth Meeting, PA",Ultra High,0
+"Plymouth Meeting, PA, US",Low,0
+"Plymouth Meeting, PA, US",Medium,4
+"Plymouth Meeting, PA, US",High,0
+"Plymouth Meeting, PA, US",Very High,0
+"Plymouth Meeting, PA, US",Ultra High,0
+"Plymouth, MN",Low,0
+"Plymouth, MN",Medium,1
+"Plymouth, MN",High,0
+"Plymouth, MN",Very High,0
+"Plymouth, MN",Ultra High,0
+"Plymouth, MN, US",Low,0
+"Plymouth, MN, US",Medium,1
+"Plymouth, MN, US",High,0
+"Plymouth, MN, US",Very High,0
+"Plymouth, MN, US",Ultra High,0
+"Plymouth, MN, USA",Low,0
+"Plymouth, MN, USA",Medium,1
+"Plymouth, MN, USA",High,0
+"Plymouth, MN, USA",Very High,0
+"Plymouth, MN, USA",Ultra High,0
+"Port Clinton, OH, USA",Low,0
+"Port Clinton, OH, USA",Medium,1
+"Port Clinton, OH, USA",High,0
+"Port Clinton, OH, USA",Very High,0
+"Port Clinton, OH, USA",Ultra High,0
+"Port Orange, FL",Low,0
+"Port Orange, FL",Medium,1
+"Port Orange, FL",High,0
+"Port Orange, FL",Very High,0
+"Port Orange, FL",Ultra High,0
+"Portland, OR",Low,0
+"Portland, OR",Medium,2
+"Portland, OR",High,0
+"Portland, OR",Very High,0
+"Portland, OR",Ultra High,0
+"Portland, OR, US",Low,1
+"Portland, OR, US",Medium,0
+"Portland, OR, US",High,1
+"Portland, OR, US",Very High,0
+"Portland, OR, US",Ultra High,0
+"Portland, OR, USA",Low,3
+"Portland, OR, USA",Medium,11
+"Portland, OR, USA",High,2
+"Portland, OR, USA",Very High,1
+"Portland, OR, USA",Ultra High,0
+"Portland, Oregon Metropolitan Area",Low,0
+"Portland, Oregon Metropolitan Area",Medium,1
+"Portland, Oregon Metropolitan Area",High,0
+"Portland, Oregon Metropolitan Area",Very High,0
+"Portland, Oregon Metropolitan Area",Ultra High,0
+"Poughkeepsie, NY, US",Low,0
+"Poughkeepsie, NY, US",Medium,1
+"Poughkeepsie, NY, US",High,0
+"Poughkeepsie, NY, US",Very High,0
+"Poughkeepsie, NY, US",Ultra High,0
+"Powder Springs, GA",Low,0
+"Powder Springs, GA",Medium,0
+"Powder Springs, GA",High,1
+"Powder Springs, GA",Very High,0
+"Powder Springs, GA",Ultra High,0
+"Princeton, NJ",Low,0
+"Princeton, NJ",Medium,0
+"Princeton, NJ",High,1
+"Princeton, NJ",Very High,0
+"Princeton, NJ",Ultra High,0
+"Provo, UT",Low,0
+"Provo, UT",Medium,1
+"Provo, UT",High,0
+"Provo, UT",Very High,0
+"Provo, UT",Ultra High,0
+"Provo, UT, US",Low,0
+"Provo, UT, US",Medium,1
+"Provo, UT, US",High,0
+"Provo, UT, US",Very High,0
+"Provo, UT, US",Ultra High,0
+"Quakertown, PA, US",Low,0
+"Quakertown, PA, US",Medium,1
+"Quakertown, PA, US",High,0
+"Quakertown, PA, US",Very High,0
+"Quakertown, PA, US",Ultra High,0
+"Quincy, MA",Low,0
+"Quincy, MA",Medium,0
+"Quincy, MA",High,1
+"Quincy, MA",Very High,0
+"Quincy, MA",Ultra High,0
+"Quincy, MA, US",Low,0
+"Quincy, MA, US",Medium,0
+"Quincy, MA, US",High,1
+"Quincy, MA, US",Very High,0
+"Quincy, MA, US",Ultra High,0
+"Raleigh, NC",Low,3
+"Raleigh, NC",Medium,0
+"Raleigh, NC",High,0
+"Raleigh, NC",Very High,0
+"Raleigh, NC",Ultra High,0
+"Raleigh, NC, US",Low,1
+"Raleigh, NC, US",Medium,3
+"Raleigh, NC, US",High,0
+"Raleigh, NC, US",Very High,0
+"Raleigh, NC, US",Ultra High,0
+"Raleigh, NC, USA",Low,0
+"Raleigh, NC, USA",Medium,4
+"Raleigh, NC, USA",High,0
+"Raleigh, NC, USA",Very High,0
+"Raleigh, NC, USA",Ultra High,0
+"Rancho Cordova, CA, USA",Low,0
+"Rancho Cordova, CA, USA",Medium,1
+"Rancho Cordova, CA, USA",High,0
+"Rancho Cordova, CA, USA",Very High,0
+"Rancho Cordova, CA, USA",Ultra High,0
+"Rancho Cucamonga, CA, USA",Low,0
+"Rancho Cucamonga, CA, USA",Medium,1
+"Rancho Cucamonga, CA, USA",High,0
+"Rancho Cucamonga, CA, USA",Very High,0
+"Rancho Cucamonga, CA, USA",Ultra High,0
+"Raymond, OH, US",Low,0
+"Raymond, OH, US",Medium,0
+"Raymond, OH, US",High,1
+"Raymond, OH, US",Very High,0
+"Raymond, OH, US",Ultra High,0
+"Raymond, OH, USA",Low,0
+"Raymond, OH, USA",Medium,1
+"Raymond, OH, USA",High,0
+"Raymond, OH, USA",Very High,0
+"Raymond, OH, USA",Ultra High,0
+"Reading, PA",Low,0
+"Reading, PA",Medium,1
+"Reading, PA",High,0
+"Reading, PA",Very High,0
+"Reading, PA",Ultra High,0
+"Reading, PA, US",Low,0
+"Reading, PA, US",Medium,0
+"Reading, PA, US",High,1
+"Reading, PA, US",Very High,0
+"Reading, PA, US",Ultra High,0
+"Redding, CA",Low,0
+"Redding, CA",Medium,1
+"Redding, CA",High,0
+"Redding, CA",Very High,0
+"Redding, CA",Ultra High,0
+"Redmond, WA",Low,1
+"Redmond, WA",Medium,0
+"Redmond, WA",High,1
+"Redmond, WA",Very High,0
+"Redmond, WA",Ultra High,0
+"Redmond, WA, US",Low,0
+"Redmond, WA, US",Medium,0
+"Redmond, WA, US",High,3
+"Redmond, WA, US",Very High,0
+"Redmond, WA, US",Ultra High,0
+"Redmond, WA, USA",Low,0
+"Redmond, WA, USA",Medium,1
+"Redmond, WA, USA",High,0
+"Redmond, WA, USA",Very High,0
+"Redmond, WA, USA",Ultra High,0
+"Redstone Arsenal, AL, US",Low,0
+"Redstone Arsenal, AL, US",Medium,0
+"Redstone Arsenal, AL, US",High,1
+"Redstone Arsenal, AL, US",Very High,0
+"Redstone Arsenal, AL, US",Ultra High,0
+"Redwood City, CA",Low,0
+"Redwood City, CA",Medium,1
+"Redwood City, CA",High,0
+"Redwood City, CA",Very High,0
+"Redwood City, CA",Ultra High,0
+"Redwood City, CA, US",Low,0
+"Redwood City, CA, US",Medium,1
+"Redwood City, CA, US",High,0
+"Redwood City, CA, US",Very High,0
+"Redwood City, CA, US",Ultra High,0
+"Redwood City, CA, USA",Low,0
+"Redwood City, CA, USA",Medium,1
+"Redwood City, CA, USA",High,0
+"Redwood City, CA, USA",Very High,0
+"Redwood City, CA, USA",Ultra High,0
+"Remote Nationwide, USA",Low,1
+"Remote Nationwide, USA",Medium,5
+"Remote Nationwide, USA",High,2
+"Remote Nationwide, USA",Very High,1
+"Remote Nationwide, USA",Ultra High,0
+"Remote, OR, USA",Low,4
+"Remote, OR, USA",Medium,23
+"Remote, OR, USA",High,6
+"Remote, OR, USA",Very High,1
+"Remote, OR, USA",Ultra High,0
+"Remote, US",Low,12
+"Remote, US",Medium,25
+"Remote, US",High,20
+"Remote, US",Very High,0
+"Remote, US",Ultra High,0
+"Reno, NV",Low,0
+"Reno, NV",Medium,1
+"Reno, NV",High,0
+"Reno, NV",Very High,0
+"Reno, NV",Ultra High,0
+"Reno, NV, US",Low,0
+"Reno, NV, US",Medium,1
+"Reno, NV, US",High,0
+"Reno, NV, US",Very High,0
+"Reno, NV, US",Ultra High,0
+"Reno, NV, USA",Low,1
+"Reno, NV, USA",Medium,2
+"Reno, NV, USA",High,0
+"Reno, NV, USA",Very High,0
+"Reno, NV, USA",Ultra High,0
+"Rensselaer, NY, US",Low,0
+"Rensselaer, NY, US",Medium,1
+"Rensselaer, NY, US",High,0
+"Rensselaer, NY, US",Very High,0
+"Rensselaer, NY, US",Ultra High,0
+"Research Triangle Park, NC",Low,0
+"Research Triangle Park, NC",Medium,0
+"Research Triangle Park, NC",High,0
+"Research Triangle Park, NC",Very High,1
+"Research Triangle Park, NC",Ultra High,0
+"Reston, VA",Low,0
+"Reston, VA",Medium,1
+"Reston, VA",High,1
+"Reston, VA",Very High,0
+"Reston, VA",Ultra High,0
+"Reston, VA, US",Low,1
+"Reston, VA, US",Medium,1
+"Reston, VA, US",High,2
+"Reston, VA, US",Very High,0
+"Reston, VA, US",Ultra High,0
+"Reston, VA, USA",Low,0
+"Reston, VA, USA",Medium,1
+"Reston, VA, USA",High,0
+"Reston, VA, USA",Very High,0
+"Reston, VA, USA",Ultra High,0
+"Rexburg, ID",Low,0
+"Rexburg, ID",Medium,0
+"Rexburg, ID",High,1
+"Rexburg, ID",Very High,0
+"Rexburg, ID",Ultra High,0
+"Rexburg, ID, US",Low,0
+"Rexburg, ID, US",Medium,0
+"Rexburg, ID, US",High,1
+"Rexburg, ID, US",Very High,0
+"Rexburg, ID, US",Ultra High,0
+"Richardson, TX",Low,0
+"Richardson, TX",Medium,1
+"Richardson, TX",High,0
+"Richardson, TX",Very High,0
+"Richardson, TX",Ultra High,0
+"Richardson, TX, US",Low,0
+"Richardson, TX, US",Medium,0
+"Richardson, TX, US",High,1
+"Richardson, TX, US",Very High,0
+"Richardson, TX, US",Ultra High,0
+"Richland, SC, US",Low,0
+"Richland, SC, US",Medium,1
+"Richland, SC, US",High,0
+"Richland, SC, US",Very High,0
+"Richland, SC, US",Ultra High,0
+"Richland, WA",Low,1
+"Richland, WA",Medium,0
+"Richland, WA",High,0
+"Richland, WA",Very High,0
+"Richland, WA",Ultra High,0
+"Richland, WA, USA",Low,2
+"Richland, WA, USA",Medium,0
+"Richland, WA, USA",High,1
+"Richland, WA, USA",Very High,0
+"Richland, WA, USA",Ultra High,0
+"Richmond, MI",Low,1
+"Richmond, MI",Medium,0
+"Richmond, MI",High,0
+"Richmond, MI",Very High,0
+"Richmond, MI",Ultra High,0
+"Richmond, MI, US",Low,1
+"Richmond, MI, US",Medium,0
+"Richmond, MI, US",High,0
+"Richmond, MI, US",Very High,0
+"Richmond, MI, US",Ultra High,0
+"Richmond, VA",Low,7
+"Richmond, VA",Medium,9
+"Richmond, VA",High,0
+"Richmond, VA",Very High,0
+"Richmond, VA",Ultra High,0
+"Richmond, VA, US",Low,3
+"Richmond, VA, US",Medium,4
+"Richmond, VA, US",High,4
+"Richmond, VA, US",Very High,1
+"Richmond, VA, US",Ultra High,0
+"Richmond, VA, USA",Low,0
+"Richmond, VA, USA",Medium,3
+"Richmond, VA, USA",High,1
+"Richmond, VA, USA",Very High,0
+"Richmond, VA, USA",Ultra High,0
+"Ridgefield Park, Bergen, NJ",Low,0
+"Ridgefield Park, Bergen, NJ",Medium,0
+"Ridgefield Park, Bergen, NJ",High,1
+"Ridgefield Park, Bergen, NJ",Very High,0
+"Ridgefield Park, Bergen, NJ",Ultra High,0
+"Ridgefield Park, NJ, US",Low,0
+"Ridgefield Park, NJ, US",Medium,0
+"Ridgefield Park, NJ, US",High,1
+"Ridgefield Park, NJ, US",Very High,0
+"Ridgefield Park, NJ, US",Ultra High,0
+"Riverside, CA, US",Low,0
+"Riverside, CA, US",Medium,0
+"Riverside, CA, US",High,1
+"Riverside, CA, US",Very High,0
+"Riverside, CA, US",Ultra High,0
+"Riverside, CA, USA",Low,0
+"Riverside, CA, USA",Medium,2
+"Riverside, CA, USA",High,1
+"Riverside, CA, USA",Very High,0
+"Riverside, CA, USA",Ultra High,0
+"Roanoke, VA, USA",Low,0
+"Roanoke, VA, USA",Medium,1
+"Roanoke, VA, USA",High,0
+"Roanoke, VA, USA",Very High,0
+"Roanoke, VA, USA",Ultra High,0
+"Rochester, NY, US",Low,0
+"Rochester, NY, US",Medium,1
+"Rochester, NY, US",High,0
+"Rochester, NY, US",Very High,0
+"Rochester, NY, US",Ultra High,0
+"Rochester, WA, US",Low,0
+"Rochester, WA, US",Medium,1
+"Rochester, WA, US",High,0
+"Rochester, WA, US",Very High,0
+"Rochester, WA, US",Ultra High,0
+"Rock Hill, SC",Low,0
+"Rock Hill, SC",Medium,1
+"Rock Hill, SC",High,0
+"Rock Hill, SC",Very High,0
+"Rock Hill, SC",Ultra High,0
+"Rock Hill, SC, US",Low,0
+"Rock Hill, SC, US",Medium,1
+"Rock Hill, SC, US",High,0
+"Rock Hill, SC, US",Very High,0
+"Rock Hill, SC, US",Ultra High,0
+"Rockville, MD",Low,0
+"Rockville, MD",Medium,3
+"Rockville, MD",High,0
+"Rockville, MD",Very High,0
+"Rockville, MD",Ultra High,0
+"Rockville, MD, US",Low,0
+"Rockville, MD, US",Medium,0
+"Rockville, MD, US",High,1
+"Rockville, MD, US",Very High,0
+"Rockville, MD, US",Ultra High,1
+"Rockwall, TX, USA",Low,0
+"Rockwall, TX, USA",Medium,1
+"Rockwall, TX, USA",High,0
+"Rockwall, TX, USA",Very High,0
+"Rockwall, TX, USA",Ultra High,0
+"Rocky Mount, NC, US",Low,0
+"Rocky Mount, NC, US",Medium,1
+"Rocky Mount, NC, US",High,0
+"Rocky Mount, NC, US",Very High,0
+"Rocky Mount, NC, US",Ultra High,0
+"Rocky Mount, NC, USA",Low,0
+"Rocky Mount, NC, USA",Medium,1
+"Rocky Mount, NC, USA",High,0
+"Rocky Mount, NC, USA",Very High,0
+"Rocky Mount, NC, USA",Ultra High,0
+"Rogers, AR",Low,0
+"Rogers, AR",Medium,0
+"Rogers, AR",High,1
+"Rogers, AR",Very High,0
+"Rogers, AR",Ultra High,0
+"Rogers, AR, US",Low,0
+"Rogers, AR, US",Medium,0
+"Rogers, AR, US",High,1
+"Rogers, AR, US",Very High,0
+"Rogers, AR, US",Ultra High,0
+"Rogers, AR, USA",Low,0
+"Rogers, AR, USA",Medium,1
+"Rogers, AR, USA",High,0
+"Rogers, AR, USA",Very High,0
+"Rogers, AR, USA",Ultra High,0
+"Rolling Meadows, IL",Low,0
+"Rolling Meadows, IL",Medium,3
+"Rolling Meadows, IL",High,0
+"Rolling Meadows, IL",Very High,0
+"Rolling Meadows, IL",Ultra High,0
+"Rolling Meadows, IL, US",Low,0
+"Rolling Meadows, IL, US",Medium,2
+"Rolling Meadows, IL, US",High,0
+"Rolling Meadows, IL, US",Very High,0
+"Rolling Meadows, IL, US",Ultra High,0
+"Roseland, NJ, US",Low,0
+"Roseland, NJ, US",Medium,1
+"Roseland, NJ, US",High,0
+"Roseland, NJ, US",Very High,0
+"Roseland, NJ, US",Ultra High,0
+"Rosemead, CA, USA",Low,1
+"Rosemead, CA, USA",Medium,1
+"Rosemead, CA, USA",High,0
+"Rosemead, CA, USA",Very High,0
+"Rosemead, CA, USA",Ultra High,0
+"Rosemont, IL, US",Low,1
+"Rosemont, IL, US",Medium,0
+"Rosemont, IL, US",High,0
+"Rosemont, IL, US",Very High,0
+"Rosemont, IL, US",Ultra High,0
+"Roseville, CA, US",Low,1
+"Roseville, CA, US",Medium,0
+"Roseville, CA, US",High,0
+"Roseville, CA, US",Very High,0
+"Roseville, CA, US",Ultra High,0
+"Roswell, GA",Low,0
+"Roswell, GA",Medium,1
+"Roswell, GA",High,0
+"Roswell, GA",Very High,0
+"Roswell, GA",Ultra High,0
+"Roswell, GA, US",Low,0
+"Roswell, GA, US",Medium,1
+"Roswell, GA, US",High,0
+"Roswell, GA, US",Very High,0
+"Roswell, GA, US",Ultra High,0
+"Rothschild, WI",Low,0
+"Rothschild, WI",Medium,0
+"Rothschild, WI",High,1
+"Rothschild, WI",Very High,0
+"Rothschild, WI",Ultra High,0
+"Rothschild, WI, US",Low,0
+"Rothschild, WI, US",Medium,0
+"Rothschild, WI, US",High,1
+"Rothschild, WI, US",Very High,0
+"Rothschild, WI, US",Ultra High,0
+"Rowley, MA, USA",Low,0
+"Rowley, MA, USA",Medium,1
+"Rowley, MA, USA",High,0
+"Rowley, MA, USA",Very High,0
+"Rowley, MA, USA",Ultra High,0
+"Royse City, TX, US",Low,0
+"Royse City, TX, US",Medium,1
+"Royse City, TX, US",High,0
+"Royse City, TX, US",Very High,0
+"Royse City, TX, US",Ultra High,0
+"Sacramento, CA",Low,3
+"Sacramento, CA",Medium,0
+"Sacramento, CA",High,1
+"Sacramento, CA",Very High,0
+"Sacramento, CA",Ultra High,0
+"Sacramento, CA, US",Low,2
+"Sacramento, CA, US",Medium,1
+"Sacramento, CA, US",High,1
+"Sacramento, CA, US",Very High,0
+"Sacramento, CA, US",Ultra High,0
+"Sacramento, CA, USA",Low,2
+"Sacramento, CA, USA",Medium,12
+"Sacramento, CA, USA",High,1
+"Sacramento, CA, USA",Very High,0
+"Sacramento, CA, USA",Ultra High,0
+"Saint Albans, VT, USA",Low,0
+"Saint Albans, VT, USA",Medium,1
+"Saint Albans, VT, USA",High,0
+"Saint Albans, VT, USA",Very High,0
+"Saint Albans, VT, USA",Ultra High,0
+"Saint Louis, MO",Low,1
+"Saint Louis, MO",Medium,1
+"Saint Louis, MO",High,1
+"Saint Louis, MO",Very High,0
+"Saint Louis, MO",Ultra High,0
+"Saint Louis, MO, USA",Low,0
+"Saint Louis, MO, USA",Medium,1
+"Saint Louis, MO, USA",High,0
+"Saint Louis, MO, USA",Very High,0
+"Saint Louis, MO, USA",Ultra High,0
+"Saint Paul, MN",Low,2
+"Saint Paul, MN",Medium,1
+"Saint Paul, MN",High,0
+"Saint Paul, MN",Very High,0
+"Saint Paul, MN",Ultra High,0
+"Saint Paul, MN, USA",Low,0
+"Saint Paul, MN, USA",Medium,1
+"Saint Paul, MN, USA",High,0
+"Saint Paul, MN, USA",Very High,0
+"Saint Paul, MN, USA",Ultra High,0
+"Saint Petersburg, FL",Low,0
+"Saint Petersburg, FL",Medium,3
+"Saint Petersburg, FL",High,0
+"Saint Petersburg, FL",Very High,0
+"Saint Petersburg, FL",Ultra High,0
+"Saint Petersburg, FL, US",Low,0
+"Saint Petersburg, FL, US",Medium,3
+"Saint Petersburg, FL, US",High,1
+"Saint Petersburg, FL, US",Very High,0
+"Saint Petersburg, FL, US",Ultra High,0
+"Saint Petersburg, FL, USA",Low,0
+"Saint Petersburg, FL, USA",Medium,1
+"Saint Petersburg, FL, USA",High,0
+"Saint Petersburg, FL, USA",Very High,0
+"Saint Petersburg, FL, USA",Ultra High,0
+"Salem, OR",Low,1
+"Salem, OR",Medium,0
+"Salem, OR",High,0
+"Salem, OR",Very High,0
+"Salem, OR",Ultra High,0
+"Salem, OR, US",Low,3
+"Salem, OR, US",Medium,0
+"Salem, OR, US",High,0
+"Salem, OR, US",Very High,0
+"Salem, OR, US",Ultra High,0
+"Salem, OR, USA",Low,2
+"Salem, OR, USA",Medium,5
+"Salem, OR, USA",High,0
+"Salem, OR, USA",Very High,0
+"Salem, OR, USA",Ultra High,0
+"Salinas, CA, USA",Low,1
+"Salinas, CA, USA",Medium,0
+"Salinas, CA, USA",High,0
+"Salinas, CA, USA",Very High,0
+"Salinas, CA, USA",Ultra High,0
+"Salt Lake City, UT",Low,0
+"Salt Lake City, UT",Medium,1
+"Salt Lake City, UT",High,0
+"Salt Lake City, UT",Very High,0
+"Salt Lake City, UT",Ultra High,0
+"Salt Lake City, UT, USA",Low,1
+"Salt Lake City, UT, USA",Medium,6
+"Salt Lake City, UT, USA",High,1
+"Salt Lake City, UT, USA",Very High,0
+"Salt Lake City, UT, USA",Ultra High,0
+"San Antonio, TX",Low,0
+"San Antonio, TX",Medium,0
+"San Antonio, TX",High,1
+"San Antonio, TX",Very High,1
+"San Antonio, TX",Ultra High,0
+"San Antonio, TX, US",Low,0
+"San Antonio, TX, US",Medium,3
+"San Antonio, TX, US",High,2
+"San Antonio, TX, US",Very High,1
+"San Antonio, TX, US",Ultra High,0
+"San Antonio, TX, USA",Low,0
+"San Antonio, TX, USA",Medium,2
+"San Antonio, TX, USA",High,0
+"San Antonio, TX, USA",Very High,0
+"San Antonio, TX, USA",Ultra High,0
+"San Bernardino, CA",Low,0
+"San Bernardino, CA",Medium,1
+"San Bernardino, CA",High,0
+"San Bernardino, CA",Very High,0
+"San Bernardino, CA",Ultra High,0
+"San Bernardino, CA, US",Low,0
+"San Bernardino, CA, US",Medium,1
+"San Bernardino, CA, US",High,0
+"San Bernardino, CA, US",Very High,0
+"San Bernardino, CA, US",Ultra High,0
+"San Bernardino, CA, USA",Low,0
+"San Bernardino, CA, USA",Medium,2
+"San Bernardino, CA, USA",High,0
+"San Bernardino, CA, USA",Very High,0
+"San Bernardino, CA, USA",Ultra High,0
+"San Clemente, CA, USA",Low,0
+"San Clemente, CA, USA",Medium,1
+"San Clemente, CA, USA",High,1
+"San Clemente, CA, USA",Very High,0
+"San Clemente, CA, USA",Ultra High,0
+"San Diego, CA",Low,3
+"San Diego, CA",Medium,0
+"San Diego, CA",High,2
+"San Diego, CA",Very High,0
+"San Diego, CA",Ultra High,0
+"San Diego, CA, US",Low,2
+"San Diego, CA, US",Medium,1
+"San Diego, CA, US",High,4
+"San Diego, CA, US",Very High,1
+"San Diego, CA, US",Ultra High,0
+"San Diego, CA, USA",Low,4
+"San Diego, CA, USA",Medium,11
+"San Diego, CA, USA",High,6
+"San Diego, CA, USA",Very High,0
+"San Diego, CA, USA",Ultra High,0
+"San Francisco, CA",Low,2
+"San Francisco, CA",Medium,2
+"San Francisco, CA",High,2
+"San Francisco, CA",Very High,1
+"San Francisco, CA",Ultra High,0
+"San Francisco, CA, US",Low,2
+"San Francisco, CA, US",Medium,0
+"San Francisco, CA, US",High,2
+"San Francisco, CA, US",Very High,0
+"San Francisco, CA, US",Ultra High,1
+"San Francisco, CA, USA",Low,5
+"San Francisco, CA, USA",Medium,16
+"San Francisco, CA, USA",High,7
+"San Francisco, CA, USA",Very High,2
+"San Francisco, CA, USA",Ultra High,0
+"San Jose, CA",Low,0
+"San Jose, CA",Medium,2
+"San Jose, CA",High,1
+"San Jose, CA",Very High,0
+"San Jose, CA",Ultra High,0
+"San Jose, CA, US",Low,0
+"San Jose, CA, US",Medium,1
+"San Jose, CA, US",High,1
+"San Jose, CA, US",Very High,0
+"San Jose, CA, US",Ultra High,0
+"San Jose, CA, USA",Low,2
+"San Jose, CA, USA",Medium,8
+"San Jose, CA, USA",High,5
+"San Jose, CA, USA",Very High,1
+"San Jose, CA, USA",Ultra High,0
+"San Juan, PR",Low,1
+"San Juan, PR",Medium,1
+"San Juan, PR",High,0
+"San Juan, PR",Very High,0
+"San Juan, PR",Ultra High,0
+"San Juan, PR, US",Low,0
+"San Juan, PR, US",Medium,2
+"San Juan, PR, US",High,0
+"San Juan, PR, US",Very High,0
+"San Juan, PR, US",Ultra High,0
+"San Leandro, CA, USA",Low,0
+"San Leandro, CA, USA",Medium,0
+"San Leandro, CA, USA",High,1
+"San Leandro, CA, USA",Very High,0
+"San Leandro, CA, USA",Ultra High,0
+"San Luis Obispo, CA, US",Low,0
+"San Luis Obispo, CA, US",Medium,1
+"San Luis Obispo, CA, US",High,0
+"San Luis Obispo, CA, US",Very High,0
+"San Luis Obispo, CA, US",Ultra High,0
+"San Luis Obispo, CA, USA",Low,1
+"San Luis Obispo, CA, USA",Medium,0
+"San Luis Obispo, CA, USA",High,0
+"San Luis Obispo, CA, USA",Very High,0
+"San Luis Obispo, CA, USA",Ultra High,0
+"San Marcos, CA, USA",Low,1
+"San Marcos, CA, USA",Medium,0
+"San Marcos, CA, USA",High,0
+"San Marcos, CA, USA",Very High,0
+"San Marcos, CA, USA",Ultra High,0
+"San Mateo County, CA, USA",Low,0
+"San Mateo County, CA, USA",Medium,0
+"San Mateo County, CA, USA",High,1
+"San Mateo County, CA, USA",Very High,0
+"San Mateo County, CA, USA",Ultra High,0
+"San Mateo, CA",Low,0
+"San Mateo, CA",Medium,0
+"San Mateo, CA",High,1
+"San Mateo, CA",Very High,0
+"San Mateo, CA",Ultra High,0
+"San Mateo, CA, US",Low,0
+"San Mateo, CA, US",Medium,0
+"San Mateo, CA, US",High,1
+"San Mateo, CA, US",Very High,0
+"San Mateo, CA, US",Ultra High,0
+"San Mateo, CA, USA",Low,1
+"San Mateo, CA, USA",Medium,1
+"San Mateo, CA, USA",High,0
+"San Mateo, CA, USA",Very High,0
+"San Mateo, CA, USA",Ultra High,0
+"San Rafael, CA, USA",Low,0
+"San Rafael, CA, USA",Medium,0
+"San Rafael, CA, USA",High,1
+"San Rafael, CA, USA",Very High,0
+"San Rafael, CA, USA",Ultra High,0
+"San Ramon, CA, USA",Low,0
+"San Ramon, CA, USA",Medium,2
+"San Ramon, CA, USA",High,0
+"San Ramon, CA, USA",Very High,0
+"San Ramon, CA, USA",Ultra High,0
+"Sandy, UT, USA",Low,1
+"Sandy, UT, USA",Medium,0
+"Sandy, UT, USA",High,0
+"Sandy, UT, USA",Very High,0
+"Sandy, UT, USA",Ultra High,0
+"Santa Ana, CA, US",Low,1
+"Santa Ana, CA, US",Medium,0
+"Santa Ana, CA, US",High,0
+"Santa Ana, CA, US",Very High,0
+"Santa Ana, CA, US",Ultra High,0
+"Santa Ana, CA, USA",Low,1
+"Santa Ana, CA, USA",Medium,3
+"Santa Ana, CA, USA",High,0
+"Santa Ana, CA, USA",Very High,0
+"Santa Ana, CA, USA",Ultra High,0
+"Santa Barbara, CA, USA",Low,0
+"Santa Barbara, CA, USA",Medium,0
+"Santa Barbara, CA, USA",High,1
+"Santa Barbara, CA, USA",Very High,0
+"Santa Barbara, CA, USA",Ultra High,0
+"Santa Clara, CA, USA",Low,0
+"Santa Clara, CA, USA",Medium,4
+"Santa Clara, CA, USA",High,1
+"Santa Clara, CA, USA",Very High,0
+"Santa Clara, CA, USA",Ultra High,0
+"Santa Clarita, CA, USA",Low,0
+"Santa Clarita, CA, USA",Medium,1
+"Santa Clarita, CA, USA",High,0
+"Santa Clarita, CA, USA",Very High,0
+"Santa Clarita, CA, USA",Ultra High,0
+"Santa Fe, NM, US",Low,1
+"Santa Fe, NM, US",Medium,0
+"Santa Fe, NM, US",High,0
+"Santa Fe, NM, US",Very High,0
+"Santa Fe, NM, US",Ultra High,0
+"Santa Fe, NM, USA",Low,1
+"Santa Fe, NM, USA",Medium,0
+"Santa Fe, NM, USA",High,0
+"Santa Fe, NM, USA",Very High,0
+"Santa Fe, NM, USA",Ultra High,0
+"Santa Monica, CA",Low,0
+"Santa Monica, CA",Medium,0
+"Santa Monica, CA",High,1
+"Santa Monica, CA",Very High,0
+"Santa Monica, CA",Ultra High,0
+"Santa Monica, CA, USA",Low,1
+"Santa Monica, CA, USA",Medium,0
+"Santa Monica, CA, USA",High,0
+"Santa Monica, CA, USA",Very High,0
+"Santa Monica, CA, USA",Ultra High,0
+"Santa Rosa, CA, USA",Low,2
+"Santa Rosa, CA, USA",Medium,0
+"Santa Rosa, CA, USA",High,0
+"Santa Rosa, CA, USA",Very High,0
+"Santa Rosa, CA, USA",Ultra High,0
+"Sarasota, FL, US",Low,0
+"Sarasota, FL, US",Medium,1
+"Sarasota, FL, US",High,0
+"Sarasota, FL, US",Very High,0
+"Sarasota, FL, US",Ultra High,0
+"Saratoga Springs, NY, US",Low,0
+"Saratoga Springs, NY, US",Medium,1
+"Saratoga Springs, NY, US",High,0
+"Saratoga Springs, NY, US",Very High,0
+"Saratoga Springs, NY, US",Ultra High,0
+"Saratoga Springs, NY, USA",Low,0
+"Saratoga Springs, NY, USA",Medium,1
+"Saratoga Springs, NY, USA",High,0
+"Saratoga Springs, NY, USA",Very High,0
+"Saratoga Springs, NY, USA",Ultra High,0
+"Savannah, GA",Low,0
+"Savannah, GA",Medium,1
+"Savannah, GA",High,0
+"Savannah, GA",Very High,0
+"Savannah, GA",Ultra High,0
+"Savannah, GA, US",Low,0
+"Savannah, GA, US",Medium,2
+"Savannah, GA, US",High,0
+"Savannah, GA, US",Very High,0
+"Savannah, GA, US",Ultra High,0
+"Savannah, GA, USA",Low,0
+"Savannah, GA, USA",Medium,1
+"Savannah, GA, USA",High,0
+"Savannah, GA, USA",Very High,0
+"Savannah, GA, USA",Ultra High,0
+"Scarborough, ME",Low,0
+"Scarborough, ME",Medium,1
+"Scarborough, ME",High,0
+"Scarborough, ME",Very High,0
+"Scarborough, ME",Ultra High,0
+"Schaumburg, IL",Low,0
+"Schaumburg, IL",Medium,2
+"Schaumburg, IL",High,0
+"Schaumburg, IL",Very High,0
+"Schaumburg, IL",Ultra High,0
+"Schaumburg, IL, US",Low,0
+"Schaumburg, IL, US",Medium,1
+"Schaumburg, IL, US",High,0
+"Schaumburg, IL, US",Very High,0
+"Schaumburg, IL, US",Ultra High,0
+"Schenectady, NY",Low,0
+"Schenectady, NY",Medium,2
+"Schenectady, NY",High,0
+"Schenectady, NY",Very High,0
+"Schenectady, NY",Ultra High,0
+"Scott AFB, IL, US",Low,0
+"Scott AFB, IL, US",Medium,1
+"Scott AFB, IL, US",High,0
+"Scott AFB, IL, US",Very High,0
+"Scott AFB, IL, US",Ultra High,0
+"Scott Air Force Base, IL",Low,0
+"Scott Air Force Base, IL",Medium,1
+"Scott Air Force Base, IL",High,0
+"Scott Air Force Base, IL",Very High,0
+"Scott Air Force Base, IL",Ultra High,0
+"Scottsdale, AZ",Low,0
+"Scottsdale, AZ",Medium,1
+"Scottsdale, AZ",High,0
+"Scottsdale, AZ",Very High,0
+"Scottsdale, AZ",Ultra High,0
+"Scottsdale, AZ, US",Low,0
+"Scottsdale, AZ, US",Medium,2
+"Scottsdale, AZ, US",High,0
+"Scottsdale, AZ, US",Very High,0
+"Scottsdale, AZ, US",Ultra High,0
+"Scottsdale, AZ, USA",Low,0
+"Scottsdale, AZ, USA",Medium,3
+"Scottsdale, AZ, USA",High,1
+"Scottsdale, AZ, USA",Very High,0
+"Scottsdale, AZ, USA",Ultra High,0
+"Seabrook, NH",Low,1
+"Seabrook, NH",Medium,0
+"Seabrook, NH",High,0
+"Seabrook, NH",Very High,0
+"Seabrook, NH",Ultra High,0
+"Seabrook, NH, US",Low,0
+"Seabrook, NH, US",Medium,1
+"Seabrook, NH, US",High,0
+"Seabrook, NH, US",Very High,0
+"Seabrook, NH, US",Ultra High,0
+"Seattle, WA",Low,2
+"Seattle, WA",Medium,1
+"Seattle, WA",High,4
+"Seattle, WA",Very High,1
+"Seattle, WA",Ultra High,0
+"Seattle, WA, US",Low,0
+"Seattle, WA, US",Medium,1
+"Seattle, WA, US",High,9
+"Seattle, WA, US",Very High,2
+"Seattle, WA, US",Ultra High,1
+"Seattle, WA, USA",Low,1
+"Seattle, WA, USA",Medium,13
+"Seattle, WA, USA",High,10
+"Seattle, WA, USA",Very High,0
+"Seattle, WA, USA",Ultra High,0
+"Shreveport, LA",Low,0
+"Shreveport, LA",Medium,1
+"Shreveport, LA",High,0
+"Shreveport, LA",Very High,0
+"Shreveport, LA",Ultra High,0
+"Sierra Madre, CA, USA",Low,0
+"Sierra Madre, CA, USA",Medium,1
+"Sierra Madre, CA, USA",High,0
+"Sierra Madre, CA, USA",Very High,0
+"Sierra Madre, CA, USA",Ultra High,0
+"Siloam Springs, AR",Low,0
+"Siloam Springs, AR",Medium,1
+"Siloam Springs, AR",High,0
+"Siloam Springs, AR",Very High,0
+"Siloam Springs, AR",Ultra High,0
+"Siloam Springs, AR, US",Low,0
+"Siloam Springs, AR, US",Medium,1
+"Siloam Springs, AR, US",High,0
+"Siloam Springs, AR, US",Very High,0
+"Siloam Springs, AR, US",Ultra High,0
+"Silverdale, WA, USA",Low,0
+"Silverdale, WA, USA",Medium,0
+"Silverdale, WA, USA",High,1
+"Silverdale, WA, USA",Very High,0
+"Silverdale, WA, USA",Ultra High,0
+"Simi Valley, CA",Low,1
+"Simi Valley, CA",Medium,0
+"Simi Valley, CA",High,0
+"Simi Valley, CA",Very High,0
+"Simi Valley, CA",Ultra High,0
+"Simi Valley, CA, US",Low,1
+"Simi Valley, CA, US",Medium,0
+"Simi Valley, CA, US",High,0
+"Simi Valley, CA, US",Very High,0
+"Simi Valley, CA, US",Ultra High,0
+"Simi Valley, CA, USA",Low,1
+"Simi Valley, CA, USA",Medium,0
+"Simi Valley, CA, USA",High,0
+"Simi Valley, CA, USA",Very High,0
+"Simi Valley, CA, USA",Ultra High,0
+"Sioux Falls, SD, USA",Low,0
+"Sioux Falls, SD, USA",Medium,1
+"Sioux Falls, SD, USA",High,0
+"Sioux Falls, SD, USA",Very High,0
+"Sioux Falls, SD, USA",Ultra High,0
+"Smithfield, RI",Low,0
+"Smithfield, RI",Medium,1
+"Smithfield, RI",High,0
+"Smithfield, RI",Very High,0
+"Smithfield, RI",Ultra High,0
+"Somerset, NJ, US",Low,1
+"Somerset, NJ, US",Medium,0
+"Somerset, NJ, US",High,0
+"Somerset, NJ, US",Very High,0
+"Somerset, NJ, US",Ultra High,0
+"Souderton, PA",Low,0
+"Souderton, PA",Medium,1
+"Souderton, PA",High,0
+"Souderton, PA",Very High,0
+"Souderton, PA",Ultra High,0
+"South Jordan, UT",Low,1
+"South Jordan, UT",Medium,0
+"South Jordan, UT",High,0
+"South Jordan, UT",Very High,0
+"South Jordan, UT",Ultra High,0
+"South Jordan, UT, USA",Low,1
+"South Jordan, UT, USA",Medium,3
+"South Jordan, UT, USA",High,0
+"South Jordan, UT, USA",Very High,0
+"South Jordan, UT, USA",Ultra High,0
+"South San Francisco, CA",Low,1
+"South San Francisco, CA",Medium,0
+"South San Francisco, CA",High,0
+"South San Francisco, CA",Very High,0
+"South San Francisco, CA",Ultra High,0
+"South San Francisco, CA, US",Low,1
+"South San Francisco, CA, US",Medium,0
+"South San Francisco, CA, US",High,0
+"South San Francisco, CA, US",Very High,0
+"South San Francisco, CA, US",Ultra High,0
+"South San Francisco, CA, USA",Low,0
+"South San Francisco, CA, USA",Medium,3
+"South San Francisco, CA, USA",High,0
+"South San Francisco, CA, USA",Very High,0
+"South San Francisco, CA, USA",Ultra High,0
+"Southaven, MS",Low,0
+"Southaven, MS",Medium,0
+"Southaven, MS",High,1
+"Southaven, MS",Very High,0
+"Southaven, MS",Ultra High,0
+"Southington, CT, USA",Low,0
+"Southington, CT, USA",Medium,1
+"Southington, CT, USA",High,0
+"Southington, CT, USA",Very High,0
+"Southington, CT, USA",Ultra High,0
+"Spanish Springs, NV, US",Low,0
+"Spanish Springs, NV, US",Medium,1
+"Spanish Springs, NV, US",High,0
+"Spanish Springs, NV, US",Very High,0
+"Spanish Springs, NV, US",Ultra High,0
+"Sparks, NV",Low,0
+"Sparks, NV",Medium,1
+"Sparks, NV",High,0
+"Sparks, NV",Very High,0
+"Sparks, NV",Ultra High,0
+"Sparks, NV, US",Low,0
+"Sparks, NV, US",Medium,1
+"Sparks, NV, US",High,0
+"Sparks, NV, US",Very High,0
+"Sparks, NV, US",Ultra High,0
+"Sparks, NV, USA",Low,1
+"Sparks, NV, USA",Medium,0
+"Sparks, NV, USA",High,0
+"Sparks, NV, USA",Very High,0
+"Sparks, NV, USA",Ultra High,0
+"Spartanburg, SC, US",Low,0
+"Spartanburg, SC, US",Medium,1
+"Spartanburg, SC, US",High,0
+"Spartanburg, SC, US",Very High,0
+"Spartanburg, SC, US",Ultra High,0
+"Spokane, WA, US",Low,0
+"Spokane, WA, US",Medium,0
+"Spokane, WA, US",High,1
+"Spokane, WA, US",Very High,0
+"Spokane, WA, US",Ultra High,0
+"Spotsylvania, VA, USA",Low,0
+"Spotsylvania, VA, USA",Medium,1
+"Spotsylvania, VA, USA",High,0
+"Spotsylvania, VA, USA",Very High,0
+"Spotsylvania, VA, USA",Ultra High,0
+"Spring Valley, NV, USA",Low,1
+"Spring Valley, NV, USA",Medium,0
+"Spring Valley, NV, USA",High,0
+"Spring Valley, NV, USA",Very High,0
+"Spring Valley, NV, USA",Ultra High,0
+"Spring, TX",Low,0
+"Spring, TX",Medium,0
+"Spring, TX",High,1
+"Spring, TX",Very High,0
+"Spring, TX",Ultra High,0
+"Spring, TX, USA",Low,0
+"Spring, TX, USA",Medium,1
+"Spring, TX, USA",High,0
+"Spring, TX, USA",Very High,0
+"Spring, TX, USA",Ultra High,0
+"Springfield, MO, USA",Low,0
+"Springfield, MO, USA",Medium,1
+"Springfield, MO, USA",High,0
+"Springfield, MO, USA",Very High,0
+"Springfield, MO, USA",Ultra High,0
+"Springfield, OH",Low,0
+"Springfield, OH",Medium,1
+"Springfield, OH",High,0
+"Springfield, OH",Very High,0
+"Springfield, OH",Ultra High,0
+"Springfield, OH, US",Low,0
+"Springfield, OH, US",Medium,1
+"Springfield, OH, US",High,0
+"Springfield, OH, US",Very High,0
+"Springfield, OH, US",Ultra High,0
+"Springfield, OR, USA",Low,0
+"Springfield, OR, USA",Medium,1
+"Springfield, OR, USA",High,0
+"Springfield, OR, USA",Very High,0
+"Springfield, OR, USA",Ultra High,0
+"St Paul, MN",Low,1
+"St Paul, MN",Medium,0
+"St Paul, MN",High,0
+"St Paul, MN",Very High,0
+"St Paul, MN",Ultra High,0
+"St. Louis, MO, US",Low,0
+"St. Louis, MO, US",Medium,3
+"St. Louis, MO, US",High,2
+"St. Louis, MO, US",Very High,0
+"St. Louis, MO, US",Ultra High,0
+"St. Petersburg, FL",Low,0
+"St. Petersburg, FL",Medium,1
+"St. Petersburg, FL",High,0
+"St. Petersburg, FL",Very High,0
+"St. Petersburg, FL",Ultra High,0
+"Stafford, VA",Low,0
+"Stafford, VA",Medium,2
+"Stafford, VA",High,0
+"Stafford, VA",Very High,0
+"Stafford, VA",Ultra High,0
+"Stamford, CT, US",Low,0
+"Stamford, CT, US",Medium,1
+"Stamford, CT, US",High,0
+"Stamford, CT, US",Very High,0
+"Stamford, CT, US",Ultra High,0
+"Stanford, CA, USA",Low,2
+"Stanford, CA, USA",Medium,0
+"Stanford, CA, USA",High,0
+"Stanford, CA, USA",Very High,0
+"Stanford, CA, USA",Ultra High,0
+"Stark, NH",Low,0
+"Stark, NH",Medium,1
+"Stark, NH",High,0
+"Stark, NH",Very High,0
+"Stark, NH",Ultra High,0
+"State College, PA, US",Low,0
+"State College, PA, US",Medium,1
+"State College, PA, US",High,0
+"State College, PA, US",Very High,0
+"State College, PA, US",Ultra High,0
+"State Farm, VA",Low,0
+"State Farm, VA",Medium,0
+"State Farm, VA",High,1
+"State Farm, VA",Very High,0
+"State Farm, VA",Ultra High,0
+"Stennis Space Center, MS, US",Low,0
+"Stennis Space Center, MS, US",Medium,1
+"Stennis Space Center, MS, US",High,0
+"Stennis Space Center, MS, US",Very High,0
+"Stennis Space Center, MS, US",Ultra High,0
+"Stevens Point, WI, USA",Low,0
+"Stevens Point, WI, USA",Medium,1
+"Stevens Point, WI, USA",High,0
+"Stevens Point, WI, USA",Very High,0
+"Stevens Point, WI, USA",Ultra High,0
+"Stratford, CT",Low,0
+"Stratford, CT",Medium,1
+"Stratford, CT",High,0
+"Stratford, CT",Very High,0
+"Stratford, CT",Ultra High,0
+"Strongsville, OH, US",Low,0
+"Strongsville, OH, US",Medium,1
+"Strongsville, OH, US",High,0
+"Strongsville, OH, US",Very High,0
+"Strongsville, OH, US",Ultra High,0
+"Stuart, FL, USA",Low,0
+"Stuart, FL, USA",Medium,1
+"Stuart, FL, USA",High,0
+"Stuart, FL, USA",Very High,0
+"Stuart, FL, USA",Ultra High,0
+"Suffolk, VA",Low,0
+"Suffolk, VA",Medium,0
+"Suffolk, VA",High,1
+"Suffolk, VA",Very High,0
+"Suffolk, VA",Ultra High,0
+"Suffolk, VA, US",Low,0
+"Suffolk, VA, US",Medium,0
+"Suffolk, VA, US",High,1
+"Suffolk, VA, US",Very High,0
+"Suffolk, VA, US",Ultra High,0
+"Sugar Land, TX",Low,1
+"Sugar Land, TX",Medium,0
+"Sugar Land, TX",High,0
+"Sugar Land, TX",Very High,0
+"Sugar Land, TX",Ultra High,0
+"Sugar Land, TX, US",Low,1
+"Sugar Land, TX, US",Medium,0
+"Sugar Land, TX, US",High,0
+"Sugar Land, TX, US",Very High,0
+"Sugar Land, TX, US",Ultra High,0
+"Sunnyvale, CA",Low,1
+"Sunnyvale, CA",Medium,0
+"Sunnyvale, CA",High,2
+"Sunnyvale, CA",Very High,0
+"Sunnyvale, CA",Ultra High,0
+"Sunnyvale, CA, US",Low,0
+"Sunnyvale, CA, US",Medium,0
+"Sunnyvale, CA, US",High,1
+"Sunnyvale, CA, US",Very High,1
+"Sunnyvale, CA, US",Ultra High,0
+"Sunnyvale, CA, USA",Low,0
+"Sunnyvale, CA, USA",Medium,3
+"Sunnyvale, CA, USA",High,0
+"Sunnyvale, CA, USA",Very High,0
+"Sunnyvale, CA, USA",Ultra High,0
+"Surprise, AZ",Low,0
+"Surprise, AZ",Medium,1
+"Surprise, AZ",High,0
+"Surprise, AZ",Very High,0
+"Surprise, AZ",Ultra High,0
+"Surprise, AZ, USA",Low,0
+"Surprise, AZ, USA",Medium,3
+"Surprise, AZ, USA",High,0
+"Surprise, AZ, USA",Very High,0
+"Surprise, AZ, USA",Ultra High,0
+"Suwanee, GA",Low,0
+"Suwanee, GA",Medium,1
+"Suwanee, GA",High,0
+"Suwanee, GA",Very High,0
+"Suwanee, GA",Ultra High,0
+"Suwanee, GA, USA",Low,0
+"Suwanee, GA, USA",Medium,1
+"Suwanee, GA, USA",High,0
+"Suwanee, GA, USA",Very High,0
+"Suwanee, GA, USA",Ultra High,0
+"TN, US",Low,0
+"TN, US",Medium,1
+"TN, US",High,0
+"TN, US",Very High,0
+"TN, US",Ultra High,0
+"TX, US",Low,0
+"TX, US",Medium,1
+"TX, US",High,0
+"TX, US",Very High,0
+"TX, US",Ultra High,0
+"Tacoma, WA, USA",Low,2
+"Tacoma, WA, USA",Medium,1
+"Tacoma, WA, USA",High,0
+"Tacoma, WA, USA",Very High,0
+"Tacoma, WA, USA",Ultra High,0
+"Tallahassee, FL",Low,3
+"Tallahassee, FL",Medium,0
+"Tallahassee, FL",High,0
+"Tallahassee, FL",Very High,0
+"Tallahassee, FL",Ultra High,0
+"Tallahassee, FL, US",Low,0
+"Tallahassee, FL, US",Medium,2
+"Tallahassee, FL, US",High,1
+"Tallahassee, FL, US",Very High,0
+"Tallahassee, FL, US",Ultra High,0
+"Tampa, FL",Low,1
+"Tampa, FL",Medium,3
+"Tampa, FL",High,1
+"Tampa, FL",Very High,0
+"Tampa, FL",Ultra High,0
+"Tampa, FL, US",Low,0
+"Tampa, FL, US",Medium,4
+"Tampa, FL, US",High,7
+"Tampa, FL, US",Very High,0
+"Tampa, FL, US",Ultra High,0
+"Tarrant County, TX, USA",Low,1
+"Tarrant County, TX, USA",Medium,0
+"Tarrant County, TX, USA",High,0
+"Tarrant County, TX, USA",Very High,0
+"Tarrant County, TX, USA",Ultra High,0
+"Taylor, TX",Low,0
+"Taylor, TX",Medium,1
+"Taylor, TX",High,0
+"Taylor, TX",Very High,0
+"Taylor, TX",Ultra High,0
+"Taylor, TX, US",Low,0
+"Taylor, TX, US",Medium,1
+"Taylor, TX, US",High,0
+"Taylor, TX, US",Very High,0
+"Taylor, TX, US",Ultra High,0
+"Temecula, CA, USA",Low,0
+"Temecula, CA, USA",Medium,3
+"Temecula, CA, USA",High,0
+"Temecula, CA, USA",Very High,0
+"Temecula, CA, USA",Ultra High,0
+"Tempe, AZ",Low,3
+"Tempe, AZ",Medium,2
+"Tempe, AZ",High,0
+"Tempe, AZ",Very High,0
+"Tempe, AZ",Ultra High,0
+"Tempe, AZ, US",Low,0
+"Tempe, AZ, US",Medium,1
+"Tempe, AZ, US",High,0
+"Tempe, AZ, US",Very High,0
+"Tempe, AZ, US",Ultra High,0
+"Tempe, AZ, USA",Low,1
+"Tempe, AZ, USA",Medium,3
+"Tempe, AZ, USA",High,0
+"Tempe, AZ, USA",Very High,0
+"Tempe, AZ, USA",Ultra High,0
+"Temple, TX",Low,0
+"Temple, TX",Medium,2
+"Temple, TX",High,0
+"Temple, TX",Very High,0
+"Temple, TX",Ultra High,0
+Tennessee,Low,0
+Tennessee,Medium,0
+Tennessee,High,1
+Tennessee,Very High,0
+Tennessee,Ultra High,0
+"The Springs, CA, USA",Low,0
+"The Springs, CA, USA",Medium,1
+"The Springs, CA, USA",High,0
+"The Springs, CA, USA",Very High,0
+"The Springs, CA, USA",Ultra High,0
+"Thornton, CO, US",Low,0
+"Thornton, CO, US",Medium,0
+"Thornton, CO, US",High,1
+"Thornton, CO, US",Very High,0
+"Thornton, CO, US",Ultra High,0
+"Thousand Oaks, CA, USA",Low,0
+"Thousand Oaks, CA, USA",Medium,3
+"Thousand Oaks, CA, USA",High,2
+"Thousand Oaks, CA, USA",Very High,0
+"Thousand Oaks, CA, USA",Ultra High,0
+"Titusville, NJ, US",Low,0
+"Titusville, NJ, US",Medium,0
+"Titusville, NJ, US",High,1
+"Titusville, NJ, US",Very High,0
+"Titusville, NJ, US",Ultra High,0
+"Topeka, KS",Low,0
+"Topeka, KS",Medium,2
+"Topeka, KS",High,0
+"Topeka, KS",Very High,0
+"Topeka, KS",Ultra High,0
+"Torrance, CA, USA",Low,0
+"Torrance, CA, USA",Medium,2
+"Torrance, CA, USA",High,1
+"Torrance, CA, USA",Very High,0
+"Torrance, CA, USA",Ultra High,0
+"Tracy, CA, USA",Low,0
+"Tracy, CA, USA",Medium,1
+"Tracy, CA, USA",High,0
+"Tracy, CA, USA",Very High,0
+"Tracy, CA, USA",Ultra High,0
+"Tredyffrin, PA, US",Low,0
+"Tredyffrin, PA, US",Medium,1
+"Tredyffrin, PA, US",High,0
+"Tredyffrin, PA, US",Very High,0
+"Tredyffrin, PA, US",Ultra High,0
+"Troy, MI",Low,0
+"Troy, MI",Medium,1
+"Troy, MI",High,0
+"Troy, MI",Very High,0
+"Troy, MI",Ultra High,0
+"Troy, MI, US",Low,0
+"Troy, MI, US",Medium,1
+"Troy, MI, US",High,0
+"Troy, MI, US",Very High,0
+"Troy, MI, US",Ultra High,0
+"Troy, MI, USA",Low,0
+"Troy, MI, USA",Medium,1
+"Troy, MI, USA",High,0
+"Troy, MI, USA",Very High,0
+"Troy, MI, USA",Ultra High,0
+"Tualatin, OR, US",Low,0
+"Tualatin, OR, US",Medium,0
+"Tualatin, OR, US",High,1
+"Tualatin, OR, US",Very High,0
+"Tualatin, OR, US",Ultra High,0
+"Tualatin, OR, USA",Low,0
+"Tualatin, OR, USA",Medium,3
+"Tualatin, OR, USA",High,0
+"Tualatin, OR, USA",Very High,0
+"Tualatin, OR, USA",Ultra High,0
+"Tucson, AZ, USA",Low,0
+"Tucson, AZ, USA",Medium,2
+"Tucson, AZ, USA",High,0
+"Tucson, AZ, USA",Very High,0
+"Tucson, AZ, USA",Ultra High,0
+"Tulsa, OK",Low,0
+"Tulsa, OK",Medium,1
+"Tulsa, OK",High,0
+"Tulsa, OK",Very High,0
+"Tulsa, OK",Ultra High,0
+"Tulsa, OK, USA",Low,0
+"Tulsa, OK, USA",Medium,3
+"Tulsa, OK, USA",High,0
+"Tulsa, OK, USA",Very High,0
+"Tulsa, OK, USA",Ultra High,0
+"Tyler, TX, USA",Low,1
+"Tyler, TX, USA",Medium,0
+"Tyler, TX, USA",High,0
+"Tyler, TX, USA",Very High,0
+"Tyler, TX, USA",Ultra High,0
+"Tysons Corner, VA",Low,0
+"Tysons Corner, VA",Medium,1
+"Tysons Corner, VA",High,0
+"Tysons Corner, VA",Very High,0
+"Tysons Corner, VA",Ultra High,0
+"Tysons Corner, VA, US",Low,0
+"Tysons Corner, VA, US",Medium,0
+"Tysons Corner, VA, US",High,1
+"Tysons Corner, VA, US",Very High,0
+"Tysons Corner, VA, US",Ultra High,0
+"Tysons, VA",Low,0
+"Tysons, VA",Medium,1
+"Tysons, VA",High,0
+"Tysons, VA",Very High,0
+"Tysons, VA",Ultra High,0
+US,Low,2
+US,Medium,7
+US,High,11
+US,Very High,0
+US,Ultra High,0
+United States,Low,4
+United States,Medium,29
+United States,High,6
+United States,Very High,1
+United States,Ultra High,1
+"Urbandale, IA",Low,0
+"Urbandale, IA",Medium,1
+"Urbandale, IA",High,0
+"Urbandale, IA",Very High,0
+"Urbandale, IA",Ultra High,0
+"Urbandale, IA, USA",Low,0
+"Urbandale, IA, USA",Medium,1
+"Urbandale, IA, USA",High,0
+"Urbandale, IA, USA",Very High,0
+"Urbandale, IA, USA",Ultra High,0
+"VA, US",Low,0
+"VA, US",Medium,1
+"VA, US",High,1
+"VA, US",Very High,0
+"VA, US",Ultra High,0
+"Valencia, CA, USA",Low,0
+"Valencia, CA, USA",Medium,2
+"Valencia, CA, USA",High,0
+"Valencia, CA, USA",Very High,0
+"Valencia, CA, USA",Ultra High,0
+"Vancouver, WA",Low,2
+"Vancouver, WA",Medium,1
+"Vancouver, WA",High,0
+"Vancouver, WA",Very High,0
+"Vancouver, WA",Ultra High,0
+"Vancouver, WA, US",Low,0
+"Vancouver, WA, US",Medium,1
+"Vancouver, WA, US",High,0
+"Vancouver, WA, US",Very High,0
+"Vancouver, WA, US",Ultra High,0
+"Vancouver, WA, USA",Low,1
+"Vancouver, WA, USA",Medium,3
+"Vancouver, WA, USA",High,0
+"Vancouver, WA, USA",Very High,1
+"Vancouver, WA, USA",Ultra High,0
+"Ventura, CA",Low,0
+"Ventura, CA",Medium,0
+"Ventura, CA",High,1
+"Ventura, CA",Very High,0
+"Ventura, CA",Ultra High,0
+"Ventura, CA, USA",Low,1
+"Ventura, CA, USA",Medium,1
+"Ventura, CA, USA",High,0
+"Ventura, CA, USA",Very High,0
+"Ventura, CA, USA",Ultra High,0
+"Verona, NY, USA",Low,0
+"Verona, NY, USA",Medium,2
+"Verona, NY, USA",High,0
+"Verona, NY, USA",Very High,0
+"Verona, NY, USA",Ultra High,0
+"Vienna, VA",Low,1
+"Vienna, VA",Medium,0
+"Vienna, VA",High,1
+"Vienna, VA",Very High,0
+"Vienna, VA",Ultra High,0
+"Vienna, VA, US",Low,0
+"Vienna, VA, US",Medium,0
+"Vienna, VA, US",High,1
+"Vienna, VA, US",Very High,0
+"Vienna, VA, US",Ultra High,0
+"Virginia Beach, VA, USA",Low,0
+"Virginia Beach, VA, USA",Medium,0
+"Virginia Beach, VA, USA",High,1
+"Virginia Beach, VA, USA",Very High,0
+"Virginia Beach, VA, USA",Ultra High,0
+"WA, US",Low,0
+"WA, US",Medium,0
+"WA, US",High,1
+"WA, US",Very High,0
+"WA, US",Ultra High,0
+"WI, US",Low,0
+"WI, US",Medium,1
+"WI, US",High,0
+"WI, US",Very High,0
+"WI, US",Ultra High,0
+"Wake Forest, NC",Low,0
+"Wake Forest, NC",Medium,1
+"Wake Forest, NC",High,0
+"Wake Forest, NC",Very High,0
+"Wake Forest, NC",Ultra High,0
+"Wall Township, NJ",Low,2
+"Wall Township, NJ",Medium,0
+"Wall Township, NJ",High,0
+"Wall Township, NJ",Very High,0
+"Wall Township, NJ",Ultra High,0
+"Waller, TX, USA",Low,0
+"Waller, TX, USA",Medium,1
+"Waller, TX, USA",High,0
+"Waller, TX, USA",Very High,0
+"Waller, TX, USA",Ultra High,0
+"Walnut Creek, CA",Low,2
+"Walnut Creek, CA",Medium,1
+"Walnut Creek, CA",High,0
+"Walnut Creek, CA",Very High,0
+"Walnut Creek, CA",Ultra High,0
+"Walnut Creek, CA, US",Low,3
+"Walnut Creek, CA, US",Medium,0
+"Walnut Creek, CA, US",High,0
+"Walnut Creek, CA, US",Very High,0
+"Walnut Creek, CA, US",Ultra High,0
+"Walnut Creek, CA, USA",Low,0
+"Walnut Creek, CA, USA",Medium,2
+"Walnut Creek, CA, USA",High,1
+"Walnut Creek, CA, USA",Very High,0
+"Walnut Creek, CA, USA",Ultra High,0
+"Walnut, CA, USA",Low,1
+"Walnut, CA, USA",Medium,0
+"Walnut, CA, USA",High,0
+"Walnut, CA, USA",Very High,0
+"Walnut, CA, USA",Ultra High,0
+"Waltham, MA",Low,0
+"Waltham, MA",Medium,1
+"Waltham, MA",High,0
+"Waltham, MA",Very High,0
+"Waltham, MA",Ultra High,0
+"Warner Robins, GA",Low,0
+"Warner Robins, GA",Medium,1
+"Warner Robins, GA",High,0
+"Warner Robins, GA",Very High,0
+"Warner Robins, GA",Ultra High,0
+"Warren, MI, US",Low,0
+"Warren, MI, US",Medium,0
+"Warren, MI, US",High,1
+"Warren, MI, US",Very High,0
+"Warren, MI, US",Ultra High,0
+"Warrendale, PA",Low,1
+"Warrendale, PA",Medium,0
+"Warrendale, PA",High,0
+"Warrendale, PA",Very High,0
+"Warrendale, PA",Ultra High,0
+"Warrenville, IL",Low,0
+"Warrenville, IL",Medium,1
+"Warrenville, IL",High,0
+"Warrenville, IL",Very High,0
+"Warrenville, IL",Ultra High,0
+"Warrenville, IL, US",Low,0
+"Warrenville, IL, US",Medium,2
+"Warrenville, IL, US",High,0
+"Warrenville, IL, US",Very High,0
+"Warrenville, IL, US",Ultra High,0
+"Warrenville, IL, USA",Low,0
+"Warrenville, IL, USA",Medium,1
+"Warrenville, IL, USA",High,0
+"Warrenville, IL, USA",Very High,0
+"Warrenville, IL, USA",Ultra High,0
+"Washington Navy Yard, DC, US",Low,0
+"Washington Navy Yard, DC, US",Medium,0
+"Washington Navy Yard, DC, US",High,1
+"Washington Navy Yard, DC, US",Very High,0
+"Washington Navy Yard, DC, US",Ultra High,0
+"Washington, DC",Low,3
+"Washington, DC",Medium,11
+"Washington, DC",High,5
+"Washington, DC",Very High,3
+"Washington, DC",Ultra High,0
+"Washington, DC, US",Low,2
+"Washington, DC, US",Medium,5
+"Washington, DC, US",High,7
+"Washington, DC, US",Very High,1
+"Washington, DC, US",Ultra High,0
+"Washington, DC, USA",Low,0
+"Washington, DC, USA",Medium,3
+"Washington, DC, USA",High,0
+"Washington, DC, USA",Very High,1
+"Washington, DC, USA",Ultra High,0
+"Waterbury, CT",Low,0
+"Waterbury, CT",Medium,1
+"Waterbury, CT",High,0
+"Waterbury, CT",Very High,0
+"Waterbury, CT",Ultra High,0
+"Waterbury, CT, US",Low,0
+"Waterbury, CT, US",Medium,0
+"Waterbury, CT, US",High,1
+"Waterbury, CT, US",Very High,0
+"Waterbury, CT, US",Ultra High,0
+"Waukegan, IL",Low,0
+"Waukegan, IL",Medium,1
+"Waukegan, IL",High,0
+"Waukegan, IL",Very High,0
+"Waukegan, IL",Ultra High,0
+"Waukegan, IL, US",Low,0
+"Waukegan, IL, US",Medium,0
+"Waukegan, IL, US",High,1
+"Waukegan, IL, US",Very High,0
+"Waukegan, IL, US",Ultra High,0
+"Waukesha, WI, US",Low,0
+"Waukesha, WI, US",Medium,1
+"Waukesha, WI, US",High,0
+"Waukesha, WI, US",Very High,0
+"Waukesha, WI, US",Ultra High,0
+"West Chicago, IL, US",Low,0
+"West Chicago, IL, US",Medium,1
+"West Chicago, IL, US",High,0
+"West Chicago, IL, US",Very High,0
+"West Chicago, IL, US",Ultra High,0
+"West Columbia, SC",Low,0
+"West Columbia, SC",Medium,1
+"West Columbia, SC",High,0
+"West Columbia, SC",Very High,0
+"West Columbia, SC",Ultra High,0
+"West Des Moines, IA",Low,0
+"West Des Moines, IA",Medium,2
+"West Des Moines, IA",High,0
+"West Des Moines, IA",Very High,0
+"West Des Moines, IA",Ultra High,0
+"West Des Moines, IA, US",Low,0
+"West Des Moines, IA, US",Medium,2
+"West Des Moines, IA, US",High,0
+"West Des Moines, IA, US",Very High,0
+"West Des Moines, IA, US",Ultra High,0
+"West Des Moines, IA, USA",Low,0
+"West Des Moines, IA, USA",Medium,1
+"West Des Moines, IA, USA",High,0
+"West Des Moines, IA, USA",Very High,0
+"West Des Moines, IA, USA",Ultra High,0
+"West Palm Beach, FL",Low,0
+"West Palm Beach, FL",Medium,1
+"West Palm Beach, FL",High,0
+"West Palm Beach, FL",Very High,0
+"West Palm Beach, FL",Ultra High,0
+"West Point, PA, US",Low,0
+"West Point, PA, US",Medium,0
+"West Point, PA, US",High,0
+"West Point, PA, US",Very High,0
+"West Point, PA, US",Ultra High,1
+"Westlake, TX, US",Low,0
+"Westlake, TX, US",Medium,2
+"Westlake, TX, US",High,0
+"Westlake, TX, US",Very High,0
+"Westlake, TX, US",Ultra High,0
+"Westminster, CA, USA",Low,0
+"Westminster, CA, USA",Medium,1
+"Westminster, CA, USA",High,0
+"Westminster, CA, USA",Very High,0
+"Westminster, CA, USA",Ultra High,0
+"Whittier, CA",Low,0
+"Whittier, CA",Medium,1
+"Whittier, CA",High,0
+"Whittier, CA",Very High,0
+"Whittier, CA",Ultra High,0
+"Whittier, CA, US",Low,0
+"Whittier, CA, US",Medium,1
+"Whittier, CA, US",High,0
+"Whittier, CA, US",Very High,0
+"Whittier, CA, US",Ultra High,0
+"Whittier, CA, USA",Low,0
+"Whittier, CA, USA",Medium,1
+"Whittier, CA, USA",High,0
+"Whittier, CA, USA",Very High,0
+"Whittier, CA, USA",Ultra High,0
+"Wichita, KS, US",Low,0
+"Wichita, KS, US",Medium,0
+"Wichita, KS, US",High,1
+"Wichita, KS, US",Very High,0
+"Wichita, KS, US",Ultra High,0
+"Wichita, KS, USA",Low,0
+"Wichita, KS, USA",Medium,1
+"Wichita, KS, USA",High,0
+"Wichita, KS, USA",Very High,0
+"Wichita, KS, USA",Ultra High,0
+"Williston, VT",Low,1
+"Williston, VT",Medium,0
+"Williston, VT",High,0
+"Williston, VT",Very High,0
+"Williston, VT",Ultra High,0
+"Williston, VT, US",Low,1
+"Williston, VT, US",Medium,0
+"Williston, VT, US",High,0
+"Williston, VT, US",Very High,0
+"Williston, VT, US",Ultra High,0
+"Wilmington, DE",Low,0
+"Wilmington, DE",Medium,1
+"Wilmington, DE",High,0
+"Wilmington, DE",Very High,0
+"Wilmington, DE",Ultra High,0
+"Wilmington, DE, US",Low,0
+"Wilmington, DE, US",Medium,2
+"Wilmington, DE, US",High,0
+"Wilmington, DE, US",Very High,0
+"Wilmington, DE, US",Ultra High,0
+"Wilmington, DE, USA",Low,0
+"Wilmington, DE, USA",Medium,1
+"Wilmington, DE, USA",High,0
+"Wilmington, DE, USA",Very High,0
+"Wilmington, DE, USA",Ultra High,0
+"Wilmington, MA",Low,0
+"Wilmington, MA",Medium,0
+"Wilmington, MA",High,1
+"Wilmington, MA",Very High,0
+"Wilmington, MA",Ultra High,0
+"Winchester, VA",Low,0
+"Winchester, VA",Medium,1
+"Winchester, VA",High,0
+"Winchester, VA",Very High,0
+"Winchester, VA",Ultra High,0
+"Windsor, CT",Low,0
+"Windsor, CT",Medium,1
+"Windsor, CT",High,0
+"Windsor, CT",Very High,0
+"Windsor, CT",Ultra High,0
+"Windsor, CT, US",Low,0
+"Windsor, CT, US",Medium,2
+"Windsor, CT, US",High,0
+"Windsor, CT, US",Very High,0
+"Windsor, CT, US",Ultra High,0
+"Windsor, CT, USA",Low,0
+"Windsor, CT, USA",Medium,1
+"Windsor, CT, USA",High,0
+"Windsor, CT, USA",Very High,0
+"Windsor, CT, USA",Ultra High,0
+"Winston-Salem, NC",Low,1
+"Winston-Salem, NC",Medium,1
+"Winston-Salem, NC",High,0
+"Winston-Salem, NC",Very High,0
+"Winston-Salem, NC",Ultra High,0
+"Winston-Salem, NC, US",Low,1
+"Winston-Salem, NC, US",Medium,0
+"Winston-Salem, NC, US",High,0
+"Winston-Salem, NC, US",Very High,0
+"Winston-Salem, NC, US",Ultra High,0
+"Woodbridge, NJ",Low,1
+"Woodbridge, NJ",Medium,1
+"Woodbridge, NJ",High,0
+"Woodbridge, NJ",Very High,0
+"Woodbridge, NJ",Ultra High,0
+"Woodbridge, NJ, US",Low,1
+"Woodbridge, NJ, US",Medium,0
+"Woodbridge, NJ, US",High,0
+"Woodbridge, NJ, US",Very High,0
+"Woodbridge, NJ, US",Ultra High,0
+"Woodland Hills, CA",Low,0
+"Woodland Hills, CA",Medium,1
+"Woodland Hills, CA",High,0
+"Woodland Hills, CA",Very High,0
+"Woodland Hills, CA",Ultra High,0
+"Woodward, OK, USA",Low,0
+"Woodward, OK, USA",Medium,1
+"Woodward, OK, USA",High,0
+"Woodward, OK, USA",Very High,0
+"Woodward, OK, USA",Ultra High,0
+"Worcester, MA",Low,0
+"Worcester, MA",Medium,1
+"Worcester, MA",High,0
+"Worcester, MA",Very High,0
+"Worcester, MA",Ultra High,0
+"Worcester, MA, US",Low,0
+"Worcester, MA, US",Medium,1
+"Worcester, MA, US",High,0
+"Worcester, MA, US",Very High,0
+"Worcester, MA, US",Ultra High,0
+"Yakima, WA, USA",Low,0
+"Yakima, WA, USA",Medium,1
+"Yakima, WA, USA",High,0
+"Yakima, WA, USA",Very High,0
+"Yakima, WA, USA",Ultra High,0
+"Youngstown, OH",Low,1
+"Youngstown, OH",Medium,0
+"Youngstown, OH",High,0
+"Youngstown, OH",Very High,0
+"Youngstown, OH",Ultra High,0
